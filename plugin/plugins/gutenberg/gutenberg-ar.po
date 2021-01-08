@@ -1,0 +1,1736 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-17 15:21:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#. translators: %s: "beta" label.
+#: gutenberg.php:111
+msgid "Site Editor %s"
+msgstr "محرر الموقع %s"
+
+#: lib/class-wp-rest-menu-items-controller.php:92
+msgid "Whether to bypass Trash and force deletion."
+msgstr "ما إذا كان يجب تخطي سلة المهملات وإجبار الحذف."
+
+#: lib/class-wp-rest-menu-items-controller.php:58
+msgid "The password for the post if it is password protected."
+msgstr "كلمة مرور المقالة إذا كانت محمية بكلمة مرور."
+
+#: lib/class-wp-rest-batch-controller.php:216
+msgid "The handler for the route is invalid"
+msgstr "الـ handler المتعلق بالمسار غير صالح"
+
+#: lib/class-wp-rest-batch-controller.php:143
+#: lib/class-wp-rest-batch-controller.php:249
+msgid "The requested route does not support batch requests."
+msgstr "المسار المطلوب لا يدعم الطلبات بالدفعة."
+
+#: lib/class-wp-rest-batch-controller.php:89
+msgid "Could not parse the path."
+msgstr "تعذر تحليل المسار."
+
+#: lib/class-wp-rest-widgets-controller.php:334
+msgid "Sorry, you are not allowed to manage widgets on this site."
+msgstr "عذرًا، غير مسموح لك بإدارة الودجات على هذا الموقع."
+
+#: lib/class-wp-rest-widget-types-controller.php:365
+msgid "Option name."
+msgstr "اسم الخَيار."
+
+#: lib/class-wp-rest-widget-types-controller.php:358
+msgid "Class name"
+msgstr "اسم الفئة"
+
+#: lib/class-wp-rest-widget-types-controller.php:338
+#: lib/class-wp-rest-widget-types-controller.php:345
+msgid "Unique name identifying the widget type."
+msgstr "اسم فريد يُحدّد نوع الودجت."
+
+#: lib/class-wp-rest-widget-types-controller.php:188
+msgid "Invalid widget type."
+msgstr "نوع الودجت غير صالح."
+
+#: lib/class-wp-rest-widget-types-controller.php:85
+msgid "Widget name."
+msgstr "اسم الودجت."
+
+#: lib/class-wp-rest-menu-items-controller.php:980
+msgid "HTML content to display for this block menu item."
+msgstr "محتوى HTML المراد عرضه لعنصر قائمة المكوّن هذا."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Three"
+msgstr "الفصل الثالث"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Two"
+msgstr "الفصل الثاني"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter One"
+msgstr "الفصل الأول"
+
+#: lib/class-wp-rest-widgets-controller.php:767
+msgid "HTML representation of the widget admin form."
+msgstr "تمثيل HTML لودجت نموذج المسؤول."
+
+#: lib/class-wp-rest-sidebars-controller.php:262
+msgid "Inactive widgets"
+msgstr "ودجات غير فعّالة"
+
+#: lib/patterns/large-header-button.php:10
+msgid "Read now"
+msgstr "اقرأ الآن"
+
+#. translators: 1: Pattern name.
+#: lib/class-wp-block-patterns-registry.php:74
+msgid "Block pattern \"%1$s\" not found."
+msgstr "لم يتم العثور على نمط المكوّن \"%1$s\"."
+
+#: lib/class-wp-block-patterns-registry.php:46
+msgid "Block pattern title must be a string."
+msgstr "عنوان نمط المكوّن ينبغي أن يكون سلسلة نصية."
+
+#: lib/class-wp-rest-widgets-controller.php:773
+msgid "Settings of the widget."
+msgstr "إعدادات الودجت"
+
+#: lib/class-wp-rest-widgets-controller.php:761
+msgid "HTML representation of the widget."
+msgstr "تمثيل HTML للودجت."
+
+#: lib/class-wp-rest-widgets-controller.php:756
+msgid "Number of the widget."
+msgstr "رقم الودجت."
+
+#: lib/class-wp-rest-widgets-controller.php:751
+#: lib/class-wp-rest-widget-types-controller.php:352
+msgid "Description of the widget."
+msgstr "وصف الودجت."
+
+#: lib/class-wp-rest-widgets-controller.php:746
+#: lib/class-wp-rest-widget-types-controller.php:58
+msgid "Name of the widget."
+msgstr "اسم الودجت."
+
+#: lib/class-wp-rest-widgets-controller.php:729
+msgid "Type of widget for the object."
+msgstr "نوع الودجت لهذا الكائن."
+
+#: lib/class-wp-rest-sidebars-controller.php:403
+msgid "Status of sidebar."
+msgstr "حالة الشريط الجانبي."
+
+#: lib/class-wp-rest-sidebars-controller.php:361
+msgid "Description of sidebar."
+msgstr "وصف الشريط الجانبي."
+
+#: lib/class-wp-rest-sidebars-controller.php:354
+msgid "Unique name identifying the sidebar."
+msgstr "اسم فريد يُحدّد الشريط الجانبي."
+
+#: lib/class-wp-rest-sidebars-controller.php:347
+msgid "ID of sidebar."
+msgstr "مُعرف الشريط الجانبي."
+
+#: lib/class-wp-widget-block.php:33
+msgid "Gutenberg block."
+msgstr "مكوّن Gutenberg."
+
+#: lib/full-site-editing/templates-utils.php:16 build/block-library/index.js:36
+msgid "Description"
+msgstr "الوصف"
+
+#: lib/patterns/large-header-button.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with a bright gradient background, a big heading and a filled button."
+msgstr "قسم استعراضي كبير بخلفية متدرّجة مشرقة، وعنوان كبير وزر معبأ."
+
+#: lib/patterns/large-header-button.php:9
+msgid "Large header with a heading and a button "
+msgstr "ترويسة كبيرة مع عنوان و زر"
+
+#: lib/patterns/two-images.php:12
+msgid "An old pencil drawing of Don Quixote and Sancho Panza sitting on their horses, by Wilhelm Marstrand."
+msgstr "رسم قديم بقلم الرصاص لـ Don Quixote و Sancho Panza يمتطيان الخيل، بواسطة Wilhelm Marstrand."
+
+#: lib/patterns/text-two-columns.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text preceded by a long heading."
+msgstr "عمودان للنصّ يسبقها عنوان طويل."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman."
+msgstr "كان ينفق ما تبقى في شراء زوج من الجوخ الرقيق، وتُبّان من المخمل وخُفّين من نفس القماش من أجل أيام الأعياد، وحُلة من أفخر العِهْن (نوع من الصوف) كان يتباهى بها خلال أيام الأسبوع. وكانت تقيم معه جارية (مدبرة منزل) تجاوزت الأربعين، وابنة أخ لم تبلغ العشرين، وصبي للحقل والمدينة للتسوق كان يُسرج البرذون ويستعمل المِنجل. وكان عمر هذا الرجل النبيل يشارف الخمسين، مجدول الخَلْق، ضامر البدن، أعجف الوجه، شديد البُكور، رياضيًا مولعًا بالصيد."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income."
+msgstr "في ناحية من نواحي إقليم المَنْتشا، والتي لا أرغب أن أذكر لها اسمًا، ومن زمن غير بعيد كان يعيش رجل نبيل ممن في مَسْلَحتهم رمح، ولهم تُرسٌ عتيق وبِرْذَوْن ضامر وكلبٌ سَلوقي للتعقيب. كان ينفق ثلاثة أرباع دخله في قِدْرٍ يطهو فيه لحم البقر أكثر من لحم الضأن، سلطة في معظم الليالي، البقايا في أيام السبت، العدس في أيام الجمعة، وزغلول حمام فوق الطعام المعتاد أيام الأحد."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "Which treats of the character and pursuits of the famous gentleman Don Quixote of La Mancha"
+msgstr "في أحوال وأعمال شخصية الرجل الشهير النبيل دون كيخوته دلامَنْتشا"
+
+#: lib/patterns/two-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Two buttons, one filled and one outlined, side by side."
+msgstr "زران، أحدهما مملوء والآخر مُحدد، جنبًا إلى جنب."
+
+#: lib/patterns/two-buttons.php:10
+msgid "Download now"
+msgstr "تنزيل الآن"
+
+#: lib/patterns/large-header.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with an example background image and a heading in the center."
+msgstr "قسم استعراضي كبير مع صورة كخلفية كمثال وعنوان في الوسط."
+
+#: lib/patterns/large-header.php:10
+msgid "Don Quixote"
+msgstr "دون كيخوتي"
+
+#: lib/patterns/large-header.php:9
+msgid "Large header with a heading"
+msgstr "ترويسة كبيرة مع عنوان"
+
+#: lib/patterns/heading-paragraph.php:12
+msgctxt "Block pattern description"
+msgid "A heading preceded by a chapter number, and followed by a paragraph."
+msgstr "عنوان يسبقه رقم فصل، متبوعاً بفقرة."
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge."
+msgstr "فلما تجهزّ بجهازه، لم يشأ أن ينتظر أكثر مما انتظر لتنفيذ ما انتواه. وحثّه على الإسراع اعتقاده أن العالم سيفقد الكثير إذا تأخر، فكم كان يرجو أن ينتقم من مظالم، وأن يصلح من أخطاء وأن يعالج من إهانات، وأن يصحّح من إساءات، وأن يسدد من ديون."
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "Which treats of the first sally the ingenious Don Quixote made from home"
+msgstr "في أول خرْجة (رحلة) للماهر دون كيخوته خرجها من وطنه"
+
+#: lib/patterns/heading-paragraph.php:9
+msgid "Heading and paragraph"
+msgstr "عنوان وفقرة"
+
+#: lib/patterns/three-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Three filled buttons with rounded corners, side by side."
+msgstr "ثلاثة أزرار مملوءة بزوايا مستديرة، جنبًا إلى جنب."
+
+#: lib/patterns/three-buttons.php:10 build/block-library/index.js:16
+msgid "Contact us"
+msgstr "الاتصال بنا"
+
+#: lib/patterns/two-buttons.php:10 lib/patterns/three-buttons.php:10
+msgid "About Cervantes"
+msgstr "عن ثيربانتس"
+
+#: lib/patterns/text-three-columns-buttons.php:12
+msgctxt "Block pattern description"
+msgid "Three small columns of text, each with an outlined button with rounded corners at the bottom."
+msgstr "ثلاثة أعمدة صغيرة للنصّ، لكل منها زر مُحدد مع زوايا مستديرة بالأسفل."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Wherein is related the droll way in which Don Quixote had himself dubbed a knight."
+msgstr "في الطريقة الظريفة التي بها سُلّح دون كيخوته فارساً."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the first sally the ingenious Don Quixote made from home."
+msgstr "في أول خرْجة (رحلة) للماهر دون كيخوته خرجها من وطنه."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the character and pursuits of the famous Don Quixote of La Mancha."
+msgstr "في أحوال وأعمال شخصية الرجل الشهير دون كيخوته دلامَنْتشا."
+
+#: lib/patterns/quote.php:13
+msgctxt "Block pattern description"
+msgid "A quote and citation with an image above, and a separator at the bottom."
+msgstr "اقتباس واستشهاد مع صورة بالأعلى، وفاصل بالأسفل."
+
+#: lib/patterns/quote.php:10
+msgid "— Don Quixote"
+msgstr "— دون كيخوتي"
+
+#: lib/patterns/quote.php:10
+msgid "\"Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.\""
+msgstr "\"هل لك أن ترى هناك، صديقي سانشو! ثلاثون من المردة العتاة الضخام أو أربعون؟ أنا أنوي أن أنازلهم وأسلبهم حياتهم\""
+
+#: lib/patterns/quote.php:10
+msgid "Pencil drawing of Don Quixote"
+msgstr "رسم بقلم الرصاص لـ Don Quixote"
+
+#: lib/patterns/text-two-columns-with-images.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text, each with an image on top."
+msgstr "عمودان للنصّ، لكل منهما صورة بالأعلى."
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like \"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\" or again, \"the high heavens render you deserving of the desert your greatness deserves.\""
+msgstr "ولكن من بينها كلها، كان يرى أن أروعها جميعًا تلك التي وضعها فيليسيانو دي سيلفا الشهير، ذلك أنه كان مأخوذاً بوضوح نثره، وبدت كلماته المعقودة كأنها عقود اللؤلؤ في نظره، خصوصاً حينما يبلغ من قراءته إلى قوله في مواضع عدة من رسائل الغزل والتحدي، حيث أنه في الغالب وجد فقرات مثل: \"إن علة علة العقل التي أصابت عقلي أضعفت عقلي حتى شكوت لعلة من جمالك\" أو قوله: \"إن السماوات العُلى التي تقوّي إلهيتك إلهياً بعون النجوم، وتجعلك مستحقة للحقوق التي تستحقها عظمتك\"."
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "They must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
+msgstr "يجب أن يعرفوا إذن، أن هذا الرجل النبيل المذكور أعلاه، كان يقضي الأوقات التي لا عمل فيها (وفي الغالب طوال العام تقريبًا) في الإنكباب على قراءة كتب الفروسية، بلذة ونهم يبلغان حدًا يجعله يكاد ينسى الخروج للصيد وإدارة ممتلكاته؛ مما حمله حبّ الاستطلاع والإفراط في هذه القراءة على بيع فنائق كثيرة من أجود أراضي القمح من أجل شراء كتب في الفروسية يقرأها. ولهذا اقتنى في منزله منها كل ما استطاع اقتناءه."
+
+#: lib/compat.php:557
+msgid "Reusable Block updated."
+msgstr "تم تحديث المكوّن القابل لإعادة الاستخدام."
+
+#: lib/compat.php:556
+msgid "Reusable Block scheduled."
+msgstr "تمّ جدولة المكوّن القابل لإعادة الاستخدام."
+
+#: lib/compat.php:555
+msgid "Reusable Block reverted to draft."
+msgstr "تمّ إعادة المكوّن القابل لإعادة الاستخدام إلى حالة المسودة."
+
+#: lib/compat.php:554
+msgid "Reusable Block published privately."
+msgstr "تمّ نشر المكوّن القابل لإعادة الاستخدام بشكل خاص."
+
+#: lib/compat.php:553
+msgid "Reusable Block published."
+msgstr "تمّ نشر المكوّن القابل لإعادة الاستخدام."
+
+#: lib/compat.php:552
+msgid "Reusable Blocks list"
+msgstr "قائمة المكوّنات القابلة لإعادة الاستخدام"
+
+#: lib/compat.php:551
+msgid "Reusable Blocks list navigation"
+msgstr "تصفّح قائمة المكوّنات القابلة لإعادة الاستخدام"
+
+#: lib/compat.php:550
+msgid "Filter reusable blocks list"
+msgstr "فرز قائمة المكوّنات القابلة لإعادة الاستخدام"
+
+#: lib/compat.php:549
+msgid "No reusable blocks found in Trash."
+msgstr "لم يتم العثور على مكوّنات قابلة لإعادة الاستخدام في سلة المهملات."
+
+#: lib/compat.php:548
+msgid "No reusable blocks found."
+msgstr "لم يتم العثور على مكوّنات قابلة لإعادة الاستخدام."
+
+#: lib/compat.php:547
+msgid "Search Reusable Blocks"
+msgstr "البحث في المكوّنات القابلة لإعادة الاستخدام"
+
+#: lib/compat.php:546
+msgid "All Reusable Blocks"
+msgstr "جميع المكوّنات القابلة لإعادة الاستخدام"
+
+#: lib/compat.php:545
+msgid "View Reusable Block"
+msgstr "عرض المكوّن القابل لإعادة الاستخدام"
+
+#: lib/compat.php:544
+msgid "Edit Reusable Block"
+msgstr "تحرير المكوّن القابل لإعادة الاستخدام"
+
+#: lib/compat.php:543
+msgid "New Reusable Block"
+msgstr "مكوّن جديد قابل لإعادة الاستخدام "
+
+#: lib/compat.php:542
+msgid "Add New Reusable Block"
+msgstr "إضافة مكوّن جديد قابل لإعادة الاستخدام"
+
+#: lib/compat.php:541
+msgctxt "Reusable Block"
+msgid "Add New"
+msgstr "أضف جديد"
+
+#: lib/compat.php:540
+msgctxt "add new on admin bar"
+msgid "Reusable Block"
+msgstr "مكوّن قابل لإعادة الاستخدام"
+
+#: lib/compat.php:539
+msgctxt "admin menu"
+msgid "Reusable Blocks"
+msgstr "مكوّنات قابلة لإعادة الاستخدام"
+
+#: lib/compat.php:538
+msgctxt "post type singular name"
+msgid "Reusable Block"
+msgstr "مكوّن قابل لإعادة الاستخدام"
+
+#: lib/compat.php:537
+msgctxt "post type general name"
+msgid "Reusable Blocks"
+msgstr "مكوّنات قابلة لإعادة الاستخدام"
+
+#: build/block-library/blocks/site-logo.php:95
+msgid "Site logo."
+msgstr "شعار الموقع."
+
+#: lib/patterns/three-buttons.php:10
+msgid "Books"
+msgstr "الكتب"
+
+#: lib/class-wp-rest-menus-controller.php:171
+msgid "Sorry, you are not allowed to set auto add pages."
+msgstr "عذرًا، غير مسموح لك بتعيين إضافة صفحات تلقائيًا."
+
+#: lib/patterns/text-two-columns-with-images.php:9
+msgid "Two columns of text with images"
+msgstr "عمودان للنصّ مع صور"
+
+#: lib/patterns/two-images.php:11
+msgctxt "Block pattern description"
+msgid "An image gallery with two example images."
+msgstr "معرض صور، مع صورتين كمثال."
+
+#: lib/patterns/three-buttons.php:9
+msgid "Three buttons"
+msgstr "ثلاث أزرار"
+
+#: lib/patterns/text-three-columns-buttons.php:9
+msgid "Three columns of text with buttons"
+msgstr "ثلاثة أعمدة للنصّ مع أزرار"
+
+#: lib/class-wp-block-patterns-registry.php:52
+msgid "Block pattern content must be a string."
+msgstr "محتوى نمط المكوّن يجب أن يكون نصًا."
+
+#: lib/class-wp-rest-menu-items-controller.php:1000
+msgid "Version of the block format used in the HTML content."
+msgstr "إصدار تنسيق المكوّن المُستخدم في محتوى الـ HTML."
+
+#: lib/class-wp-rest-menu-items-controller.php:994
+msgid "HTML content, transformed for display."
+msgstr "محتوى HTML، مُعد للعرض."
+
+#: lib/class-wp-rest-menu-items-controller.php:989
+msgid "HTML content, as it exists in the database."
+msgstr "محتوى الـ HTML، كما هو موجود في قاعدة البيانات."
+
+#: lib/class-wp-rest-image-editor-controller.php:249
+msgid "Unable to crop this image."
+msgstr "غير قادر على قصّ هذه الصورة."
+
+#: lib/class-wp-rest-image-editor-controller.php:233
+msgid "Unable to rotate this image."
+msgstr "غير قادر على تدوير هذه الصورة."
+
+#: lib/class-wp-rest-image-editor-controller.php:225
+msgid "Unable to edit this image."
+msgstr "غير قادر على تحرير هذه الصورة."
+
+#: lib/class-wp-rest-image-editor-controller.php:209
+msgid "The image was not edited. Edit the image before applying the changes."
+msgstr "لم يتم تحرير الصورة. قم بتحرير الصورة قبل تطبيق التغييرات."
+
+#: lib/class-wp-rest-image-editor-controller.php:190
+msgid "This type of file cannot be edited."
+msgstr "لا يمكن تحرير هذا النوع من الملفات."
+
+#: lib/class-wp-rest-image-editor-controller.php:131
+#: lib/class-wp-rest-image-editor-controller.php:140
+#: lib/class-wp-rest-image-editor-controller.php:178
+msgid "Unable to get meta information for file."
+msgstr "غير قادر على الحصول على المعلومات الوصفية للملف."
+
+#: lib/class-wp-rest-image-editor-controller.php:99
+msgid "Sorry, you are not allowed to upload media on this site."
+msgstr "عذرًا، غير مسموح لك رفع ملفات وسائط على هذا الموقع."
+
+#: lib/class-wp-rest-plugins-controller.php:938
+msgid "Limits results to plugins with the given status."
+msgstr "حصر النتائج على الإضافات بالحالة المُحدّدة."
+
+#: lib/class-wp-rest-plugins-controller.php:914
+msgid "The plugin's text domain."
+msgstr "الـ text domain للإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:908
+msgid "Minimum required version of PHP."
+msgstr "الحدّ الأدنى المطلوب من إصدار PHP."
+
+#: lib/class-wp-rest-plugins-controller.php:902
+msgid "Minimum required version of WordPress."
+msgstr "الحدّ الأدنى المطلوب من إصدار ووردبريس."
+
+#: lib/class-wp-rest-plugins-controller.php:896
+msgid "Whether the plugin can only be activated network-wide."
+msgstr "ما إذا كانت الإضافة لا يمكن تنشيطها إلا على مستوى الشبكة."
+
+#: lib/class-wp-rest-plugins-controller.php:890
+msgid "The plugin version number."
+msgstr "رقم نسخة الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:884
+msgid "The plugin description formatted for display."
+msgstr "وصف الإضافة، مُعد للعرض."
+
+#: lib/class-wp-rest-plugins-controller.php:880
+msgid "The raw plugin description."
+msgstr "وصف الإضافة الخام."
+
+#: lib/class-wp-rest-plugins-controller.php:874
+msgid "The plugin description."
+msgstr "وصف الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:867
+msgid "Plugin author's website address."
+msgstr "عنوان الموقع الإلكتروني لمطوّر الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:861
+msgid "The plugin author."
+msgstr "مطوّر الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:854
+msgid "The plugin's website address."
+msgstr "عنوان الموقع الإلكتروني للإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:848
+msgid "The plugin name."
+msgstr "اسم الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:835
+msgid "The plugin file."
+msgstr "ملف الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:814
+msgid "The filesystem is currently unavailable for managing plugins."
+msgstr "نظام الملفات غير متاح حاليًا لإدارة الإضافات."
+
+#: lib/class-wp-rest-plugins-controller.php:695
+msgid "Network only plugin must be network activated."
+msgstr "يجب تنشيط الإضافة على الشبكة فقط."
+
+#: lib/class-wp-rest-plugins-controller.php:661
+msgid "Sorry, you are not allowed to deactivate this plugin."
+msgstr "عذرًا، غير مسموح لك بتعطيل هذه الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:653
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "عذرًا، غير مسموح لك بتفعيل هذه الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:645
+msgid "Sorry, you do not have permission to manage network plugins."
+msgstr "عذرًا، ليس لديك صلاحية لإدارة إضافات الشبكة."
+
+#: lib/class-wp-rest-plugins-controller.php:498
+msgid "Cannot delete an active plugin. Please deactivate it first."
+msgstr "لا يمكن حذف إضافة نشطة. يرجى تعطيلها أولاً."
+
+#: lib/class-wp-rest-plugins-controller.php:463
+msgid "Sorry, you are not allowed to delete plugins for this site."
+msgstr "عفوًا، غير مسموح لك بحذف الإضافات لهذا الموقع."
+
+#: lib/class-wp-rest-plugins-controller.php:343
+msgid "Unable to determine what plugin was installed."
+msgstr "غير قادر على تحديد الإضافة التي تنصيبها."
+
+#: lib/class-wp-rest-plugins-controller.php:253
+msgid "Sorry, you are not allowed to activate plugins."
+msgstr "عفوًا، غير مسموح لك بتفعيل الإضافات."
+
+#: lib/class-wp-rest-plugins-controller.php:245
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "عفوًا، غير مسموح لك بتنصيب الإضافات على هذا الموقع."
+
+#: lib/class-wp-rest-plugins-controller.php:228
+msgid "Sorry, you are not allowed to manage this plugin."
+msgstr "عذرًا، غير مسموح لك بإدارة هذه الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:215
+#: lib/class-wp-rest-plugins-controller.php:601
+msgid "Plugin not found."
+msgstr "لم يتم العثور على الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:118
+#: lib/class-wp-rest-plugins-controller.php:168
+#: lib/class-wp-rest-plugins-controller.php:385
+#: lib/class-wp-rest-plugins-controller.php:455
+msgid "Sorry, you are not allowed to manage plugins for this site."
+msgstr "عفوًا، غير مسموح لك بالتحكم في الإضافات لهذا الموقع."
+
+#: lib/class-wp-rest-plugins-controller.php:61
+#: lib/class-wp-rest-plugins-controller.php:842
+msgid "The plugin activation status."
+msgstr "حالة تفعيل الإضافة."
+
+#: lib/class-wp-rest-plugins-controller.php:57
+msgid "WordPress.org plugin directory slug."
+msgstr "الاسم اللطيف (slug) لدليل إضافة WordPress.org"
+
+#: lib/class-wp-rest-block-types-controller.php:495
+msgid "Block example."
+msgstr "مثال المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:485
+msgid "Block keywords."
+msgstr "الكلمات المفتاحية للمكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:475
+msgid "Parent blocks."
+msgstr "المكوّنات الأب."
+
+#: lib/class-wp-rest-block-types-controller.php:468
+msgid "Public text domain."
+msgstr "النطاق النصّي العام."
+
+#: lib/class-wp-rest-block-types-controller.php:457
+msgid "Block style variations."
+msgstr "تخطيطات نمط المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:450
+msgid "Public facing style handle."
+msgstr "مُعالج السكربت الموجّه للعامة."
+
+#: lib/class-wp-rest-block-types-controller.php:443
+msgid "Editor style handle."
+msgstr "مُعالج نمط المحرّر."
+
+#: lib/class-wp-rest-block-types-controller.php:436
+msgid "Public facing script handle."
+msgstr "مُعالج السكربت الموجّه للعامة."
+
+#: lib/class-wp-rest-block-types-controller.php:429
+msgid "Editor script handle."
+msgstr "مُعالج سكربت المحرّر."
+
+#: lib/class-wp-rest-block-types-controller.php:422
+msgid "Is the block dynamically rendered."
+msgstr "هل يقدم المكوّن محتوى ديناميكيًا."
+
+#: lib/class-wp-rest-block-types-controller.php:415
+msgid "Block category."
+msgstr "تصنيف المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:407
+msgid "Block supports."
+msgstr "دعم المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:397
+msgid "Context values inherited by blocks of this type."
+msgstr "قيم السياق التي ورثتها مكوّنات من هذا النوع."
+
+#: lib/class-wp-rest-block-types-controller.php:386
+msgid "Context provided by blocks of this type."
+msgstr "السياق المقدّم بواسطة مكوّنات من هذا النوع."
+
+#: lib/class-wp-rest-block-types-controller.php:375
+msgid "Block attributes."
+msgstr "خصائص المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:368
+msgid "Icon of block type."
+msgstr "أيقونة نوع المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:361
+msgid "Description of block type."
+msgstr "وصف نوع المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:354
+msgid "Unique name identifying the block type."
+msgstr "اسم فريد يُحدّد نوع المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:347
+msgid "Title of block type."
+msgstr "عنوان نوع المكوّن."
+
+#: lib/class-wp-rest-block-types-controller.php:199
+msgid "Invalid block type."
+msgstr "نوع المكوّن غير صالح."
+
+#: lib/class-wp-rest-block-types-controller.php:187
+msgid "Sorry, you are not allowed to manage block types."
+msgstr "عذرًا، غير مسموح لك بإدارة أنواع المكوّنات."
+
+#: lib/class-wp-rest-block-types-controller.php:90
+#: lib/class-wp-rest-block-types-controller.php:522
+msgid "Block namespace."
+msgstr "تسمية المكوّن (Namespace)."
+
+#: lib/class-wp-rest-block-types-controller.php:86
+msgid "Block name."
+msgstr "اسم المكوّن."
+
+#: lib/class-wp-rest-block-directory-controller.php:326
+msgid "Limit result set to blocks matching the search term."
+msgstr "حصر النتائج على المكوّنات المطابقة لمصطلح البحث."
+
+#: lib/class-wp-rest-block-directory-controller.php:296
+msgid "An object representing the block CSS and JavaScript assets."
+msgstr "كائن يمثّل تنسيق CSS للمكوّن وأصول JavaScript."
+
+#: lib/class-wp-rest-block-directory-controller.php:291
+msgid "The date when the block was last updated, in fuzzy human readable format."
+msgstr "التاريخ الذي تم فيه آخر تحديث للمكوّن، بتنسيق غامض قابل للقراءة."
+
+#: lib/class-wp-rest-block-directory-controller.php:285
+msgid "The block icon."
+msgstr "أيقونة المكوّن."
+
+#: lib/class-wp-rest-block-directory-controller.php:280
+msgid "The WordPress.org username of the block author."
+msgstr "اسم مستخدم WordPress.org لمؤلف المكوّن."
+
+#: lib/class-wp-rest-block-directory-controller.php:275
+msgid "The number of blocks published by the same author."
+msgstr "عدد المكوّنات المنشورة بواسطة نفس المؤلف."
+
+#: lib/class-wp-rest-block-directory-controller.php:270
+msgid "The average rating of blocks published by the same author."
+msgstr "متوسط تقييم المكوّنات المنشورة بواسطة نفس المؤلف."
+
+#: lib/class-wp-rest-block-directory-controller.php:265
+msgid "The number sites that have activated this block."
+msgstr "عدد المواقع التي قامت بتفعيل هذا المكوّن."
+
+#: lib/class-wp-rest-block-directory-controller.php:260
+msgid "The number of ratings."
+msgstr "عدد التقييمات."
+
+#: lib/class-wp-rest-block-directory-controller.php:255
+msgid "The star rating of the block."
+msgstr "نجمة التقييم للمكوّن."
+
+#: lib/class-wp-rest-block-directory-controller.php:250
+msgid "The block slug."
+msgstr "الاسم اللطيف للمكوّن (slug)."
+
+#: lib/class-wp-rest-block-directory-controller.php:245
+msgid "A short description of the block, in human readable format."
+msgstr "وصف موجز للمكوّن، بتنسيق قابل للقراءة."
+
+#: lib/class-wp-rest-block-directory-controller.php:240
+msgid "The block title, in human readable format."
+msgstr "عنوان المكوّن، بتنسيق قابل للقراءة."
+
+#: lib/class-wp-rest-block-directory-controller.php:235
+msgid "The block name, in namespace/block-name format."
+msgstr "اسم المكوّن، بتنسيق مساحة تسمية / اسم مكوّن."
+
+#: lib/class-wp-rest-block-directory-controller.php:61
+msgid "Sorry, you are not allowed to browse the block directory."
+msgstr "عذرًا، غير مسموح لك تصفّح دليل المكوّنات."
+
+#: lib/compat.php:334 build/blocks/index.js:1
+msgid "Design"
+msgstr "تصميم"
+
+#: lib/compat.php:324 build/blocks/index.js:1
+msgid "Text"
+msgstr "نصّ"
+
+#. translators: %1: field name. %2: block name
+#: lib/compat.php:93
+msgid "The asset file for the \"%1$s\" defined in \"%2$s\" block definition is missing."
+msgstr "الملف الأصل لتعريف \"%1$s\" المحدد في تعريف المكوّن \"%2$s\" مفقود."
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:114
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:40
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#. translators: 1: Block pattern name.
+#: lib/class-wp-block-pattern-categories-registry.php:62
+msgid "Block pattern category \"%1$s\" not found."
+msgstr "لم يتم العثور على تصنيف نمط المكوّن \"%1$s\"."
+
+#: lib/class-wp-block-pattern-categories-registry.php:40
+msgid "Block pattern category name must be a string."
+msgstr "اسم تصنيف نمط المكوّن يجب أن يكون نصًا."
+
+#: lib/block-patterns.php:63
+msgctxt "Block pattern category"
+msgid "Headers"
+msgstr "الترويسات"
+
+#: lib/block-patterns.php:62
+msgctxt "Block pattern category"
+msgid "Gallery"
+msgstr "معرض"
+
+#: lib/block-patterns.php:60
+msgctxt "Block pattern category"
+msgid "Buttons"
+msgstr "أزرار"
+
+#: lib/block-patterns.php:61
+msgctxt "Block pattern category"
+msgid "Columns"
+msgstr "أعمدة"
+
+#: lib/block-patterns.php:64
+msgctxt "Block pattern category"
+msgid "Text"
+msgstr "نصّ"
+
+#: lib/class-wp-theme-json-resolver.php:90 build/block-editor/index.js:27
+msgid "White"
+msgstr "أبيض"
+
+#: lib/class-wp-theme-json-resolver.php:88
+#: lib/class-wp-theme-json-resolver.php:161 build/block-editor/index.js:27
+msgid "Black"
+msgstr "أسود"
+
+#: lib/patterns/two-images.php:9
+msgid "Two images side by side"
+msgstr "صورتان جنبًا إلى جنب"
+
+#: lib/patterns/text-two-columns.php:9
+msgid "Two columns of text"
+msgstr "عمودان للنصّ"
+
+#: lib/patterns/two-buttons.php:9
+msgid "Two buttons"
+msgstr "زران"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:338 build/edit-post/index.js:39
+#: build/edit-site/index.js:9 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:24
+msgid "Content"
+msgstr "المحتوى "
+
+#: lib/experiments-page.php:50
+msgid "Enable Navigation screen"
+msgstr "تمكين شاشة التنقل"
+
+#: gutenberg.php:62 gutenberg.php:63
+msgid "Navigation (beta)"
+msgstr "التنقل (تجريبي)"
+
+#: lib/class-wp-rest-menu-items-controller.php:1105
+msgid "Sort collection by object attribute."
+msgstr "ترتيب المجموعة وفقاً لخاصية الكائن."
+
+#: lib/class-wp-rest-menu-items-controller.php:1098
+msgid "Order sort attribute ascending or descending."
+msgstr "خاصية الترتيب إما تصاعدي أو تنازلي."
+
+#: lib/class-wp-rest-menu-items-controller.php:1093
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "حصر النتيجة على مقالات مع قيمة menu_order مُعينة."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1059
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "العناصر المُسندة للكائن في الفئة %s."
+
+#: lib/class-wp-rest-menu-items-controller.php:1026
+msgid "The URL to which this menu item points."
+msgstr "الرابط الذي يشير إليه عنصر القائمة هذا."
+
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The singular label used to describe this type of menu item."
+msgstr "التسمية المفردة المستخدمة لوصف هذا النوع من عناصر القائمة."
+
+#: lib/class-wp-rest-menu-items-controller.php:950
+msgid "The description of this menu item."
+msgstr "الوصف لعنصر القائمة هذا."
+
+#: lib/class-wp-rest-menu-items-controller.php:911
+msgid "A named status for the object."
+msgstr "حالة مُسماة للكائن."
+
+#: lib/class-wp-rest-menu-items-controller.php:903
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "عائلة الكائنات الممثلة أصلا، مثل نوع المقالة \"post_type\" أو الفئة \"taxonomy\"."
+
+#: lib/class-wp-rest-menu-items-controller.php:896
+msgid "Name of type."
+msgstr "اسم النوع."
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "HTML title for the object, transformed for display."
+msgstr "عنوان (HTML) للكائن، مُعد للعرض."
+
+#: lib/class-wp-rest-menu-items-controller.php:873
+msgid "Title for the object, as it exists in the database."
+msgstr "عنوان الكائن، كما هو موجود في قاعدة البيانات."
+
+#: lib/class-wp-rest-menu-items-controller.php:834
+msgid "Get linked object."
+msgstr "الحصول على الكائن المرتبط."
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "رابط غير صالح."
+
+#: lib/class-wp-rest-menu-items-controller.php:564
+#: lib/class-wp-rest-menu-items-controller.php:567
+msgid "Invalid menu item parent."
+msgstr "عنصر أب للقائمة غير صالح."
+
+#: lib/class-wp-rest-menu-items-controller.php:556
+msgid "Invalid menu position."
+msgstr "موضع غير صالح لعنصر القائمة."
+
+#: lib/class-wp-rest-menu-items-controller.php:531
+msgid "Invalid menu ID."
+msgstr "معرّف القائمة (ID) غير صالح."
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "نوع المحتوى غير صالح."
+
+#: lib/class-wp-rest-menu-items-controller.php:495
+msgid "Invalid post ID."
+msgstr "معرّف (ID) المقالة خاطئ."
+
+#: lib/class-wp-rest-menu-items-controller.php:348
+msgid "The post cannot be deleted."
+msgstr "لا يمكن حذف المقالة."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:340
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "النقل لسلة المهملات غير مدعوم على عناصر القائمة، استخدم '%s' للحذف."
+
+#: lib/class-wp-rest-menu-items-controller.php:174
+msgid "Cannot create existing post."
+msgstr "ﻻ يمكن إنشاء مقالة موجودة."
+
+#: lib/class-wp-rest-menu-items-controller.php:160
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "عذرًا، لا يمكنك عرض عناصر القائمة هذه، ما لم يكن لديك صلاحية الوصول لتحريرها."
+
+#: lib/class-wp-rest-menu-items-controller.php:158
+#: lib/class-wp-rest-customizer-nonces.php:51
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "عذراً، غير مسموح لك بتحرير المقالات في هذا النوع من المحتوى."
+
+#: lib/class-wp-rest-menu-items-controller.php:142
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "عذرًا، لا يمكنك عرض عنصر القائمة هذا ما لم يكن لديك صلاحية الوصول لتحريره."
+
+#: lib/class-wp-rest-menus-controller.php:580
+msgid "The locations assigned to the menu."
+msgstr "المواضع المسندة للقائمة."
+
+#: lib/class-wp-rest-menus-controller.php:552
+msgid "Menu location does not exist."
+msgstr "موضع القائمة غير موجود."
+
+#: lib/class-wp-rest-menus-controller.php:458
+msgid "The term cannot be deleted."
+msgstr "ﻻ يمكن حذف العنصر."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:448
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "النقل لسلة المهملات غير مدعوم على العناصر، استخدم '%s' للحذف."
+
+#: lib/class-wp-rest-menus-controller.php:268
+#: lib/class-wp-rest-menus-controller.php:377
+msgid "Parent term does not exist."
+msgstr "العنصر الأب غير موجود."
+
+#: lib/class-wp-rest-menus-controller.php:262
+#: lib/class-wp-rest-menus-controller.php:371
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "ﻻ يمكن تعيين العنصر كأب، الفئة ليست هرمية."
+
+#: lib/class-wp-rest-menus-controller.php:139
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "عذرًا، غير مسموح لك بإسناد المواضع المُقدَمة."
+
+#: lib/class-wp-rest-menus-controller.php:60
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "عذرًا، لا يمكنك عرض هذه القائمة ما لم يكن لديك صلاحية الوصول لتحريره."
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "عذرًا، غير مسموح لك بتحرير هذا العنصر."
+
+#: lib/class-wp-rest-menus-controller.php:40
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "عذرًا، لا يمكنك عرض هذه القوائم ما لم يكن لديك صلاحية الوصول لتحريرهم."
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "عذرًا، غير مسموح لك بتحرير العناصر في هذه الفئة."
+
+#: lib/class-wp-rest-menu-locations-controller.php:200
+msgid "The description of the menu location."
+msgstr "الوصف لموضع القائمة."
+
+#: lib/class-wp-rest-menu-locations-controller.php:194
+msgid "The name of the menu location."
+msgstr "اسم موضع القائمة."
+
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+#: lib/class-wp-rest-menus-controller.php:146
+msgid "Invalid menu location."
+msgstr "موضع قائمة غير صالح."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "عذرًا، غير مسموح لك استعراض مواضع القوائم."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "مُعرّف أبجدي رقمي لموضع القائمة."
+
+#: lib/class-wp-theme-json-resolver.php:340 build/edit-site/index.js:9
+msgid "Global Styles"
+msgstr "أنماط عامة"
+
+#: lib/template-loader.php:70
+msgid "Empty template."
+msgstr "قالب فارغ."
+
+#: lib/template-loader.php:78
+msgid "No matching template found."
+msgstr "لم يتم العثور على قالب متطابق."
+
+#: lib/full-site-editing/templates-utils.php:18 lib/templates.php:98
+#: build/edit-site/index.js:9
+msgid "Theme"
+msgstr "قالب"
+
+#: lib/experiments-page.php:87
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "يتضمن مُحرر المكوّنات ميزات تجريبية قابلة للاستخدام أثناء تطويرها. حدد ما تريد تمكينه. من المحتمل أن تتغير هذه الميزات، لذا تجنب استخدامها في وضع الإطلاق."
+
+#: gutenberg.php:108
+msgid "Site Editor (beta)"
+msgstr "محرّر الموقع (تجريبي)"
+
+#: build/block-library/blocks/query-pagination.php:33
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Next"
+msgstr "التالي"
+
+#: build/block-library/blocks/query-pagination.php:26
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Previous"
+msgstr "السابق"
+
+#: lib/class-wp-theme-json-resolver.php:155
+msgid "Light"
+msgstr "فاتح"
+
+#: lib/template-parts.php:40
+msgid "Template parts to include in your templates."
+msgstr "أجزاء القالب لتضمينها في قوالبك."
+
+#: lib/template-parts.php:35
+msgid "Template parts list"
+msgstr "قائمة أجزاء القالب"
+
+#: lib/template-parts.php:34
+msgid "Template parts list navigation"
+msgstr "التنقل بين قائمة أجزاء القالب"
+
+#: lib/template-parts.php:33
+msgid "Filter template parts list"
+msgstr "تصفية قائمة أجزاء القالب"
+
+#: lib/template-parts.php:32
+msgid "Uploaded to this template part"
+msgstr "المرفوعة إلى جزء القالب هذا"
+
+#: lib/template-parts.php:31
+msgid "Insert into template part"
+msgstr "إدراج في جزء القالب"
+
+#: lib/template-parts.php:30
+msgid "Template part archives"
+msgstr "أرشيفات أجزاء القالب"
+
+#: lib/template-parts.php:29
+msgid "No template parts found in Trash."
+msgstr "لم يتم العثور على أجزاء القالب في سلة المهملات."
+
+#: lib/template-parts.php:28
+msgid "No template parts found."
+msgstr "لم يتم العثور على أجزاء القالب."
+
+#: lib/template-parts.php:27
+msgid "Parent Template Part:"
+msgstr "جزء القالب الأب:"
+
+#: lib/template-parts.php:26
+msgid "Search Template Parts"
+msgstr "البحث في أجزاء القالب"
+
+#: lib/template-parts.php:25
+msgid "All Template Parts"
+msgstr "جميع أجزاء القالب"
+
+#: lib/template-parts.php:24
+msgid "View Template Part"
+msgstr "عرض جزء القالب"
+
+#: lib/template-parts.php:23
+msgid "Edit Template Part"
+msgstr "تحرير جزء القالب"
+
+#: lib/template-parts.php:22
+msgid "New Template Part"
+msgstr "جزء قالب جديد"
+
+#: lib/template-parts.php:21
+msgid "Add New Template Part"
+msgstr "إضافة جزء قالب جديد"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "أضف جديد"
+
+#: lib/template-parts.php:19
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "أجزاء القالب"
+
+#: lib/template-parts.php:18 build/block-library/index.js:60
+msgid "Template Part"
+msgstr "جزء القالب"
+
+#: lib/template-parts.php:17 build/edit-site/index.js:9
+msgid "Template Parts"
+msgstr "أجزاء القالب"
+
+#: lib/experiments-page.php:45 build/block-library/index.js:30
+#: build/edit-navigation/index.js:3
+msgid "Navigation"
+msgstr "التنقّل"
+
+#: lib/templates.php:54
+msgid "Templates list"
+msgstr "قائمة القوالب"
+
+#: lib/templates.php:53
+msgid "Templates list navigation"
+msgstr "تصفّح قائمة القوالب"
+
+#: lib/templates.php:52
+msgid "Filter templates list"
+msgstr "تصّفية قائمة القوالب"
+
+#: lib/templates.php:51
+msgid "Uploaded to this template"
+msgstr "المرفوعة إلى هذا القالب"
+
+#: lib/templates.php:50
+msgid "Insert into template"
+msgstr "إدراج في القالب"
+
+#: lib/templates.php:49
+msgid "Template archives"
+msgstr "أرشيف القالب"
+
+#: lib/templates.php:48
+msgid "No templates found in Trash."
+msgstr "لم يتم العثور على قوالب في سلة المُهملات."
+
+#: lib/templates.php:47
+msgid "No templates found."
+msgstr "لم يتم العثور على قوالب."
+
+#: lib/templates.php:46
+msgid "Parent Template:"
+msgstr "القالب الأب:"
+
+#: lib/templates.php:45
+msgid "Search Templates"
+msgstr "البحث في القوالب"
+
+#: lib/templates.php:44 build/edit-site/index.js:9
+msgid "All Templates"
+msgstr "جميع القوالب"
+
+#: lib/templates.php:43
+msgid "View Template"
+msgstr "عرض القالب"
+
+#: lib/templates.php:42
+msgid "Edit Template"
+msgstr "تحرير القالب"
+
+#: lib/templates.php:41
+msgid "New Template"
+msgstr "قالب جديد"
+
+#: lib/templates.php:40
+msgid "Add New Template"
+msgstr "إضافة قالب جديد"
+
+#: lib/templates.php:39
+msgctxt "Template"
+msgid "Add New"
+msgstr "أضف جديداً"
+
+#: lib/templates.php:38
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "القوالب"
+
+#: lib/templates.php:37
+msgid "Template"
+msgstr "القالب"
+
+#: lib/template-loader.php:178
+msgid "No matching template found"
+msgstr "لم يتم العثور على قوالب متطابقة"
+
+#: lib/class-wp-theme-json-resolver.php:119 build/block-editor/index.js:27
+msgid "Midnight"
+msgstr "منتصف الليل"
+
+#: lib/class-wp-theme-json-resolver.php:118 build/block-editor/index.js:27
+msgid "Electric grass"
+msgstr "أخضر مشع"
+
+#: lib/class-wp-theme-json-resolver.php:117 build/block-editor/index.js:27
+msgid "Pale ocean"
+msgstr "محيط شاحب"
+
+#: lib/class-wp-theme-json-resolver.php:116 build/block-editor/index.js:27
+msgid "Luminous dusk"
+msgstr "برتقالي مضيء"
+
+#: lib/class-wp-theme-json-resolver.php:115 build/block-editor/index.js:27
+msgid "Blush bordeaux"
+msgstr "وردي نبيذي"
+
+#: lib/class-wp-theme-json-resolver.php:114 build/block-editor/index.js:27
+msgid "Blush light purple"
+msgstr "بنفسجي متورد"
+
+#: lib/class-wp-theme-json-resolver.php:113 build/block-editor/index.js:27
+msgid "Cool to warm spectrum"
+msgstr "بارد إلى طيف دافئ"
+
+#: lib/class-wp-theme-json-resolver.php:112 build/block-editor/index.js:27
+msgid "Very light gray to cyan bluish gray"
+msgstr "رمادي فاتح جداً إلى أزرق سماوي رمادي"
+
+#: lib/class-wp-theme-json-resolver.php:111 build/block-editor/index.js:27
+msgid "Luminous vivid orange to vivid red"
+msgstr "برتقالي فاقع إلى أحمر فاقع"
+
+#: lib/class-wp-theme-json-resolver.php:110 build/block-editor/index.js:27
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "برتقالي ناري إلى برتقالي فاقع"
+
+#: lib/class-wp-theme-json-resolver.php:109 build/block-editor/index.js:27
+msgid "Light green cyan to vivid green cyan"
+msgstr "أخضر سماوي فاتح إلى أخضر سماوي حيوي"
+
+#: lib/class-wp-theme-json-resolver.php:108 build/block-editor/index.js:27
+msgid "Vivid cyan blue to vivid purple"
+msgstr "أزرق سماوي حيوي إلى بنفسجي ساطع"
+
+#: lib/templates.php:59
+msgid "Templates to include in your theme."
+msgstr "قوالب/نماذج لتضمينها في قالبك."
+
+#: lib/templates.php:36 build/edit-site/index.js:9
+msgid "Templates"
+msgstr "القوالب"
+
+#: lib/class-wp-rest-plugins-controller.php:337
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "غير قادر على الاتصال بنظام الملفات. يرجى التأكّد من صحة بيانات الدخول."
+
+#: lib/class-wp-theme-json-resolver.php:99 build/block-editor/index.js:27
+msgid "Vivid purple"
+msgstr "بنفسجي ساطع"
+
+#: gutenberg.php:89
+msgid "Experiments Settings"
+msgstr "إعدادات التجارب"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "إعدادات الميزات التجريبية"
+
+#: lib/class-wp-block-patterns-registry.php:40
+msgid "Block pattern name must be a string."
+msgstr "اسم نمط المكوّن ينبغي أن يكون سلسلة نصية."
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:28
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "لا يحتوي موقعك على أي %s، لذلك لا يوجد شي لعرضه هنا في الوقت الحالي."
+
+#: lib/class-wp-rest-sidebars-controller.php:110
+#: lib/class-wp-rest-widget-types-controller.php:163
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "عذرًا، غير مسموح لك بالوصول إلى الودجات على هذا الموقع."
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "حدث خطأ ما، مما يعني أن الخلاصة معطلة. حاول مرة أخرى في وقت لاحق."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "خطأ RSS:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:42
+#: build/block-library/index.js:49
+msgid "Search"
+msgstr "بحث"
+
+#. translators: Use this to specify the CSS font family for the default font.
+#: lib/edit-site-page.php:53
+msgctxt "CSS Font Family for Editor Font"
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: lib/editor-settings.php:28 build/block-editor/index.js:27
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: lib/editor-settings.php:31 build/block-editor/index.js:27
+msgid "Full Size"
+msgstr "الحجم الكامل"
+
+#: lib/full-site-editing/default-template-types.php:69 lib/compat.php:329
+#: build/core-data/index.js:1 build/block-editor/index.js:67
+#: build/blocks/index.js:1
+msgid "Media"
+msgstr "وسائط"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr " j F، Y g:i a"
+
+#: lib/class-wp-rest-image-editor-controller.php:94
+msgid "Sorry, you are not allowed to edit images."
+msgstr "عذرًا، غير مسموح لك بتحرير الصور."
+
+#: lib/class-wp-theme-json-resolver.php:132 build/block-library/index.js:55
+msgid "Huge"
+msgstr "ضخم"
+
+#: lib/class-wp-theme-json-resolver.php:130
+#: lib/class-wp-theme-json-resolver.php:157 lib/editor-settings.php:29
+#: build/components/index.js:10 build/block-editor/index.js:27
+msgid "Medium"
+msgstr "متوسط"
+
+#: lib/class-wp-theme-json-resolver.php:129 build/block-library/index.js:55
+msgid "Normal"
+msgstr "عادي"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "لا توجد أرشيفات لعرضها."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "منظر طبيعي جميل"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "شكراً لك على تجربة مُحرر Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "المساعدة في بناء Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "إذا كنت تريد معرفة المزيد حول كيفية بناء مكوّنات المُحرر الإضافية، أو إذا كنت مهتماً بالمساعدة في المشروع، فانتقل إلى <a href=\"%s\">مستودع GitHub</a>."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "مجتمع الووردبريس"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "الكود شعر"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "يمكنك بناء أي مكوّن تريده، ثابت أو ديناميكي، بنصّ عادي أو مزخرف وبرموز أو أيقونات خاصة. وإليك هنا مكوّن اقتباس مائل:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "يمكن لأي مكوّن أن يختار هذه المحاذاة. مكوّن التضمين لديه الأسلوب، والإستجابة لطريقة الخروج من الصندوق:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "ماسبق هو معرض صور مكوّن من صورتين فقط، إنها طريقة أسهل لإنشاء تنسيقات جذابة بصرياً، دون الاضطرار للتعامل مع موضع الصور. يمكنك أيضًا تحويل المعرض بسهولة إلى صور فردية مرة أخرى، باستخدام زر تغيير نوع المكوّن."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "لا شك! أن الصورة بعرض كامل قد تكون كبيرة جداً. لكن في بعض الأحيان تستحق الصورة ذلك."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "إمكانية الوصول مهمة  &mdash; لا تنسى ميزة النص البديل \"alt\" للصورة"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "إذا قمت بضمّ وجمع المحاذاة الجديدة <strong>واسع</strong> و <strong>عرض واسع</strong> مع المعارض، فيمكنك إنشاء تخطيط ثري جداً بالوسائط، وبسرعة كبيرة:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "وسائط ثرية"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "يمكنك تغيير عدد الأعمدة في المعارض الخاصة بك عن طريق سحب شريط التمرير من إعدادات المعرض للمكوّن في الشريط الجانبي."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "يمكن أن تكون المكوّنات أي شيء أنت بحاجة إليه. على سبيل المثال، قد ترغب في إضافة اقتباس خافت كجزء من تركيبة النص الخاص بك. أو قد تفضّل عرضها بأسلوب أكبر. كل هذه الخيارات متاحة في أداة الإدراج."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "المعلومات ذات الصلة لمصدر الاقتباس عبارة عن حقل نصّ منفصل، شبيهة بالتسميات التوضيحية أسفل الصور، لذا تتم حماية بنية الاقتباس حتى إذا قمت بتحديد المصدر أو تعديله أو إزالته. من السهل دائماً إعادة إضافته."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "يسعى المُحرر على إنشاء تجربة بناء جديدة لإنشاء الصفحات والمقالات مما يجعل كتابة المقالات الغنية بالمحتوى بجهد أقل، كما أن المُحرر الجديد الجديد لديه \"مكوّنات\" لجعل الأمر سهلاً بدلاً من الطريقة التي نقوم بها حالياً عند التحرير بالأكواد القصيرة أو إضافة شفرات HTML مخصصة أو \"أشياء أكثر غموضاً\"."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "من الفوائد الهائلة للمكوّنات أنه يمكنك تحريرها مباشرة في مكانها وسهولة معالجة المحتوى الخاص بك. يمكنك تغيير المحتوى مباشرةً بدلاً من وجود حقول لتحرير الأشياء من محتوى المقال أو الصفحة مثل: مصدر اقتباس، أو نص لزر ما. جرّب طريقة التحرير للاقتباس التالي:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "تحرير مرئي"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "ومثل هذه الـ<em>قوائم</em> بالطبع :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "مكوّنات التخطيط، مثل الأزرار، صور البطل، فواصل، وغير ذلك."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "تضمين، مثل يوتيوب، تغريدات، أو مقالات ووردبريس أخرى."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "معارض"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "صور ومقاطع فيديو"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "نص وعناوين"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "قم بتجربتها، قد تكتشف أشياء لم تكن تعرفها من قبل يستطيع من خلالها ووردبريس أن يضيفها بالفعل إلى مقالاتك. إليك قائمة قصيرة بما يمكنك العثور عليه حاليًا:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "تخيّل أن كل ما يمكن لـ ووردبريس فعله متاح لك بسرعة، وفي المكان نفسه على واجهة التحرير. لست بحاجة إلى معرفة وسوم HTML أو الـ Classes أو تذكّر صيغة الأكواد القصيرة المعقدة. هذه هي الروح التي تكمن خلف أداة الإدراج — زر <code>(+)</code> الذي ستراه بأرجاء المُحرر — والذي يسمح لك باستعراض جميع مكوّنات المحتوى المتاحة، وإضافتها إلى مقالاتك. كما يمكن للإضافات والقوالب تسجيل وإضافة المكوّنات الخاصة بها، مما سيتيح ويجعل كل أنواع وإمكانيات التحرير والنشر مفتوحة وغنية بالمحتويات."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "أداة <em>الإدراج</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "جرّب تحديد التسمية التوضيحية أو إزالتها أو تعديلها، وحالياً لا يتعين عليك توخي الحذر عند تحديد الصورة أو أي نص آخر عن طريق الخطأ الذي يؤدي لفقدان بيانات العرض أو المحتوى الذي تعمل من أجله."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "إذا كان القالب الخاص بك يدعم التسميات، فسترى الزر \"عرض واسع\" على شريط أدوات الصورة. جرّبها."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "تم الاهتمام والتركيز وبعناية فائقة في طريقة التعامل مع الصور والوسائط في المُحرر الجديد. نأمل أن تجد السهولة والقوة أكثر من أي وقت سابق من ناحية إضافة تسميات توضيحية أو إدراج صورك بعرض كامل."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "الصورة تعادل ألف كلمة"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "كذلك تعتبر العناوين مكوّنات منفصلة، والتي تساعدك في تخطيط المحتوى الخاص بك وتنظيمه."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... مثل هذه الفقرة، والذي تم وضعها بمحاذاة اليمين."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "ما تقرأه الآن هو <strong>مكوّن نص</strong> وهو أكثر مكوّن بسيط بين بقية المكوّنات. مكوّن النص لديه عناصر التحكم الخاصة به ليتم نقله بحريّة بين أجزاء المقالة."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "الهدف من هذا المُحرر الجديد هو إضافة محتوى ثريّ إلى ووردبريس بشكل بسيط وممتع. تتكون هذه المقالة بالكامل من <em>أجزاء من المحتوى</em>— تشبه إلى حدّ ما مكعبات LEGO— التي يمكنك تحريكها والتنقل بها والتفاعل معها. حرّك المؤشر حولك وستلاحظ أن المكوّنات المختلفة تضيء مع المخططات والأسهم. اضغط على الأسهم لإعادة ضبط موضع المكوّنات بسرعة، دون خوف من فقدان المحتويات والأشياء أثناء عملية النسخ واللصق."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "عبر الجبال وآلية الطباعة"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "أهلاً بك في محرر Gutenberg"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "العنوان للكائن."
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "المُعرف الفريد للكائن."
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "صغير"
+
+#: gutenberg.php:76
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "الدعم"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "لا توجد تعليقات للعرض."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s على %2$s"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "تحديد مقالة"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "تحديد الأسبوع"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "تحديد اليوم"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "تحديد الشهر"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "تحديد السنة"
+
+#: build/block-library/blocks/archives.php:27 build/block-library/index.js:16
+msgid "Archives"
+msgstr "الأرشيف"
+
+#: lib/class-wp-theme-json-resolver.php:89 build/block-editor/index.js:27
+msgid "Cyan bluish gray"
+msgstr "أزرق سماوي رمادي"
+
+#: lib/class-wp-theme-json-resolver.php:98 build/block-editor/index.js:27
+msgid "Vivid cyan blue"
+msgstr "أزرق سماوي حيوي"
+
+#: lib/class-wp-theme-json-resolver.php:97 build/block-editor/index.js:27
+msgid "Pale cyan blue"
+msgstr "أزرق سماوي شاحب"
+
+#: lib/class-wp-theme-json-resolver.php:96 build/block-editor/index.js:27
+msgid "Vivid green cyan"
+msgstr "أخضر سماوي حيوي"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "أخضر سماوي فاتح"
+
+#: lib/class-wp-theme-json-resolver.php:94 build/block-editor/index.js:27
+msgid "Luminous vivid amber"
+msgstr "برتقالي ناري"
+
+#: lib/class-wp-theme-json-resolver.php:93 build/block-editor/index.js:27
+msgid "Luminous vivid orange"
+msgstr "برتقالي فاقع"
+
+#: lib/class-wp-theme-json-resolver.php:92 build/block-editor/index.js:27
+msgid "Vivid red"
+msgstr "أحمر فاقع"
+
+#: lib/class-wp-theme-json-resolver.php:91 build/block-editor/index.js:27
+msgid "Pale pink"
+msgstr "زهري فاتح"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "حجم كبير"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "عادي"
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "معرّف العنصر غير صالح."
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "المعرّف الرئيسي لهذا الكائن."
+
+#: gutenberg.php:112
+msgid "beta"
+msgstr "تجريبي"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "تضمين معالج"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "الحالة"
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "الصورة البارزة"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:40 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-post/index.js:21 build/edit-post/index.js:22
+#: build/edit-widgets/index.js:9
+msgid "Block"
+msgstr "المكوّن"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(بلا عنوان)"
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "مائل"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "خط عريض"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "اقتباس"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "كتابة عنوان…"
+
+#: gutenberg.php:90
+msgid "Experiments"
+msgstr "التجارب"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "ودجات"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "الطباعة منذ 1440. هذه هي إضافة التطوير من أجل محرر المكوّنات الجديد في نواة ووردبريس."
+
+#: lib/class-wp-rest-widgets-controller.php:724
+msgid "Unique identifier for the widget."
+msgstr "مُعرّف فريد للودجت."
+
+#: gutenberg.php:161
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "يتطلب وضع تطوير إضافة Gutenberg إنشاء بعض الملفات. قم بتشغيل <code>npm install</code> لتنصيب التبعيات <code>npm run build</code> لبناء الملفات أو <code>npm run dev</code> لبناء الملفات ومشاهدة التغييرات. يرجى قراءة ملف كيفية <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">المساهمة</a> للمزيد من المعلومات."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "فريق Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "الاسم اللطيف"
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "j F، Y g:i a"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "j F، Y"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "قبل %s"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "%s من الآن"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:148
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "تتطلب إضافة Gutenberg إصدار ووردبريس %s أو أحدث لتعمل بشكل صحيح. يرجى ترقية ووردبريس قبل تفعيل إضافة Gutenberg."
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "وثائق المساعدة"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "عرض توضيحي"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "تحديد التصنيف"

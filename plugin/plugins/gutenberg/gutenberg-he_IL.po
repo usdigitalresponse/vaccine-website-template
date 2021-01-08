@@ -1,0 +1,573 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-12 06:28:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/class-wp-rest-batch-controller.php:216
+msgid "The handler for the route is invalid"
+msgstr "הרכיב המטפל בנתיב שגוי"
+
+#: lib/class-wp-rest-menu-items-controller.php:58
+msgid "The password for the post if it is password protected."
+msgstr "הסיסמה של הפוסט אם הוא מוגן בסיסמה."
+
+#: lib/class-wp-rest-menu-items-controller.php:92
+msgid "Whether to bypass Trash and force deletion."
+msgstr "האם לדלג על הפח ולאלץ מחיקה."
+
+#: lib/class-wp-rest-batch-controller.php:89
+msgid "Could not parse the path."
+msgstr "לא ניתן היה לנתח את נתיב."
+
+#: lib/full-site-editing/templates-utils.php:16 build/block-library/index.js:36
+msgid "Description"
+msgstr "תיאור"
+
+#: lib/patterns/three-buttons.php:10 build/block-library/index.js:16
+msgid "Contact us"
+msgstr "צרו קשר"
+
+#: lib/compat.php:537
+msgctxt "post type general name"
+msgid "Reusable Blocks"
+msgstr "בלוקים לשימוש חוזר"
+
+#: lib/compat.php:538
+msgctxt "post type singular name"
+msgid "Reusable Block"
+msgstr "בלוק לשימוש חוזר"
+
+#: lib/compat.php:539
+msgctxt "admin menu"
+msgid "Reusable Blocks"
+msgstr "בלוקים לשימוש חוזר"
+
+#: lib/compat.php:540
+msgctxt "add new on admin bar"
+msgid "Reusable Block"
+msgstr "בלוק לשימוש חוזר"
+
+#: lib/compat.php:542
+msgid "Add New Reusable Block"
+msgstr "להוסיף לבלוקים לשימוש חוזר"
+
+#: lib/compat.php:543
+msgid "New Reusable Block"
+msgstr "הוספת בלוק לשימוש חוזר"
+
+#: lib/compat.php:544
+msgid "Edit Reusable Block"
+msgstr "עריכת בלוק לשימוש חוזר"
+
+#: lib/compat.php:545
+msgid "View Reusable Block"
+msgstr "הצג בלוק לשימוש חוזר"
+
+#: lib/compat.php:546
+msgid "All Reusable Blocks"
+msgstr "כל הבלוקים לשימוש חוזר"
+
+#: lib/compat.php:547
+msgid "Search Reusable Blocks"
+msgstr "חיפוש בלוקים לשימוש חוזר"
+
+#: lib/compat.php:548
+msgid "No reusable blocks found."
+msgstr "לא נמצאו בלוקים לשימוש חוזר."
+
+#: lib/compat.php:549
+msgid "No reusable blocks found in Trash."
+msgstr "לא נמצאו בלוקים לשימוש חוזר בפח."
+
+#: lib/compat.php:550
+msgid "Filter reusable blocks list"
+msgstr "סינון רשימת בלוקים לשימוש חוזר"
+
+#: lib/compat.php:551
+msgid "Reusable Blocks list navigation"
+msgstr "ניווט ברשימת בלוקים לשימוש חוזר"
+
+#: lib/compat.php:552
+msgid "Reusable Blocks list"
+msgstr "רשימת בלוקים לשימוש חוזר"
+
+#: lib/compat.php:553
+msgid "Reusable Block published."
+msgstr "בלוק לשימוש חוזר פורסם."
+
+#: lib/compat.php:554
+msgid "Reusable Block published privately."
+msgstr "בלוק לשימוש חוזר פורסם באופן פרטי."
+
+#: lib/compat.php:555
+msgid "Reusable Block reverted to draft."
+msgstr "בלוק לשימוש חוזר הוחזר למצב טיוטה."
+
+#: lib/compat.php:556
+msgid "Reusable Block scheduled."
+msgstr "בלוק לשימוש חוזר תוזמן לפרסום."
+
+#: lib/compat.php:557
+msgid "Reusable Block updated."
+msgstr "בלוק לשימוש חוזר עודכן."
+
+#: lib/compat.php:541
+msgctxt "Reusable Block"
+msgid "Add New"
+msgstr "הוספת בלוק לשימוש חוזר"
+
+#: lib/class-wp-rest-image-editor-controller.php:99
+msgid "Sorry, you are not allowed to upload media on this site."
+msgstr "אין לך הרשאות להעלות קבצי מדיה."
+
+#: lib/class-wp-rest-plugins-controller.php:228
+msgid "Sorry, you are not allowed to manage this plugin."
+msgstr "אין לך הרשאות לשנות תוסף זה."
+
+#: lib/compat.php:324 build/blocks/index.js:1
+msgid "Text"
+msgstr "טקסט"
+
+#: lib/class-wp-rest-block-types-controller.php:86
+msgid "Block name."
+msgstr "שם הבלוק."
+
+#: lib/class-wp-theme-json-resolver.php:88
+#: lib/class-wp-theme-json-resolver.php:161 build/block-editor/index.js:27
+msgid "Black"
+msgstr "שחור"
+
+#: lib/class-wp-theme-json-resolver.php:90 build/block-editor/index.js:27
+msgid "White"
+msgstr "לבן"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:338 build/edit-post/index.js:39
+#: build/edit-site/index.js:9 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:24
+msgid "Content"
+msgstr "תוכן"
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "כתובת אינטרנט שגויה."
+
+#: lib/class-wp-rest-menus-controller.php:262
+#: lib/class-wp-rest-menus-controller.php:371
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "לא ניתן להגדיר מונח אב, הטקסונומיה איננה היררכית."
+
+#: lib/class-wp-rest-menus-controller.php:458
+msgid "The term cannot be deleted."
+msgstr "לא ניתן למחוק את המונח."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:448
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "לא ניתן להעביר מונחים לפח. יש להגדיר  '%s' כדי למחוק."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1059
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "המונחים המשוייכים לאובייקט בטקסונומיה \"%s\"."
+
+#: lib/class-wp-rest-menu-items-controller.php:1093
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "הגבלת תוצאות לפוסטים עם ערך menu_order מסויים."
+
+#: lib/class-wp-rest-menu-items-controller.php:911
+msgid "A named status for the object."
+msgstr "שם הסטטוס עבור האובייקט."
+
+#: lib/class-wp-rest-menu-items-controller.php:873
+msgid "Title for the object, as it exists in the database."
+msgstr "הכותרת של האובייקט, כפי שהיא מופיעה במסד הנתונים."
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "HTML title for the object, transformed for display."
+msgstr "כותרת HTML של האובייקט, ששונתה לצורך תצוגה."
+
+#: lib/class-wp-rest-menu-items-controller.php:174
+msgid "Cannot create existing post."
+msgstr "לא ניתן ליצור פוסט קיים."
+
+#: lib/class-wp-rest-menu-items-controller.php:1098
+msgid "Order sort attribute ascending or descending."
+msgstr "סדר מיון עולה או יורד."
+
+#: lib/class-wp-rest-menu-items-controller.php:1105
+msgid "Sort collection by object attribute."
+msgstr "מיון אוסף לפי תכונות אובייקט."
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "אין לך הרשאות לערוך מונח זה."
+
+#: lib/class-wp-rest-menu-items-controller.php:531
+msgid "Invalid menu ID."
+msgstr "מספר תפריט שגוי."
+
+#: lib/class-wp-rest-menus-controller.php:268
+#: lib/class-wp-rest-menus-controller.php:377
+msgid "Parent term does not exist."
+msgstr "מונח אב לא קיים."
+
+#: lib/class-wp-rest-menu-items-controller.php:348
+msgid "The post cannot be deleted."
+msgstr "לא ניתן למחוק את הפוסט."
+
+#: lib/class-wp-rest-menu-items-controller.php:158
+#: lib/class-wp-rest-customizer-nonces.php:51
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "אין לך הרשאות לערוך תכנים מסוג זה."
+
+#: lib/class-wp-rest-menu-items-controller.php:495
+msgid "Invalid post ID."
+msgstr "מספר פוסט שגוי."
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "סוג תוכן שגוי."
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "אין לך הרשאות לערוך פריטים בטקסונומיה זו."
+
+#: build/block-library/blocks/query-pagination.php:26
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Previous"
+msgstr "קודם"
+
+#: build/block-library/blocks/query-pagination.php:33
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Next"
+msgstr "לשלב הבא"
+
+#: lib/templates.php:37
+msgid "Template"
+msgstr "תבנית עמוד"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "שגיאת RSS:"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "לא ניתן להגיע לפיד, השרת כנראה לא פעיל. יש לנסות שנית מאוחר יותר."
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:42
+#: build/block-library/index.js:49
+msgid "Search"
+msgstr "חיפוש"
+
+#: lib/editor-settings.php:28 build/block-editor/index.js:27
+msgid "Thumbnail"
+msgstr "תמונה מוקטנת"
+
+#: lib/editor-settings.php:31 build/block-editor/index.js:27
+msgid "Full Size"
+msgstr "גודל מלא"
+
+#: lib/full-site-editing/default-template-types.php:69 lib/compat.php:329
+#: build/core-data/index.js:1 build/block-editor/index.js:67
+#: build/blocks/index.js:1
+msgid "Media"
+msgstr "מדיה"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr "M j, Y G:i"
+
+#: lib/class-wp-theme-json-resolver.php:130
+#: lib/class-wp-theme-json-resolver.php:157 lib/editor-settings.php:29
+#: build/components/index.js:10 build/block-editor/index.js:27
+msgid "Medium"
+msgstr "בינוני"
+
+#: lib/class-wp-theme-json-resolver.php:129 build/block-library/index.js:55
+msgid "Normal"
+msgstr "רגיל"
+
+#: lib/class-wp-theme-json-resolver.php:132 build/block-library/index.js:55
+msgid "Huge"
+msgstr "ענק"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "אין ארכיון לתצוגה."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "נוף יפה"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "מדיה"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "מאט מולנווג, 2017"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "עיזרו לבנות את גוטנברג"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "קוד הוא שירה"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "תודה שבדיקת את גוטנברג."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "קהילת וורדפרס"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "עיצוב ויזואלי"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "גלריות"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "תמונות וסרטים"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "טקסטים וכותרות"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "ו<em>רשימה</em> כמו זו, כמובן :)"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "תמונה שווה אלף מילים"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... כמו זו, המיושרת לימין."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "ברוכים הבאים לעורך גוטנברג"
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "קטן"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "הכותרת של האובייקט."
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "מזהה יחודי לאובייקט."
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "תמיכה"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "אין תגובות להציג."
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "בחירת פוסט"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "בחירת שבוע"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "בחירת יום"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "בחירת חודש"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "בחירת שנה"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s על %2$s"
+
+#: build/block-library/blocks/archives.php:27 build/block-library/index.js:16
+msgid "Archives"
+msgstr "ארכיונים"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "גדול"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "רגיל"
+
+#: lib/class-wp-theme-json-resolver.php:89 build/block-editor/index.js:27
+msgid "Cyan bluish gray"
+msgstr "ציאן אפור כחלחל"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "ציאן ירוק בהיר"
+
+#: lib/class-wp-theme-json-resolver.php:91 build/block-editor/index.js:27
+msgid "Pale pink"
+msgstr "ורוד בהיר"
+
+#: lib/class-wp-theme-json-resolver.php:92 build/block-editor/index.js:27
+msgid "Vivid red"
+msgstr "אדום בהיר"
+
+#: lib/class-wp-theme-json-resolver.php:97 build/block-editor/index.js:27
+msgid "Pale cyan blue"
+msgstr "ציאן כחול בהיר"
+
+#: gutenberg.php:112
+msgid "beta"
+msgstr "בטא"
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "ה-ID של אובייקט האב."
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "מספר מונח שגוי."
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "תמונה ראשית"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(ללא כותרת)"
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "נטוי"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "מודגש"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "ציטוט"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "כתיבת כותרת…"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "סטטוס"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:40 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-post/index.js:21 build/edit-post/index.js:22
+#: build/edit-widgets/index.js:9
+msgid "Block"
+msgstr "בלוק"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "וידג'טים"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "מדפיסים משנת 1440. תוסף זה נמצא בפיתוח לטובת עורך התוכן החדש של וורדפרס."
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "לפני %s"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "%s מעכשיו"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "גוטנברג"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "צוות גוטנברג"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "הדגמה"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "G:i"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "בחירת קטגוריה"
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "תיעוד"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "מזהה לכתובת"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "j בF Y"
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "j בF Y G:i"

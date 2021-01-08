@@ -1,0 +1,2087 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-09 00:18:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/full-site-editing/default-template-types.php:29
+msgctxt "Template name"
+msgid "Singular"
+msgstr "個別"
+
+#: lib/full-site-editing.php:83
+msgid "Edit site"
+msgstr "サイトを編集"
+
+#: lib/patterns/large-header-button.php:10
+msgid "Thou hast seen<br>nothing yet"
+msgstr "あなたはまだ<br>何も見ていない"
+
+#: lib/templates.php:97
+msgid "Themes"
+msgstr "テーマ"
+
+#. translators: %s: Number of auto-draft posts.
+#: lib/full-site-editing/templates-utils.php:99
+msgctxt "Post status"
+msgid "Auto-Draft <span class=\"count\">(%s)</span>"
+msgid_plural "Auto-Drafts <span class=\"count\">(%s)</span>"
+msgstr[0] "自動保存下書き <span class=\"count\">(%s)</span>"
+
+#: lib/full-site-editing/templates-utils.php:71
+msgid "(Created from a template file)"
+msgstr "(テンプレートファイルから作成)"
+
+#: lib/full-site-editing/templates-utils.php:47
+msgctxt "Post status"
+msgid "Auto-Draft"
+msgstr "自動保存下書き"
+
+#: lib/full-site-editing/default-template-types.php:82
+msgid "Used when the queried content cannot be found"
+msgstr "クエリーしたコンテンツが見つからない場合に使用される"
+
+#: lib/full-site-editing/default-template-types.php:81
+msgctxt "Template name"
+msgid "404"
+msgstr "404"
+
+#: lib/full-site-editing/default-template-types.php:77
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: lib/full-site-editing/default-template-types.php:74
+msgid "Used when a visitor searches the site"
+msgstr "訪問者がサイトを検索すると使用される"
+
+#: lib/full-site-editing/default-template-types.php:70
+msgid "Used when a Media entry is queried"
+msgstr "メディアエントリーをクエリーすると使用される"
+
+#: lib/full-site-editing/default-template-types.php:66
+msgid "Used when a list of Posts with a certain tag is queried"
+msgstr "タグでクエリーした投稿の一覧で使用される"
+
+#: lib/full-site-editing/default-template-types.php:65
+msgctxt "Template name"
+msgid "Tag Archive"
+msgstr "タグアーカイブ"
+
+#: lib/full-site-editing/default-template-types.php:62
+msgid "Used when a list of Posts from a certain date are queried"
+msgstr "日付でクエリーした投稿の一覧で使用される"
+
+#: lib/full-site-editing/default-template-types.php:61
+msgctxt "Template name"
+msgid "Date Archive"
+msgstr "日付アーカイブ"
+
+#: lib/full-site-editing/default-template-types.php:58
+msgid "Used when a list of posts from a taxonomy is queried"
+msgstr "タクソノミーでクエリーした投稿の一覧で使用される"
+
+#: lib/full-site-editing/default-template-types.php:57
+msgctxt "Template name"
+msgid "Taxonomy Archive"
+msgstr "タクソノミーアーカイブ"
+
+#: lib/full-site-editing/default-template-types.php:54
+msgid "Used when a list of Posts from a category is queried"
+msgstr "カテゴリーでクエリーした投稿の一覧で使用される"
+
+#: lib/full-site-editing/default-template-types.php:53
+msgctxt "Template name"
+msgid "Post Category Archive"
+msgstr "投稿カテゴリーアーカイブ"
+
+#: lib/full-site-editing/default-template-types.php:50
+msgid "Used when a list of Posts from a single author is queried"
+msgstr "投稿者でクエリーした投稿の一覧で使用される"
+
+#: lib/full-site-editing/default-template-types.php:49
+msgctxt "Template name"
+msgid "Author Archive"
+msgstr "投稿者アーカイブ"
+
+#: lib/full-site-editing/default-template-types.php:46
+msgid "Used when multiple entries are queried. This template will be overridden the Category, Author, and Date templates where appropriate"
+msgstr "複数のエントリーをクエリーすると使用される。このテンプレートは必要に応じて、カテゴリーテンプレート、投稿者テンプレート、日付テンプレートで上書きされる"
+
+#: lib/full-site-editing/default-template-types.php:42
+msgid "Used when an individual Page is queried"
+msgstr "個別の固定ページをクエリーすると使用される"
+
+#: lib/full-site-editing/default-template-types.php:41
+msgctxt "Template name"
+msgid "Page"
+msgstr "固定ページ"
+
+#: lib/full-site-editing/default-template-types.php:38
+msgid "Used when a single Post is queried"
+msgstr "個別の投稿をクエリーすると使用される"
+
+#: lib/full-site-editing/default-template-types.php:37
+msgctxt "Template name"
+msgid "Post"
+msgstr "投稿"
+
+#: lib/full-site-editing/default-template-types.php:34
+msgid "Used when a single entry that is not a Page is queried"
+msgstr "固定ページでない単一エントリーをクエリーすると使用される"
+
+#: lib/full-site-editing/default-template-types.php:30
+msgid "Used when a single entry is queried. This template will be overridden the Single, Post, and Page templates where appropriate"
+msgstr "単一のエントリーをクエリーすると使用される。このテンプレートは必要に応じて、個別テンプレート、投稿テンプレート、固定ページテンプレートで上書きされる"
+
+#: lib/full-site-editing/default-template-types.php:26
+msgid "Used when the site home page is queried"
+msgstr "サイトのホームページをクエリーすると使用される"
+
+#: lib/full-site-editing/default-template-types.php:22
+msgid "The home page template, which is the front page by default. If you use a static front page this is the template for the page with the latest posts"
+msgstr "デフォルトではフロントページとなるホームページテンプレート。静的フロントページを使用する場合は、最新の投稿を表示するページのテンプレート"
+
+#: lib/full-site-editing/default-template-types.php:21
+msgctxt "Template name"
+msgid "Home"
+msgstr "ホーム"
+
+#: lib/full-site-editing/default-template-types.php:18
+msgid "The default template which is used when no other template can be found"
+msgstr "他のテンプレートが見つからない場合に使用されるデフォルトテンプレート"
+
+#: lib/class-wp-theme-json-resolver.php:160
+msgid "Heavy"
+msgstr "極太"
+
+#: lib/class-wp-theme-json-resolver.php:158
+msgid "Semibold"
+msgstr "中太"
+
+#: lib/class-wp-theme-json-resolver.php:154
+msgid "Thin"
+msgstr "極細"
+
+#: lib/class-wp-theme-json-resolver.php:153
+msgid "Ultralight"
+msgstr "超極細"
+
+#: lib/class-wp-theme-json-resolver.php:144
+#: lib/class-wp-theme-json-resolver.php:163
+msgid "Inherit"
+msgstr "継承"
+
+#: lib/class-wp-theme-json-resolver.php:143
+#: lib/class-wp-theme-json-resolver.php:162
+msgid "Initial"
+msgstr "初期値"
+
+#: lib/full-site-editing.php:26
+msgid "You're using an experimental Full Site Editing theme. Full Site Editing is an experimental feature and potential API changes are to be expected!"
+msgstr "実験中のフルサイト編集テーマを使用しています。フルサイト編集は実験中の機能のため API が変更される可能性があります。"
+
+#. translators: %s: "beta" label.
+#: gutenberg.php:111
+msgid "Site Editor %s"
+msgstr "サイトエディター %s"
+
+#: lib/full-site-editing/default-template-types.php:73
+msgctxt "Template name"
+msgid "Search Results"
+msgstr "検索結果"
+
+#: lib/full-site-editing/default-template-types.php:17
+msgctxt "Template name"
+msgid "Index"
+msgstr "インデックス"
+
+#: lib/full-site-editing/default-template-types.php:33
+msgctxt "Template name"
+msgid "Single"
+msgstr "単一"
+
+#: lib/full-site-editing/default-template-types.php:45
+msgctxt "Template name"
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: lib/full-site-editing/default-template-types.php:25
+msgctxt "Template name"
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: lib/class-wp-rest-menu-items-controller.php:92
+msgid "Whether to bypass Trash and force deletion."
+msgstr "ゴミ箱に入れずに強制的に削除するかどうか。"
+
+#: lib/class-wp-rest-menu-items-controller.php:58
+msgid "The password for the post if it is password protected."
+msgstr "パスワードで保護されている場合の投稿のパスワード。"
+
+#: lib/class-wp-rest-sidebars-controller.php:396
+msgid "HTML content to append to the sidebar title when displayed. Default is a closing h2 element."
+msgstr "表示時にサイドバータイトルに追加する HTML コンテンツ。デフォルトは h2 要素の終了タグ。"
+
+#: lib/class-wp-rest-sidebars-controller.php:389
+msgid "HTML content to prepend to the sidebar title when displayed. Default is an opening h2 element."
+msgstr "表示時にサイドバータイトルに先行する HTML コンテンツ。デフォルトは h2 要素の開始タグ。"
+
+#: lib/class-wp-rest-sidebars-controller.php:382
+msgid "HTML content to append to each widget's HTML output when assigned to this sidebar. Default is a closing list item element."
+msgstr "このサイドバーへの割り当て時に各ウィジェットの HTML 出力に追加される HTML コンテンツ。デフォルトはリスト要素の終了タグ。"
+
+#: lib/class-wp-rest-sidebars-controller.php:375
+msgid "HTML content to prepend to each widget's HTML output when assigned to this sidebar. Default is an opening list item element."
+msgstr "このサイドバーへの割り当て時に各ウィジェットの HTML 出力に先行する HTML コンテンツ。デフォルトはリスト要素の開始タグ。"
+
+#: lib/class-wp-rest-sidebars-controller.php:368
+msgid "Extra CSS class to assign to the sidebar in the Widgets interface."
+msgstr "ウィジェットインターフェース内のサイドバーに割り当てる外部 CSS クラス"
+
+#: lib/class-wp-rest-sidebars-controller.php:155
+msgid "No sidebar exists with that id."
+msgstr "この id のサイドバーは存在しません。"
+
+#: lib/class-wp-rest-batch-controller.php:216
+msgid "The handler for the route is invalid"
+msgstr "ルートのハンドラが無効です"
+
+#: lib/class-wp-rest-batch-controller.php:143
+#: lib/class-wp-rest-batch-controller.php:249
+msgid "The requested route does not support batch requests."
+msgstr "リクエストされたルートはバッチリクエストをサポートしません。"
+
+#: lib/class-wp-rest-batch-controller.php:89
+msgid "Could not parse the path."
+msgstr "パスを解析できませんでした。"
+
+#: lib/class-wp-rest-widgets-controller.php:734
+msgid "The sidebar the widget belongs to."
+msgstr "ウィジェットが属するサイドバー。"
+
+#: lib/class-wp-rest-widgets-controller.php:700
+msgid "The sidebar to return widgets for."
+msgstr "ウィジェットを戻すためのサイドバー。"
+
+#: lib/class-wp-rest-widgets-controller.php:477
+msgid "The requested widget is invalid."
+msgstr "リクエストされたウィジェットは無効です。"
+
+#: lib/class-wp-rest-widgets-controller.php:359
+msgid "No widget was found with that id."
+msgstr "この id のウィジェットは見つかりませんでした。"
+
+#: lib/class-wp-rest-widgets-controller.php:334
+msgid "Sorry, you are not allowed to manage widgets on this site."
+msgstr "このサイトのウィジェットを管理する権限がありません。"
+
+#: lib/class-wp-rest-widgets-controller.php:70
+msgid "Whether to force removal of the widget, or move it to the inactive sidebar."
+msgstr "強制的にウィジェットを削除するか、無効化サイドバーに移動するかどうか。"
+
+#: lib/class-wp-rest-widget-types-controller.php:379
+msgid "Customize selective refresh."
+msgstr "選択リフレッシュのカスタマイズ。"
+
+#: lib/class-wp-rest-widget-types-controller.php:372
+msgid "Widget class name."
+msgstr "ウィジェットクラス名。"
+
+#: lib/class-wp-rest-widget-types-controller.php:365
+msgid "Option name."
+msgstr "オプション名。"
+
+#: lib/class-wp-rest-widget-types-controller.php:358
+msgid "Class name"
+msgstr "クラス名"
+
+#: lib/class-wp-rest-widget-types-controller.php:338
+#: lib/class-wp-rest-widget-types-controller.php:345
+msgid "Unique name identifying the widget type."
+msgstr "ウィジェットタイプを識別する固有の名前。"
+
+#: lib/class-wp-rest-widget-types-controller.php:188
+msgid "Invalid widget type."
+msgstr "無効なウィジェットタイプ。"
+
+#: lib/class-wp-rest-widget-types-controller.php:85
+msgid "Widget name."
+msgstr "ウィジェット名。"
+
+#: build/edit-widgets/blocks/legacy-widget.php:32
+msgid "Rendering legacy widget block using widgetId is unsupported."
+msgstr "widgetId を使用した古いウィジェットブロックのレンダリングはサポートされていません。"
+
+#: lib/class-wp-rest-menu-items-controller.php:980
+msgid "HTML content to display for this block menu item."
+msgstr "このブロックメニュー要素に表示する HTML コンテンツ。"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Three"
+msgstr "第3章"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Two"
+msgstr "第2章"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter One"
+msgstr "第1章"
+
+#: lib/class-wp-rest-widgets-controller.php:767
+msgid "HTML representation of the widget admin form."
+msgstr "ウィジェット管理フォームの HTML 表現。"
+
+#: lib/class-wp-rest-sidebars-controller.php:262
+msgid "Inactive widgets"
+msgstr "使用停止中のウィジェット"
+
+#: lib/patterns/large-header-button.php:10
+msgid "Read now"
+msgstr "今すぐ読む"
+
+#. translators: 1: Pattern name.
+#: lib/class-wp-block-patterns-registry.php:74
+msgid "Block pattern \"%1$s\" not found."
+msgstr "ブロックパターン「%1$s」が見つかりません。"
+
+#: lib/class-wp-block-patterns-registry.php:46
+msgid "Block pattern title must be a string."
+msgstr "ブロックパターンのタイトルは文字列でなければなりません。"
+
+#: lib/class-wp-rest-widgets-controller.php:773
+msgid "Settings of the widget."
+msgstr "ウィジェットの設定。"
+
+#: lib/class-wp-rest-widgets-controller.php:761
+msgid "HTML representation of the widget."
+msgstr "ウィジェットの HTML 表現。"
+
+#: lib/class-wp-rest-widgets-controller.php:756
+msgid "Number of the widget."
+msgstr "ウィジェットの数。"
+
+#: lib/class-wp-rest-widgets-controller.php:751
+#: lib/class-wp-rest-widget-types-controller.php:352
+msgid "Description of the widget."
+msgstr "ウィジェットの説明。"
+
+#: lib/class-wp-rest-widgets-controller.php:746
+#: lib/class-wp-rest-widget-types-controller.php:58
+msgid "Name of the widget."
+msgstr "ウィジェット名。"
+
+#: lib/class-wp-rest-widgets-controller.php:741
+msgid "Class name of the widget implementation."
+msgstr "ウィジェットの実装のクラス名。"
+
+#: lib/class-wp-rest-widgets-controller.php:729
+msgid "Type of widget for the object."
+msgstr "オブジェクトのウィジェットタイプ。"
+
+#: lib/class-wp-rest-sidebars-controller.php:411
+msgid "Nested widgets."
+msgstr "ネストしたウィジェット。"
+
+#: lib/class-wp-rest-sidebars-controller.php:403
+msgid "Status of sidebar."
+msgstr "サイドバーの状態。"
+
+#: lib/class-wp-rest-sidebars-controller.php:361
+msgid "Description of sidebar."
+msgstr "サイドバーの説明。"
+
+#: lib/class-wp-rest-sidebars-controller.php:354
+msgid "Unique name identifying the sidebar."
+msgstr "サイドバーを識別する固有の名前。"
+
+#: lib/class-wp-rest-sidebars-controller.php:347
+msgid "ID of sidebar."
+msgstr "サイドバーの ID。"
+
+#: lib/class-wp-rest-sidebars-controller.php:80
+msgid "The id of a registered sidebar"
+msgstr "登録されたサイドバーの ID"
+
+#: lib/class-wp-widget-block.php:33
+msgid "Gutenberg block."
+msgstr "Gutenberg ブロック。"
+
+#: lib/full-site-editing/templates-utils.php:16 build/block-library/index.js:36
+msgid "Description"
+msgstr "説明"
+
+#: lib/patterns/large-header-button.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with a bright gradient background, a big heading and a filled button."
+msgstr "明るいグラデーションの背景、大きな見出し、単色ボタンを含む大きなヒーローセクション。"
+
+#: lib/patterns/large-header-button.php:9
+msgid "Large header with a heading and a button "
+msgstr "見出しとボタンを含む大きなヘッダー"
+
+#: lib/patterns/two-images.php:12
+msgid "An old pencil drawing of Don Quixote and Sancho Panza sitting on their horses, by Wilhelm Marstrand."
+msgstr "ウィルヘルム・マーストランドによる、馬に乗ったドン・キホーテとサンチョ・パンザの古い鉛筆画。"
+
+#: lib/patterns/text-two-columns.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text preceded by a long heading."
+msgstr "長い見出しの後に続く2カラムのテキスト。"
+
+#: lib/patterns/text-two-columns.php:11
+msgid "The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman."
+msgstr "残りは休日用の上質な上着、ベルベットのズボン、靴になりましたが、平日の間は最高の手織りの服で勇敢な姿を見せていました。彼の家には、40歳を越えた家政婦、まだ20歳前の姪、そして畑や市場で働く若者がおりました。この郷士はもうすぐ50歳になろうとする年齢で、骨組みは頑丈、肉付きは薄く、細面、たいへんな早寝早起きで、部類の狩猟好きでした。"
+
+#: lib/patterns/text-two-columns.php:11
+msgid "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income."
+msgstr "それほど昔のことではありません。その名は忘れましたが、ラ・マンチャ地方のある村に、槍立て台に槍、古い盾、痩せ馬と猟犬と住むような型通りの郷士がおりました。羊肉よりも牛肉の方が多めの煮込み鍋、ほとんどの夜食はサラダ、土曜日には臓物、金曜日にはレンズ豆、日曜日には少し贅沢に小鳩を余分に食べ、これで収入の4分の3ほどは消えていました。"
+
+#: lib/patterns/text-two-columns.php:11
+msgid "Which treats of the character and pursuits of the famous gentleman Don Quixote of La Mancha"
+msgstr "高名なる郷士、ドン・キホーテ・デ・ラマンチャの人柄と冒険について"
+
+#: lib/patterns/two-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Two buttons, one filled and one outlined, side by side."
+msgstr "塗りつぶしとアウトラインスタイルが1つずつ横に並んだ2つのボタン。"
+
+#: lib/patterns/two-buttons.php:10
+msgid "Download now"
+msgstr "今すぐダウンロード"
+
+#: lib/patterns/large-header.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with an example background image and a heading in the center."
+msgstr "サンプル背景画像と中央寄せの見出しを含む大きなヒーローセクション。"
+
+#: lib/patterns/large-header.php:10
+msgid "Don Quixote"
+msgstr "ドンキホーテ"
+
+#: lib/patterns/large-header.php:9
+msgid "Large header with a heading"
+msgstr "見出しを含む大きなヘッダー"
+
+#: lib/patterns/heading-paragraph.php:12
+msgctxt "Block pattern description"
+msgid "A heading preceded by a chapter number, and followed by a paragraph."
+msgstr "章番号の後に続き、次に段落がある見出し。"
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge."
+msgstr "これらの準備が終わった後、彼は計画の実行をこれ以上先延ばしにしようとは思いませんでした。正そうとしている過ち、取り消そうとしている不平、修復しようとしている不公平、取り除こうとしている虐待、そして放棄しようとしている義務のことを考え、自分の遅れによってそれだけ世界の損失も大きいとの思いに駆られたのです。"
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "Which treats of the first sally the ingenious Don Quixote made from home"
+msgstr "才知あふれる郷士ドン・キホーテの最初の旅立ち"
+
+#: lib/patterns/heading-paragraph.php:9
+msgid "Heading and paragraph"
+msgstr "見出しと段落"
+
+#: lib/patterns/three-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Three filled buttons with rounded corners, side by side."
+msgstr "3つ横並びの丸角塗りつぶしボタン。"
+
+#: lib/patterns/three-buttons.php:10 build/block-library/index.js:16
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: lib/patterns/two-buttons.php:10 lib/patterns/three-buttons.php:10
+msgid "About Cervantes"
+msgstr "セルバンテスについて"
+
+#: lib/patterns/text-three-columns-buttons.php:12
+msgctxt "Block pattern description"
+msgid "Three small columns of text, each with an outlined button with rounded corners at the bottom."
+msgstr "下部に角丸アウトラインボタンをそれぞれ含む、3つの小さなテキストカラム。"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Wherein is related the droll way in which Don Quixote had himself dubbed a knight."
+msgstr "ドン・キホーテが騎士に叙された愉快な儀式について"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the first sally the ingenious Don Quixote made from home."
+msgstr "才知あふれる郷士ドン・キホーテの最初の旅立ち。"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the character and pursuits of the famous Don Quixote of La Mancha."
+msgstr "高名なる郷士、ドン・キホーテ・デ・ラマンチャの人柄と冒険について。"
+
+#: lib/patterns/quote.php:13
+msgctxt "Block pattern description"
+msgid "A quote and citation with an image above, and a separator at the bottom."
+msgstr "上に画像、下に区切りを含む引用文と引用元情報。"
+
+#: lib/patterns/quote.php:10
+msgid "— Don Quixote"
+msgstr "— ドン・キホーテ"
+
+#: lib/patterns/quote.php:10
+msgid "\"Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.\""
+msgstr "「友よ、サンチョ。向こうに30だか40だかの大きな巨人が見えるか ? 私は彼らと戦い、殺すつもりだ」"
+
+#: lib/patterns/quote.php:10
+msgid "Pencil drawing of Don Quixote"
+msgstr "ドン・キホーテの鉛筆画"
+
+#: lib/patterns/text-two-columns-with-images.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text, each with an image on top."
+msgstr "2カラムのテキスト。それぞれ上部に画像を含む。"
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like \"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\" or again, \"the high heavens render you deserving of the desert your greatness deserves.\""
+msgstr "しかし、それら多くの中でも有名なフェリシアーノ・デ・シルバの作品ほど彼が好んだものはありませんでした。その文章の明晰さと錯綜した論理は、彼の目には珠玉のように思われたからです。特に、文中で恋文や決闘状に出くわしたときには「道理なき道理の前に我が道理の力も弱まり、君が美しさをつぶやくこともまた道理なり」、あるいは「高い天は、君をその偉大さに値する砂漠にふさわしく映す」というような一節をしばしば見つけたからです。"
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "They must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
+msgstr "それならば、この郷士は暇な時 (もっとも、ほとんど一年中暇なのでしたが)、騎士道の本を熱心に読みふけって、狩猟はおろか、財産の管理さえもほとんど完全に忘れるほどだったことを彼らは知っていたに違いありません。さらに彼の情熱は何エーカーもの耕作地を売って読みたい騎士道の本を買い求めるほどで、手に入る限りの本を持ち帰ったのでした。"
+
+#: lib/edit-site-page.php:200
+msgid "The ID of the page that should be displayed on the front page"
+msgstr "フロントページに表示するページの ID"
+
+#: lib/edit-site-page.php:190
+msgid "What to show on the front page"
+msgstr "フロントページに表示する内容"
+
+#: lib/compat.php:557
+msgid "Reusable Block updated."
+msgstr "再利用ブロックを更新しました。"
+
+#: lib/compat.php:556
+msgid "Reusable Block scheduled."
+msgstr "再利用ブロックを公開予約しました。"
+
+#: lib/compat.php:555
+msgid "Reusable Block reverted to draft."
+msgstr "再利用ブロックを下書きに戻しました。"
+
+#: lib/compat.php:554
+msgid "Reusable Block published privately."
+msgstr "再利用ブロックを限定公開しました。"
+
+#: lib/compat.php:553
+msgid "Reusable Block published."
+msgstr "再利用ブロックを公開しました。"
+
+#: lib/compat.php:552
+msgid "Reusable Blocks list"
+msgstr "再利用ブロックリスト"
+
+#: lib/compat.php:551
+msgid "Reusable Blocks list navigation"
+msgstr "再利用ブロックリストのナビゲーション"
+
+#: lib/compat.php:550
+msgid "Filter reusable blocks list"
+msgstr "再利用ブロック一覧を絞り込む"
+
+#: lib/compat.php:549
+msgid "No reusable blocks found in Trash."
+msgstr "ゴミ箱内に再利用ブロックが見つかりません。"
+
+#: lib/compat.php:548
+msgid "No reusable blocks found."
+msgstr "再利用ブロックが見つかりません。"
+
+#: lib/compat.php:547
+msgid "Search Reusable Blocks"
+msgstr "再利用ブロックを検索"
+
+#: lib/compat.php:546
+msgid "All Reusable Blocks"
+msgstr "再利用ブロック一覧"
+
+#: lib/compat.php:545
+msgid "View Reusable Block"
+msgstr "再利用ブロックを表示"
+
+#: lib/compat.php:544
+msgid "Edit Reusable Block"
+msgstr "再利用ブロックを編集"
+
+#: lib/compat.php:543
+msgid "New Reusable Block"
+msgstr "新規再利用ブロック"
+
+#: lib/compat.php:542
+msgid "Add New Reusable Block"
+msgstr "新規再利用ブロックを追加"
+
+#: lib/compat.php:541
+msgctxt "Reusable Block"
+msgid "Add New"
+msgstr "新規追加"
+
+#: lib/compat.php:540
+msgctxt "add new on admin bar"
+msgid "Reusable Block"
+msgstr "再利用ブロック"
+
+#: lib/compat.php:539
+msgctxt "admin menu"
+msgid "Reusable Blocks"
+msgstr "再利用ブロック"
+
+#: lib/compat.php:538
+msgctxt "post type singular name"
+msgid "Reusable Block"
+msgstr "再利用ブロック"
+
+#: lib/compat.php:537
+msgctxt "post type general name"
+msgid "Reusable Blocks"
+msgstr "再利用ブロック"
+
+#: build/block-library/blocks/site-logo.php:95
+msgid "Site logo."
+msgstr "サイトロゴ。"
+
+#: lib/patterns/three-buttons.php:10
+msgid "Books"
+msgstr "書名"
+
+#: lib/class-wp-rest-menus-controller.php:589
+msgid "Whether to automatically add top level pages to this menu."
+msgstr "自動的にトップレベルのページをこのメニューに追加するかどうか。"
+
+#: lib/class-wp-rest-menus-controller.php:171
+msgid "Sorry, you are not allowed to set auto add pages."
+msgstr "自動ページ追加を設定する権限がありません。"
+
+#: lib/patterns/text-two-columns-with-images.php:9
+msgid "Two columns of text with images"
+msgstr "画像を含む2カラムのテキスト"
+
+#: lib/patterns/two-images.php:11
+msgctxt "Block pattern description"
+msgid "An image gallery with two example images."
+msgstr "画像2枚を含む画像ギャラリー。"
+
+#: lib/patterns/three-buttons.php:9
+msgid "Three buttons"
+msgstr "3つのボタン"
+
+#: lib/patterns/text-three-columns-buttons.php:9
+msgid "Three columns of text with buttons"
+msgstr "ボタンを含む3カラムのテキスト"
+
+#: lib/class-wp-block-patterns-registry.php:52
+msgid "Block pattern content must be a string."
+msgstr "ブロックパターンコンテンツは文字列でなければなりません。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1000
+msgid "Version of the block format used in the HTML content."
+msgstr "HTML コンテンツで使用されるブロックフォーマットのバージョン。"
+
+#: lib/class-wp-rest-menu-items-controller.php:994
+msgid "HTML content, transformed for display."
+msgstr "表示用に整形された、HTML コンテンツ。"
+
+#: lib/class-wp-rest-menu-items-controller.php:989
+msgid "HTML content, as it exists in the database."
+msgstr "データベースに存在する形態の、HTML コンテンツ。"
+
+#: lib/class-wp-rest-menu-items-controller.php:523
+msgid "Content required if menu item of type block."
+msgstr "ブロックタイプのメニュー項目の場合、コンテンツが必要です。"
+
+#: lib/class-wp-rest-image-editor-controller.php:249
+msgid "Unable to crop this image."
+msgstr "この画像を切り抜きできません。"
+
+#: lib/class-wp-rest-image-editor-controller.php:233
+msgid "Unable to rotate this image."
+msgstr "この画像を回転できません。"
+
+#: lib/class-wp-rest-image-editor-controller.php:225
+msgid "Unable to edit this image."
+msgstr "この画像を編集できません。"
+
+#: lib/class-wp-rest-image-editor-controller.php:209
+msgid "The image was not edited. Edit the image before applying the changes."
+msgstr "画像が編集されていませんでした。変更を適用する前に画像を編集してください。"
+
+#: lib/class-wp-rest-image-editor-controller.php:190
+msgid "This type of file cannot be edited."
+msgstr "このタイプのファイルは編集できません。"
+
+#: lib/class-wp-rest-image-editor-controller.php:131
+#: lib/class-wp-rest-image-editor-controller.php:140
+#: lib/class-wp-rest-image-editor-controller.php:178
+msgid "Unable to get meta information for file."
+msgstr "ファイルのメタ情報を取得できません。"
+
+#: lib/class-wp-rest-image-editor-controller.php:99
+msgid "Sorry, you are not allowed to upload media on this site."
+msgstr "このサイトにメディアをアップロードする権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:938
+msgid "Limits results to plugins with the given status."
+msgstr "指定したステータスに一致するプラグインのみに結果を制限します。"
+
+#: lib/class-wp-rest-plugins-controller.php:914
+msgid "The plugin's text domain."
+msgstr "プラグインのテキストドメイン。"
+
+#: lib/class-wp-rest-plugins-controller.php:908
+msgid "Minimum required version of PHP."
+msgstr "PHP の最低必須バージョン。"
+
+#: lib/class-wp-rest-plugins-controller.php:902
+msgid "Minimum required version of WordPress."
+msgstr "WordPress の最低必須バージョン。"
+
+#: lib/class-wp-rest-plugins-controller.php:896
+msgid "Whether the plugin can only be activated network-wide."
+msgstr "プラグインがサイトネットワーク全体のみで有効化できるかどうか。"
+
+#: lib/class-wp-rest-plugins-controller.php:890
+msgid "The plugin version number."
+msgstr "プラグインのバージョン番号。"
+
+#: lib/class-wp-rest-plugins-controller.php:884
+msgid "The plugin description formatted for display."
+msgstr "表示用に整形されたプラグインの説明。"
+
+#: lib/class-wp-rest-plugins-controller.php:880
+msgid "The raw plugin description."
+msgstr "加工されていないプラグインの説明。"
+
+#: lib/class-wp-rest-plugins-controller.php:874
+msgid "The plugin description."
+msgstr "プラグインの説明。"
+
+#: lib/class-wp-rest-plugins-controller.php:867
+msgid "Plugin author's website address."
+msgstr "プラグイン作者のサイトアドレス。"
+
+#: lib/class-wp-rest-plugins-controller.php:861
+msgid "The plugin author."
+msgstr "プラグイン作者。"
+
+#: lib/class-wp-rest-plugins-controller.php:854
+msgid "The plugin's website address."
+msgstr "プラグインのサイトアドレス。"
+
+#: lib/class-wp-rest-plugins-controller.php:848
+msgid "The plugin name."
+msgstr "プラグイン名。"
+
+#: lib/class-wp-rest-plugins-controller.php:835
+msgid "The plugin file."
+msgstr "プラグインファイル。"
+
+#: lib/class-wp-rest-plugins-controller.php:814
+msgid "The filesystem is currently unavailable for managing plugins."
+msgstr "ファイルシステムは現在プラグインの管理には使用できません。"
+
+#: lib/class-wp-rest-plugins-controller.php:695
+msgid "Network only plugin must be network activated."
+msgstr "サイトネットワーク限定プラグインは、サイトネットワーク上で有効化する必要があります。"
+
+#: lib/class-wp-rest-plugins-controller.php:661
+msgid "Sorry, you are not allowed to deactivate this plugin."
+msgstr "このプラグインを停止する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:653
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "このプラグインを有効化する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:645
+msgid "Sorry, you do not have permission to manage network plugins."
+msgstr "サイトネットワークのプラグインを管理する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:498
+msgid "Cannot delete an active plugin. Please deactivate it first."
+msgstr "有効化中のプラグインを削除できません。まず無効化してください。"
+
+#: lib/class-wp-rest-plugins-controller.php:463
+msgid "Sorry, you are not allowed to delete plugins for this site."
+msgstr "このサイトのプラグインを削除する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:343
+msgid "Unable to determine what plugin was installed."
+msgstr "インストールされているプラグインを判別できません。"
+
+#: lib/class-wp-rest-plugins-controller.php:253
+msgid "Sorry, you are not allowed to activate plugins."
+msgstr "プラグインを有効化する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:245
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "このサイトにプラグインをインストールする権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:228
+msgid "Sorry, you are not allowed to manage this plugin."
+msgstr "このプラグインを管理する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:215
+#: lib/class-wp-rest-plugins-controller.php:601
+msgid "Plugin not found."
+msgstr "プラグインが見つかりません。"
+
+#: lib/class-wp-rest-plugins-controller.php:118
+#: lib/class-wp-rest-plugins-controller.php:168
+#: lib/class-wp-rest-plugins-controller.php:385
+#: lib/class-wp-rest-plugins-controller.php:455
+msgid "Sorry, you are not allowed to manage plugins for this site."
+msgstr "このサイトのプラグインを管理する権限がありません。"
+
+#: lib/class-wp-rest-plugins-controller.php:61
+#: lib/class-wp-rest-plugins-controller.php:842
+msgid "The plugin activation status."
+msgstr "プラグインの有効化ステータス。"
+
+#: lib/class-wp-rest-plugins-controller.php:57
+msgid "WordPress.org plugin directory slug."
+msgstr "WordPress.org プラグインディレクトリのスラッグ。"
+
+#: lib/class-wp-rest-block-types-controller.php:495
+msgid "Block example."
+msgstr "ブロックの例。"
+
+#: lib/class-wp-rest-block-types-controller.php:485
+msgid "Block keywords."
+msgstr "ブロックキーワード。"
+
+#: lib/class-wp-rest-block-types-controller.php:475
+msgid "Parent blocks."
+msgstr "親ブロック。"
+
+#: lib/class-wp-rest-block-types-controller.php:468
+msgid "Public text domain."
+msgstr "公開テキストドメイン。"
+
+#: lib/class-wp-rest-block-types-controller.php:457
+msgid "Block style variations."
+msgstr "ブロックスタイルバリエーション。"
+
+#: lib/class-wp-rest-block-types-controller.php:450
+msgid "Public facing style handle."
+msgstr "公開スタイルハンドル。"
+
+#: lib/class-wp-rest-block-types-controller.php:443
+msgid "Editor style handle."
+msgstr "エディタースタイルハンドル。"
+
+#: lib/class-wp-rest-block-types-controller.php:436
+msgid "Public facing script handle."
+msgstr "公開スクリプトハンドル。"
+
+#: lib/class-wp-rest-block-types-controller.php:429
+msgid "Editor script handle."
+msgstr "エディタースクリプトハンドル。"
+
+#: lib/class-wp-rest-block-types-controller.php:422
+msgid "Is the block dynamically rendered."
+msgstr "ブロックは動的にレンダリングされるか。"
+
+#: lib/class-wp-rest-block-types-controller.php:415
+msgid "Block category."
+msgstr "ブロックカテゴリー。"
+
+#: lib/class-wp-rest-block-types-controller.php:407
+msgid "Block supports."
+msgstr "ブロックサポート。"
+
+#: lib/class-wp-rest-block-types-controller.php:397
+msgid "Context values inherited by blocks of this type."
+msgstr "このタイプのブロックによって継承されるコンテキスト値。"
+
+#: lib/class-wp-rest-block-types-controller.php:386
+msgid "Context provided by blocks of this type."
+msgstr "このタイプのブロックによって提供されるコンテキスト。"
+
+#: lib/class-wp-rest-block-types-controller.php:375
+msgid "Block attributes."
+msgstr "ブロックの属性。"
+
+#: lib/class-wp-rest-block-types-controller.php:368
+msgid "Icon of block type."
+msgstr "ブロックタイプのアイコン。"
+
+#: lib/class-wp-rest-block-types-controller.php:361
+msgid "Description of block type."
+msgstr "ブロックタイプの説明。"
+
+#: lib/class-wp-rest-block-types-controller.php:354
+msgid "Unique name identifying the block type."
+msgstr "ブロックタイプを識別する固有の名前。"
+
+#: lib/class-wp-rest-block-types-controller.php:347
+msgid "Title of block type."
+msgstr "ブロックタイプのタイトル。"
+
+#: lib/class-wp-rest-block-types-controller.php:199
+msgid "Invalid block type."
+msgstr "無効なブロックタイプ。"
+
+#: lib/class-wp-rest-block-types-controller.php:187
+msgid "Sorry, you are not allowed to manage block types."
+msgstr "ブロックタイプを管理する権限がありません。"
+
+#: lib/class-wp-rest-block-types-controller.php:90
+#: lib/class-wp-rest-block-types-controller.php:522
+msgid "Block namespace."
+msgstr "ブロック名前空間。"
+
+#: lib/class-wp-rest-block-types-controller.php:86
+msgid "Block name."
+msgstr "ブロック名。"
+
+#: lib/class-wp-rest-block-directory-controller.php:326
+msgid "Limit result set to blocks matching the search term."
+msgstr "検索キーワードに一致するブロックのみに結果を制限します。"
+
+#: lib/class-wp-rest-block-directory-controller.php:296
+msgid "An object representing the block CSS and JavaScript assets."
+msgstr "ブロックの CSS と JavaScrpt アセットを表すオブジェクト。"
+
+#: lib/class-wp-rest-block-directory-controller.php:291
+msgid "The date when the block was last updated, in fuzzy human readable format."
+msgstr "ブロック最終更新日 (人間が読めるあいまいな形式)。"
+
+#: lib/class-wp-rest-block-directory-controller.php:285
+msgid "The block icon."
+msgstr "ブロックのアイコン。"
+
+#: lib/class-wp-rest-block-directory-controller.php:280
+msgid "The WordPress.org username of the block author."
+msgstr "ブロック作成者の WordPress.org ユーザー名。"
+
+#: lib/class-wp-rest-block-directory-controller.php:275
+msgid "The number of blocks published by the same author."
+msgstr "同一作者が公開したブロックの数。"
+
+#: lib/class-wp-rest-block-directory-controller.php:270
+msgid "The average rating of blocks published by the same author."
+msgstr "同一作者が公開したブロックの平均評価。"
+
+#: lib/class-wp-rest-block-directory-controller.php:265
+msgid "The number sites that have activated this block."
+msgstr "このブロックを有効化したサイトの数。"
+
+#: lib/class-wp-rest-block-directory-controller.php:260
+msgid "The number of ratings."
+msgstr "評価数。"
+
+#: lib/class-wp-rest-block-directory-controller.php:255
+msgid "The star rating of the block."
+msgstr "ブロックの星評価。"
+
+#: lib/class-wp-rest-block-directory-controller.php:250
+msgid "The block slug."
+msgstr "ブロックのスラッグ。"
+
+#: lib/class-wp-rest-block-directory-controller.php:245
+msgid "A short description of the block, in human readable format."
+msgstr "ブロックの短い説明 (人間が読める形式)。"
+
+#: lib/class-wp-rest-block-directory-controller.php:240
+msgid "The block title, in human readable format."
+msgstr "ブロックタイトル (人間が読める形式)。"
+
+#: lib/class-wp-rest-block-directory-controller.php:235
+msgid "The block name, in namespace/block-name format."
+msgstr "ブロック名 (namespace/block-name 形式)。"
+
+#: lib/class-wp-rest-block-directory-controller.php:61
+msgid "Sorry, you are not allowed to browse the block directory."
+msgstr "ブロックディレクトリの表示権限がありません。"
+
+#: lib/compat.php:334 build/blocks/index.js:1
+msgid "Design"
+msgstr "デザイン"
+
+#: lib/compat.php:324 build/blocks/index.js:1
+msgid "Text"
+msgstr "テキスト"
+
+#. translators: %1: field name. %2: block name
+#: lib/compat.php:93
+msgid "The asset file for the \"%1$s\" defined in \"%2$s\" block definition is missing."
+msgstr "\"%2$s\" ブロック定義で定義された \"%1$s\" のアセットファイルがありません。"
+
+#. translators: 1: Block name.
+#: lib/class-wp-block.php:125
+msgid "The \"providesContext\" parameter provided in block type \"%s\" is deprecated. Please use \"provides_context\"."
+msgstr "ブロックタイプ \"%s\" で提供される \"providesContext\" パラメーターは非推奨です。\"provides_context\" を使用してください。"
+
+#. translators: 1: Block name.
+#: lib/class-wp-block.php:116
+msgid "The \"context\" parameter provided in block type \"%s\" is deprecated. Please use \"uses_context\" instead."
+msgstr "ブロックタイプ \"%s\" で提供される \"context\" パラメーターは非推奨です。\"uses_context\" を使用してください。"
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:114
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:40
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#. translators: 1: Block pattern name.
+#: lib/class-wp-block-pattern-categories-registry.php:62
+msgid "Block pattern category \"%1$s\" not found."
+msgstr "ブロックパターンカテゴリー「%1$s」が見つかりません。"
+
+#: lib/class-wp-block-pattern-categories-registry.php:40
+msgid "Block pattern category name must be a string."
+msgstr "ブロックパターンカテゴリーの名前は文字列でなければなりません。"
+
+#: lib/block-patterns.php:63
+msgctxt "Block pattern category"
+msgid "Headers"
+msgstr "ヘッダー"
+
+#: lib/block-patterns.php:62
+msgctxt "Block pattern category"
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: lib/block-patterns.php:60
+msgctxt "Block pattern category"
+msgid "Buttons"
+msgstr "ボタン"
+
+#: lib/block-patterns.php:61
+msgctxt "Block pattern category"
+msgid "Columns"
+msgstr "カラム"
+
+#: lib/block-patterns.php:64
+msgctxt "Block pattern category"
+msgid "Text"
+msgstr "テキスト"
+
+#: lib/templates.php:209
+msgid "Whether to filter for resolved templates"
+msgstr "解決されたテンプレートで絞り込むかどうか"
+
+#: lib/class-wp-theme-json-resolver.php:90 build/block-editor/index.js:27
+msgid "White"
+msgstr "白"
+
+#: lib/class-wp-theme-json-resolver.php:88
+#: lib/class-wp-theme-json-resolver.php:161 build/block-editor/index.js:27
+msgid "Black"
+msgstr "黒"
+
+#: lib/patterns/two-images.php:9
+msgid "Two images side by side"
+msgstr "2つ並べて表示された画像"
+
+#: lib/patterns/text-two-columns.php:9
+msgid "Two columns of text"
+msgstr "2カラムのテキスト"
+
+#: lib/patterns/two-buttons.php:9
+msgid "Two buttons"
+msgstr "2ボタン"
+
+#: lib/template-parts.php:121
+msgid "The theme slug for the theme that created the template part."
+msgstr "テンプレートパーツを作成したテーマのテーマスラッグ"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:338 build/edit-post/index.js:39
+#: build/edit-site/index.js:9 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:24
+msgid "Content"
+msgstr "コンテンツ"
+
+#: lib/experiments-page.php:50
+msgid "Enable Navigation screen"
+msgstr "ナビゲーションスクリーンを有効化"
+
+#: gutenberg.php:62 gutenberg.php:63
+msgid "Navigation (beta)"
+msgstr "ナビゲーション(ベータ)"
+
+#: lib/class-wp-rest-menu-items-controller.php:1105
+msgid "Sort collection by object attribute."
+msgstr "オブジェクト属性でコレクションを並び替えます。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1098
+msgid "Order sort attribute ascending or descending."
+msgstr "属性で昇順または降順に並べ替えます。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1093
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "特定の menu_order 値を持つ投稿に結果を限定します。"
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1059
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "タクソノミー「%s」に属し、そのオブジェクトに割り当てられているターム。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1047
+msgid "Whether the menu item represents an object that no longer exists."
+msgstr "メニュー項目が存在しないオブジェクトを表すかどうか。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1033
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "このメニュー項目のリンクで表現された XFN 関係。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1026
+msgid "The URL to which this menu item points."
+msgstr "このメニュー項目が指す URL。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The singular label used to describe this type of menu item."
+msgstr "このタイプのメニュー項目を説明するために使う単数形のラベル。"
+
+#: lib/class-wp-rest-menu-items-controller.php:1009
+msgid "The target attribute of the link element for this menu item."
+msgstr "このメニュー項目のリンク要素のターゲット属性。"
+
+#: lib/class-wp-rest-menu-items-controller.php:972
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories."
+msgstr "このメニュー項目が表す元のオブジェクトの DB ID。例: 投稿の ID やカテゴリーの term_id。"
+
+#: lib/class-wp-rest-menu-items-controller.php:966
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "「カテゴリー」、「投稿」、「添付ファイル」など、元々表わされていたオブジェクトのタイプ。"
+
+#: lib/class-wp-rest-menu-items-controller.php:959
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
+msgstr "この項目の親メニューである nav_menu_item の DB ID (もしあれば)。ない場合は0。"
+
+#: lib/class-wp-rest-menu-items-controller.php:950
+msgid "The description of this menu item."
+msgstr "このメニュー項目の説明。"
+
+#: lib/class-wp-rest-menu-items-controller.php:936
+msgid "Class names for the link element of this menu item."
+msgstr "このメニュー項目のリンク要素のクラス名。"
+
+#: lib/class-wp-rest-menu-items-controller.php:927
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "このメニュー項目のリンク要素のタイトル属性のテキスト。"
+
+#: lib/class-wp-rest-menu-items-controller.php:911
+msgid "A named status for the object."
+msgstr "オブジェクトに対して名前がついているステータス。"
+
+#: lib/class-wp-rest-menu-items-controller.php:903
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "\"post_type\" や \"taxonomy\" のように、元々表わされていたオブジェクトのファミリー。"
+
+#: lib/class-wp-rest-menu-items-controller.php:896
+msgid "Name of type."
+msgstr "タイプの名称。"
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "HTML title for the object, transformed for display."
+msgstr "表示用に整形された、オブジェクトの HTML タイトル。"
+
+#: lib/class-wp-rest-menu-items-controller.php:873
+msgid "Title for the object, as it exists in the database."
+msgstr "データベースに存在する形態の、オブジェクトのタイトル。"
+
+#: lib/class-wp-rest-menu-items-controller.php:834
+msgid "Get linked object."
+msgstr "リンクされたオブジェクトを取得します。"
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "無効な URL。"
+
+#: lib/class-wp-rest-menu-items-controller.php:564
+#: lib/class-wp-rest-menu-items-controller.php:567
+msgid "Invalid menu item parent."
+msgstr "無効な親メニュー項目。"
+
+#: lib/class-wp-rest-menu-items-controller.php:556
+msgid "Invalid menu position."
+msgstr "無効なメニュー配置。"
+
+#: lib/class-wp-rest-menu-items-controller.php:531
+msgid "Invalid menu ID."
+msgstr "無効なメニュー ID。"
+
+#: lib/class-wp-rest-menu-items-controller.php:516
+msgid "URL required if menu item of type custom."
+msgstr "カスタムタイプのメニュー項目の場合、URL が必要です。"
+
+#: lib/class-wp-rest-menu-items-controller.php:513
+msgid "Title required if menu item of type custom."
+msgstr "カスタムタイプのメニュー項目の場合、タイトルが必要です。"
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "無効な投稿タイプ。"
+
+#: lib/class-wp-rest-menu-items-controller.php:495
+msgid "Invalid post ID."
+msgstr "無効な投稿 ID です。"
+
+#: lib/class-wp-rest-menu-items-controller.php:348
+msgid "The post cannot be deleted."
+msgstr "投稿を削除できません。"
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:340
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "メニュー項目はゴミ箱機能をサポートしていません。削除するには「%s」を設定してください。"
+
+#: lib/class-wp-rest-menu-items-controller.php:174
+msgid "Cannot create existing post."
+msgstr "既存の投稿を作成することはできません。"
+
+#: lib/class-wp-rest-menu-items-controller.php:160
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "これらのメニュー項目は、編集する権限がない限り表示できません。"
+
+#: lib/class-wp-rest-menu-items-controller.php:158
+#: lib/class-wp-rest-customizer-nonces.php:51
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "この投稿タイプの投稿を編集する権限がありません。"
+
+#: lib/class-wp-rest-menu-items-controller.php:142
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "このメニュー項目は、編集する権限がない限り表示できません。"
+
+#: lib/class-wp-rest-menus-controller.php:580
+msgid "The locations assigned to the menu."
+msgstr "メニューに割り当てられた位置。"
+
+#: lib/class-wp-rest-menus-controller.php:552
+msgid "Menu location does not exist."
+msgstr "このメニュー位置が存在しません。"
+
+#: lib/class-wp-rest-menus-controller.php:458
+msgid "The term cannot be deleted."
+msgstr "そのタームは削除できません。"
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:448
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "タームはゴミ箱機能をサポートしていません。削除するには「%s」を設定してください。"
+
+#: lib/class-wp-rest-menus-controller.php:268
+#: lib/class-wp-rest-menus-controller.php:377
+msgid "Parent term does not exist."
+msgstr "親タームがありません。"
+
+#: lib/class-wp-rest-menus-controller.php:262
+#: lib/class-wp-rest-menus-controller.php:371
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "親のタームを設定できません。タクソノミーが階層化されていません。"
+
+#: lib/class-wp-rest-menus-controller.php:139
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "その位置を割り当てる権限がありません。"
+
+#: lib/class-wp-rest-menus-controller.php:60
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "これらのメニューは、編集する権限がない限り表示できません。"
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "このタームを編集する権限がありません。"
+
+#: lib/class-wp-rest-menus-controller.php:40
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "これらのメニューは、編集する権限がない限り表示できません。"
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "このタクソノミーではタームを編集する権限がありません。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:206
+msgid "The ID of the assigned menu."
+msgstr "割り当てられたメニューの ID。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:200
+msgid "The description of the menu location."
+msgstr "このメニュー位置の説明。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:194
+msgid "The name of the menu location."
+msgstr "このメニュー位置の名称。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+#: lib/class-wp-rest-menus-controller.php:146
+msgid "Invalid menu location."
+msgstr "無効なメニュー位置。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "メニュー位置を表示する権限がありません。"
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "メニュー位置の英数字の識別子。"
+
+#: lib/class-wp-theme-json-resolver.php:340 build/edit-site/index.js:9
+msgid "Global Styles"
+msgstr "グローバルスタイル"
+
+#: lib/template-loader.php:70
+msgid "Empty template."
+msgstr "空のテンプレート。"
+
+#: lib/template-loader.php:78
+msgid "No matching template found."
+msgstr "一致するテンプレートが見つかりませんでした。"
+
+#: lib/full-site-editing/templates-utils.php:18 lib/templates.php:98
+#: build/edit-site/index.js:9
+msgid "Theme"
+msgstr "テーマ"
+
+#: lib/experiments-page.php:87
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "ブロックエディターには開発時に使用できる実験的な機能が含まれます。有効化したいものを選択してください。これらの機能は変更されることがありますので、本番サイトでは使わないようにしてください。"
+
+#: gutenberg.php:108
+msgid "Site Editor (beta)"
+msgstr "サイトエディター (ベータ)"
+
+#: build/block-library/blocks/query-pagination.php:33
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Next"
+msgstr "次"
+
+#: build/block-library/blocks/query-pagination.php:26
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Previous"
+msgstr "前"
+
+#: lib/class-wp-theme-json-resolver.php:155
+msgid "Light"
+msgstr "ライト"
+
+#: lib/class-wp-rest-widget-types-controller.php:63
+msgid "Current widget instance"
+msgstr "現在のウィジェットインスタンス"
+
+#: lib/template-parts.php:40
+msgid "Template parts to include in your templates."
+msgstr "テンプレートに含めるテンプレートパーツ。"
+
+#: lib/template-parts.php:35
+msgid "Template parts list"
+msgstr "テンプレートパート一覧"
+
+#: lib/template-parts.php:34
+msgid "Template parts list navigation"
+msgstr "テンプレートパーツ一覧のナビゲーション"
+
+#: lib/template-parts.php:33
+msgid "Filter template parts list"
+msgstr "テンプレートパーツ一覧を絞り込む"
+
+#: lib/template-parts.php:32
+msgid "Uploaded to this template part"
+msgstr "このテンプレートパーツにアップロードされました"
+
+#: lib/template-parts.php:31
+msgid "Insert into template part"
+msgstr "テンプレートパーツに挿入"
+
+#: lib/template-parts.php:30
+msgid "Template part archives"
+msgstr "テンプレートパーツアーカイブ"
+
+#: lib/template-parts.php:29
+msgid "No template parts found in Trash."
+msgstr "ゴミ箱にテンプレートパーツが見つかりません。"
+
+#: lib/template-parts.php:28
+msgid "No template parts found."
+msgstr "テンプレートパーツが見つかりません。"
+
+#: lib/template-parts.php:27
+msgid "Parent Template Part:"
+msgstr "親テンプレートパーツ:"
+
+#: lib/template-parts.php:26
+msgid "Search Template Parts"
+msgstr "テンプレートパーツを検索"
+
+#: lib/template-parts.php:25
+msgid "All Template Parts"
+msgstr "テンプレートパーツ一覧"
+
+#: lib/template-parts.php:24
+msgid "View Template Part"
+msgstr "テンプレートパーツを表示"
+
+#: lib/template-parts.php:23
+msgid "Edit Template Part"
+msgstr "テンプレートパーツを編集"
+
+#: lib/template-parts.php:22
+msgid "New Template Part"
+msgstr "新規テンプレートパーツ"
+
+#: lib/template-parts.php:21
+msgid "Add New Template Part"
+msgstr "新規テンプレートパーツを追加"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "新規追加"
+
+#: lib/template-parts.php:19
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "テンプレートパーツ"
+
+#: lib/template-parts.php:18 build/block-library/index.js:60
+msgid "Template Part"
+msgstr "テンプレートパーツ"
+
+#: lib/template-parts.php:17 build/edit-site/index.js:9
+msgid "Template Parts"
+msgstr "テンプレートパーツ"
+
+#: lib/experiments-page.php:45 build/block-library/index.js:30
+#: build/edit-navigation/index.js:3
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+#: lib/templates.php:54
+msgid "Templates list"
+msgstr "テンプレート一覧"
+
+#: lib/templates.php:53
+msgid "Templates list navigation"
+msgstr "テンプレート一覧のナビゲーション"
+
+#: lib/templates.php:52
+msgid "Filter templates list"
+msgstr "テンプレート一覧を絞り込む"
+
+#: lib/templates.php:51
+msgid "Uploaded to this template"
+msgstr "このテンプレートにアップロードされました"
+
+#: lib/templates.php:50
+msgid "Insert into template"
+msgstr "テンプレートに挿入"
+
+#: lib/templates.php:49
+msgid "Template archives"
+msgstr "テンプレートアーカイブ"
+
+#: lib/templates.php:48
+msgid "No templates found in Trash."
+msgstr "ゴミ箱にテンプレートが見つかりません。"
+
+#: lib/templates.php:47
+msgid "No templates found."
+msgstr "テンプレートが見つかりません。"
+
+#: lib/templates.php:46
+msgid "Parent Template:"
+msgstr "親テンプレート:"
+
+#: lib/templates.php:45
+msgid "Search Templates"
+msgstr "テンプレートを検索"
+
+#: lib/templates.php:44 build/edit-site/index.js:9
+msgid "All Templates"
+msgstr "テンプレート一覧"
+
+#: lib/templates.php:43
+msgid "View Template"
+msgstr "テンプレートを表示"
+
+#: lib/templates.php:42
+msgid "Edit Template"
+msgstr "テンプレートを編集"
+
+#: lib/templates.php:41
+msgid "New Template"
+msgstr "新規テンプレート"
+
+#: lib/templates.php:40
+msgid "Add New Template"
+msgstr "新規テンプレートを追加"
+
+#: lib/templates.php:39
+msgctxt "Template"
+msgid "Add New"
+msgstr "新規追加"
+
+#: lib/templates.php:38
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "テンプレート"
+
+#: lib/templates.php:37
+msgid "Template"
+msgstr "テンプレート"
+
+#: lib/template-loader.php:178
+msgid "No matching template found"
+msgstr "一致するテンプレートが見つかりません"
+
+#: lib/class-wp-theme-json-resolver.php:119 build/block-editor/index.js:27
+msgid "Midnight"
+msgstr "ミッドナイト"
+
+#: lib/class-wp-theme-json-resolver.php:118 build/block-editor/index.js:27
+msgid "Electric grass"
+msgstr "エレクトリックグラス"
+
+#: lib/class-wp-theme-json-resolver.php:117 build/block-editor/index.js:27
+msgid "Pale ocean"
+msgstr "淡い海"
+
+#: lib/class-wp-theme-json-resolver.php:116 build/block-editor/index.js:27
+msgid "Luminous dusk"
+msgstr "明るい夕暮れ"
+
+#: lib/class-wp-theme-json-resolver.php:115 build/block-editor/index.js:27
+msgid "Blush bordeaux"
+msgstr "赤みのあるボルドー"
+
+#: lib/class-wp-theme-json-resolver.php:114 build/block-editor/index.js:27
+msgid "Blush light purple"
+msgstr "赤みのある明るいパープル"
+
+#: lib/class-wp-theme-json-resolver.php:113 build/block-editor/index.js:27
+msgid "Cool to warm spectrum"
+msgstr "寒色から暖色へのスペクトラム"
+
+#: lib/class-wp-theme-json-resolver.php:112 build/block-editor/index.js:27
+msgid "Very light gray to cyan bluish gray"
+msgstr "非常に薄いグレーからシアンブルー系グレー"
+
+#: lib/class-wp-theme-json-resolver.php:111 build/block-editor/index.js:27
+msgid "Luminous vivid orange to vivid red"
+msgstr "明るく鮮やかなオレンジ色から鮮やかな赤"
+
+#: lib/class-wp-theme-json-resolver.php:110 build/block-editor/index.js:27
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "明るく鮮やかな琥珀色から明るく鮮やかなオレンジ色"
+
+#: lib/class-wp-theme-json-resolver.php:109 build/block-editor/index.js:27
+msgid "Light green cyan to vivid green cyan"
+msgstr "明るいグリーンシアンから鮮やかなグリーンシアン"
+
+#: lib/class-wp-theme-json-resolver.php:108 build/block-editor/index.js:27
+msgid "Vivid cyan blue to vivid purple"
+msgstr "鮮やかなシアンブルーから鮮やかなパープル"
+
+#: lib/templates.php:59
+msgid "Templates to include in your theme."
+msgstr "テーマに含めるテンプレート。"
+
+#: lib/templates.php:36 build/edit-site/index.js:9
+msgid "Templates"
+msgstr "テンプレート"
+
+#: lib/class-wp-rest-plugins-controller.php:337
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "ファイルシステムに接続できません。認証情報を確認してください。"
+
+#: lib/class-wp-theme-json-resolver.php:99 build/block-editor/index.js:27
+msgid "Vivid purple"
+msgstr "鮮やかなパープル"
+
+#: gutenberg.php:89
+msgid "Experiments Settings"
+msgstr "実験的設定"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "実験的な設定"
+
+#: lib/class-wp-block-patterns-registry.php:40
+msgid "Block pattern name must be a string."
+msgstr "ブロックパターン名は文字列でなければなりません。"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:28
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "サイトに%sがないため、現在ここに表示するものはありません。"
+
+#: lib/class-wp-rest-sidebars-controller.php:110
+#: lib/class-wp-rest-widget-types-controller.php:163
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "サイトのウィジェットにアクセスする権限がありません。"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "エラーが発生しました。フィードの配信が停止している可能性があります。再度お試しください。"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS エラー:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:42
+#: build/block-library/index.js:49
+msgid "Search"
+msgstr "検索"
+
+#. translators: Use this to specify the CSS font family for the default font.
+#: lib/edit-site-page.php:53
+msgctxt "CSS Font Family for Editor Font"
+msgid "Noto Serif"
+msgstr "Noto Serif JP"
+
+#: lib/editor-settings.php:28 build/block-editor/index.js:27
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: lib/editor-settings.php:31 build/block-editor/index.js:27
+msgid "Full Size"
+msgstr "フルサイズ"
+
+#: lib/full-site-editing/default-template-types.php:69 lib/compat.php:329
+#: build/core-data/index.js:1 build/block-editor/index.js:67
+#: build/blocks/index.js:1
+msgid "Media"
+msgstr "メディア"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr "Y年n月j日 g:i A"
+
+#: lib/class-wp-rest-image-editor-controller.php:94
+msgid "Sorry, you are not allowed to edit images."
+msgstr "画像を編集する権限がありません。"
+
+#: lib/class-wp-theme-json-resolver.php:132 build/block-library/index.js:55
+msgid "Huge"
+msgstr "特大"
+
+#: lib/class-wp-theme-json-resolver.php:130
+#: lib/class-wp-theme-json-resolver.php:157 lib/editor-settings.php:29
+#: build/components/index.js:10 build/block-editor/index.js:27
+msgid "Medium"
+msgstr "中"
+
+#: lib/class-wp-theme-json-resolver.php:129 build/block-library/index.js:55
+msgid "Normal"
+msgstr "普通"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "表示するアーカイブはありません。"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "美しい風景"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Gutenberg をテストしていただき、ありがとうございます !"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Gutenberg の開発を手伝う"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "追加ブロックを作成する方法を学んだり、プロジェクトに協力したりすることに興味がある場合は、<a href=\"%s\">GitHubリポジトリ</a>へ移動してください。"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress コミュニティ"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Code is Poetry"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "静的または動的、装飾的またはプレーンなものなど、お好みのブロックを構築できます。こちらがプルクオートブロックです。"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "あらゆるブロックでこれらの配置を選択できます。埋め込みブロックでも利用でき、ボックス外でもレスポンシブ対応しています:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "上は2つの画像のみのギャラリーです。フロート調整を行うことなく、魅力的な見た目のレイアウトを簡単に作成することができます。またブロックを切り替えて、ギャラリーを個別の画像へ簡単に戻すこともできます。"
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "全幅画像はかなり大きくなる場合もありますが、画像によってはそうする価値があることもあります。"
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "アクセシビリティは重要です &mdash; 画像の Alt 属性をお忘れなく。"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "新しい<strong>幅広</strong>と<strong>全幅</strong>配置をギャラリーと組み合わせると、非常にメディアリッチなレイアウトをすばやく作成できます。"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "メディア重視"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "サイドバーのブロックインスペクターでスライダーをドラッグすると、ギャラリーのカラム数を変更できます。"
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "ブロックは、必要なもの何でもかまいません。たとえば、テキスト構成の一部として目立たない引用符を追加してもよいでしょう。または、巨大で装飾的なものを表示させることもできます。これらのオプションはすべて挿入ツール内で利用できます。"
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "引用の​​ソースに対応する情報は、画像下のキャプションに似た別のテキストフィールドです。このため、ソースを選択、変更、または削除しても、引用自体の​​構造は保護されます。いつでも簡単に戻すことができます。"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "マット・マレンウェッグ、2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "このエディターは、リッチな投稿や固定ページの作成を簡単にする、新しい執筆体験を生み出そうとしています。また「ブロック」によって、現在はショートコード、カスタム HTML、外部埋め込みコード自動ディスカバリー機能が実現していることをより簡単にします。"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "ブロックの大きな利点は、それぞれの場所で編集し、コンテンツを直接操作できることです。引用ソースやボタン内テキストなどを編集するためのフィールドを持つのではなく、コンテンツを直接変更できます。以下の引用を編集してみてください:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "ビジュアル編集"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "もちろん、このような<em>リスト</em>も ^^"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "ボタンやヒーロー画像、区切りなどのレイアウトブロック。"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "YouTube、ツイート、他の WordPress 投稿などの埋め込み。"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "ギャラリー"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "画像と動画"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "テキストと見出し"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "お試しいただくと、WordPress が投稿に追加可能でありながら、ご存知ではなかったものを見つけていただけるでしょう、以下はこの投稿が使用しているブロックの簡単なリストです。"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "WordPress ができるすべてのことが、すばやく、同じ場所・インターフェイスで可能であると想像してみてください。HTML タグやクラスを理解したり、複雑なショートコード構文を覚える必要はありません。これこそが「挿入」ツール—エディター中にある <code>(+)</code> ボタン—の真髄で、すべての利用可能なコンテンツブロックを閲覧し、投稿に追加することができます。プラグインとテーマは独自のブロックを登録することができ、リッチな編集や公開の可能性を広げます。"
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "「挿入」ツール"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "キャプションを選択、削除、編集してみてください。画像や他のテキストを間違って選択して、表示を台無しにしないよう気を使わずに済むようになりました。"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "テーマでサポートされていれば、画像ツールバーに「幅広」ボタンが表示されます。お試しください。"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "画像とメディア取り扱いへの高い気遣いは、新しいエディターのメインフォーカスです。キャプションを追加したり、全幅にするのがより簡単で協力になっているのにお気づきいただけるでしょう。"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "百聞は一画像にしかず"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "見出しは別ブロックとなっており、コンテンツのアウトラインと構成に役立ちます。"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "…例えば、右揃えのこれのようなものです。"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "現在ご覧いただいているのが<strong>テキストブロック</strong>で、すべてのブロックのうち一番基本のブロックです。テキストブロックは、投稿内を自由に移動できる独自のコントロールがついています。"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "この新しいエディターのゴールは、WordPress へのリッチコンテンツの追加をシンプルで楽しくすることです。この投稿全体が<em>コンテンツのパーツ</em>—LEGO ブロックのようなもの—により構成されており、動かしたり操作できるようになっています。カーソルを動かすと、様々なブロックが枠線と矢印とともにフォーカスされます。矢印を押すとブロックをすばやく並び替えることができ、コピー & ペーストしているうちに内容が消えてしまう恐れがありません。"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Gutenberg を試してみよう"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Gutenberg エディターにようこそ"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "オブジェクトのタイトル。"
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "オブジェクトの一意識別子。"
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "小"
+
+#: gutenberg.php:76
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "サポート"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "表示できるコメントはありません。"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%2$s に %1$s より"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "投稿を選択"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "週を選択"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "日を選択"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "月を選択"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "年を選択"
+
+#: build/block-library/blocks/archives.php:27 build/block-library/index.js:16
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: lib/class-wp-theme-json-resolver.php:89 build/block-editor/index.js:27
+msgid "Cyan bluish gray"
+msgstr "シアンブルーグレー"
+
+#: lib/class-wp-theme-json-resolver.php:98 build/block-editor/index.js:27
+msgid "Vivid cyan blue"
+msgstr "鮮やかなシアンブルー"
+
+#: lib/class-wp-theme-json-resolver.php:97 build/block-editor/index.js:27
+msgid "Pale cyan blue"
+msgstr "淡いシアンブルー"
+
+#: lib/class-wp-theme-json-resolver.php:96 build/block-editor/index.js:27
+msgid "Vivid green cyan"
+msgstr "鮮やかなグリーンシアン"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "薄いグリーンシアン"
+
+#: lib/class-wp-theme-json-resolver.php:94 build/block-editor/index.js:27
+msgid "Luminous vivid amber"
+msgstr "琥珀"
+
+#: lib/class-wp-theme-json-resolver.php:93 build/block-editor/index.js:27
+msgid "Luminous vivid orange"
+msgstr "オレンジ"
+
+#: lib/class-wp-theme-json-resolver.php:92 build/block-editor/index.js:27
+msgid "Vivid red"
+msgstr "レッド"
+
+#: lib/class-wp-theme-json-resolver.php:91 build/block-editor/index.js:27
+msgid "Pale pink"
+msgstr "ピンク"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "大"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "レギュラー"
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "無効なターム ID。"
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "親オブジェクトの ID。"
+
+#: gutenberg.php:112
+msgid "beta"
+msgstr "ベータ"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "埋め込みハンドラー"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "ステータス"
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "アイキャッチ画像"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:40 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-post/index.js:21 build/edit-post/index.js:22
+#: build/edit-widgets/index.js:9
+msgid "Block"
+msgstr "ブロック"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(タイトルなし)"
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "イタリック"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "太字"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "引用"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "タイトルを入力..."
+
+#: gutenberg.php:90
+msgid "Experiments"
+msgstr "実験中"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "ウィジェット"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "印刷技術は、1440年に誕生。コアに採用される新しいブロックエディターの開発プラグイン。"
+
+#: lib/class-wp-rest-widgets-controller.php:724
+msgid "Unique identifier for the widget."
+msgstr "ウィジェットの固有識別子。"
+
+#: gutenberg.php:161
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Gutenberg 開発モードは、ファイルのビルドが必要です。<code>npm install</code> を実行して依存のインストール後、<code>npm run build</code> でファイルをビルドするか、または <code>npm run dev</code> でファイルをビルドして差分を監視してください。詳しくは <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> を参照してください。"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg チーム"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "スラッグ"
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "Y年n月j日 g:i A"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "g:i A"
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "%s前"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "今から%s"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:148
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg が正しく動作するには WordPress %s以降が必要です。Gutenberg を有効化する前に WordPress をアップグレードしてください。"
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "デモ"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "カテゴリーを選択"

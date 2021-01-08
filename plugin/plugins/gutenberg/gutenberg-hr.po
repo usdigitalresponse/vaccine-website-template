@@ -1,0 +1,1211 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-07 15:54:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Three"
+msgstr "Treće poglavlje"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Two"
+msgstr "Drugo poglavlje"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter One"
+msgstr "Prvo poglavlje"
+
+#: lib/patterns/large-header-button.php:10
+msgid "Read now"
+msgstr "Sad pročitaj"
+
+#: lib/patterns/large-header-button.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with a bright gradient background, a big heading and a filled button."
+msgstr "Veliki odjeljak sa svijetlom pozadinom gradijenta, velikim naslovom i ispunjenim gumbom."
+
+#: lib/full-site-editing/templates-utils.php:16 build/block-library/index.js:36
+msgid "Description"
+msgstr "Opis"
+
+#: lib/patterns/text-two-columns.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text preceded by a long heading."
+msgstr "Dva stupca teksta kojima je prethodio dugačak naslov."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman."
+msgstr "Ostatak ode na haljinu od tanke tkanine, na hlače od svile i na cipele za praznike, a u ostale dane preko sedmice zadovoljavao se sivom tkaninom, srednje kvalitete. U svojoj kući imao je gazdaricu, koja je prešla četrdeset godina, koja je imala nećakinju koja još nije imala dvadeset godina, onda jedno sluškinju za polje i dvorište, koja je sedlala konja i cijepala drva. Naš džentlmen imao je oko pedest godina; bio je jake građe, mršav, suha lica, velik ranoranioc i ljubitelj lova."
+
+#: lib/patterns/two-images.php:12
+msgid "An old pencil drawing of Don Quixote and Sancho Panza sitting on their horses, by Wilhelm Marstrand."
+msgstr "Stari crtež olovkom Don Kihota i Sancha Panze koji sjede na svojim konjima, autora Wilhelma Marstranda."
+
+#: lib/patterns/large-header-button.php:9
+msgid "Large header with a heading and a button "
+msgstr "Veliko zaglavlje s naslovom i gumbom"
+
+#: lib/patterns/text-two-columns.php:11
+msgid "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income."
+msgstr "U jednom selu u Manči, na čije ime ne marim da se opominjem, nije mnogo vremena kako je živio jedan plemić od onih, koji imaju koplje u prednjem tremu, oklocan štit, mršava konja i psa za lov. Olja neka više od goveđine nego ovčevine, o večeri po najviše isjeckano začinjeno meso subotom bolji obroci, petkom sočivo, po koji golub dodatka nedeljom, to mu potroši tri četvrtine dohodaka."
+
+#: lib/patterns/heading-paragraph.php:12
+msgctxt "Block pattern description"
+msgid "A heading preceded by a chapter number, and followed by a paragraph."
+msgstr "Naslov koji prethodi broju poglavlja, a slijedi odlomak."
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge."
+msgstr "Ovi predgovori su se riješili, nije mu bilo stalo da više odgađa izvršenje svog dizajna, a na to ga je nagovarala misao da je cijeli svijet gubio zbog kašnjenja, vidjevši nepravdu namjeravao ju je ispraviti, pritužbe ispraviti, nepravdu popraviti, otkloniti zlostavljanja i obaveze ukinuti."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "Which treats of the character and pursuits of the famous gentleman Don Quixote of La Mancha"
+msgstr "Koji tretira lik i poteze slavnog gospodina Don Kihota iz La Mancha"
+
+#: lib/patterns/large-header.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with an example background image and a heading in the center."
+msgstr "Veliki odjeljak s primjerom pozadinske slike i naslovom u sredini."
+
+#: lib/patterns/large-header.php:10
+msgid "Don Quixote"
+msgstr "Don Quixote"
+
+#: lib/patterns/large-header.php:9
+msgid "Large header with a heading"
+msgstr "Veliko zaglavlje sa naslovom"
+
+#: lib/patterns/two-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Two buttons, one filled and one outlined, side by side."
+msgstr "Dva gumba, jedan ispunjen i jedan sa konturom, jedan pored drugoga."
+
+#: lib/patterns/two-buttons.php:10
+msgid "Download now"
+msgstr "Preuzeti sada"
+
+#: lib/patterns/quote.php:10
+msgid "Pencil drawing of Don Quixote"
+msgstr "Crtež olovkom Don Kihota"
+
+#: lib/patterns/text-three-columns-buttons.php:12
+msgctxt "Block pattern description"
+msgid "Three small columns of text, each with an outlined button with rounded corners at the bottom."
+msgstr "Tri mala stupca teksta, svaki s ocrtanim gumbom sa zaobljenim uglovima na dnu."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Wherein is related the droll way in which Don Quixote had himself dubbed a knight."
+msgstr "Pri čemu je povezan način na koji je Don Kihot sebe nazivao vitezom."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the first sally the ingenious Don Quixote made from home."
+msgstr "Koji tretira prvu genijalnu dosjetku Don Kihota napravljenu od kuće."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the character and pursuits of the famous Don Quixote of La Mancha."
+msgstr "Koji tretira lik i poteze čuvenog Don Kihota iz La Mancha."
+
+#: lib/patterns/quote.php:13
+msgctxt "Block pattern description"
+msgid "A quote and citation with an image above, and a separator at the bottom."
+msgstr "Navod i citat sa slikom iznad i razdvajateljem na dnu."
+
+#: lib/patterns/quote.php:10
+msgid "\"Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.\""
+msgstr "\"Vidite li tamo preko, prijatelju Sancho, trideset ili četrdeset divljačkih trupa? Namjeravam se boriti s njima i pobiti ih.\""
+
+#: lib/patterns/three-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Three filled buttons with rounded corners, side by side."
+msgstr "Tri ispunjena gumba sa zaobljenim uglovima, jedan pored drugog."
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "Which treats of the first sally the ingenious Don Quixote made from home"
+msgstr "Koji tretira prvu genijalnu dosjetku Don Kihota napravljenu od kuće."
+
+#: lib/patterns/heading-paragraph.php:9
+msgid "Heading and paragraph"
+msgstr "Naslov i odlomak"
+
+#: lib/patterns/text-two-columns-with-images.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text, each with an image on top."
+msgstr "Dva stupca teksta, svaka sa slikom na vrhu."
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like \"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\" or again, \"the high heavens render you deserving of the desert your greatness deserves.\""
+msgstr "Ali od svega nije bilo nijednog koji mu se toliko svidio, kao ni one iz poznate kompozicije Feliciana de Silve, jer je njihova lucidnost stila i komplicirana zamišljenost bili biseri u njegovim očima, posebno kada je prilikom čitanja nailazio na udvaranja i kartele, gdje je često pronašao odlomke poput \"razlog nerazuma s kojim je moj razlog pogođen tako slabi moj razlog da s razlogom mrmljam na vašu ljepotu;\" ili opet, \"visoka nebesa čine da ste zaslužili pustinju koju vaša veličina zaslužuje.\""
+
+#: lib/patterns/two-buttons.php:10 lib/patterns/three-buttons.php:10
+msgid "About Cervantes"
+msgstr "O Cervantesu"
+
+#: lib/patterns/quote.php:10
+msgid "— Don Quixote"
+msgstr "— Don Kihot"
+
+#: lib/patterns/three-buttons.php:10 build/block-library/index.js:16
+msgid "Contact us"
+msgstr "Kontaktirajte nas"
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "They must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
+msgstr "Morate znati da je gore spomenuti gospodin kad god je bio u slobodno vrijeme (što je uglavnom bilo cijele godine) prepuštao se čitanju viteških knjiga s takvom bahatošću i pohlepom da je gotovo u potpunosti zanemario potragu za svojim poljem - sport, pa čak i upravljanje njegovom imovinom; a na takvu je gužvu i zanos uspjelo da je prodao mnogo hektara obradivog zemljišta za kupnju viteških knjiga za čitanje i donio kući koliko ih je mogao."
+
+#: lib/patterns/three-buttons.php:10
+msgid "Books"
+msgstr "Knjige"
+
+#: lib/patterns/two-images.php:11
+msgctxt "Block pattern description"
+msgid "An image gallery with two example images."
+msgstr "Galerija slika sa dvije slike kao primjer."
+
+#: lib/patterns/text-three-columns-buttons.php:9
+msgid "Three columns of text with buttons"
+msgstr "Tri stupca teksta s dugmadi"
+
+#: lib/patterns/three-buttons.php:9
+msgid "Three buttons"
+msgstr "Tri dugmeta"
+
+#: lib/patterns/text-two-columns-with-images.php:9
+msgid "Two columns of text with images"
+msgstr "Dva stupca teksta sa slikama"
+
+#: lib/class-wp-rest-image-editor-controller.php:249
+msgid "Unable to crop this image."
+msgstr "Nije moguće izrezati sliku."
+
+#: lib/class-wp-rest-image-editor-controller.php:233
+msgid "Unable to rotate this image."
+msgstr "Nije moguće rotirati sliku."
+
+#: lib/class-wp-rest-image-editor-controller.php:225
+msgid "Unable to edit this image."
+msgstr "Nije moguće urediti sliku."
+
+#: lib/class-wp-rest-image-editor-controller.php:209
+msgid "The image was not edited. Edit the image before applying the changes."
+msgstr "Slika nije uređena. Uredite sliku prije primjene izmjena."
+
+#: lib/class-wp-rest-image-editor-controller.php:190
+msgid "This type of file cannot be edited."
+msgstr "Ovu vrstu datoteke nije moguće urediti."
+
+#: lib/class-wp-rest-image-editor-controller.php:131
+#: lib/class-wp-rest-image-editor-controller.php:140
+#: lib/class-wp-rest-image-editor-controller.php:178
+msgid "Unable to get meta information for file."
+msgstr "Nije moguće dobiti meta informacije za datoteku."
+
+#: lib/class-wp-rest-image-editor-controller.php:99
+msgid "Sorry, you are not allowed to upload media on this site."
+msgstr "Nažalost, nije vam dopušten prijenos medijskih zapisa za ovu web-stranicu."
+
+#: lib/class-wp-rest-plugins-controller.php:653
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "Nažalost, nemate dozvolu da aktivirate ovaj dodatak."
+
+#: lib/compat.php:334 build/blocks/index.js:1
+msgid "Design"
+msgstr "Dizajn"
+
+#. translators: %1: field name. %2: block name
+#: lib/compat.php:93
+msgid "The asset file for the \"%1$s\" defined in \"%2$s\" block definition is missing."
+msgstr "Datoteka resursa za \"%1$s\" određena u definiciji bloka \"%2$s\" nedostaje."
+
+#: lib/class-wp-rest-block-directory-controller.php:326
+msgid "Limit result set to blocks matching the search term."
+msgstr "Ograniči rezultat postavljen na blokove koji odgovaraju pojmu za pretraživanje."
+
+#: lib/class-wp-rest-block-directory-controller.php:291
+msgid "The date when the block was last updated, in fuzzy human readable format."
+msgstr "Datum zadnjeg ažuriranja bloka, u nejasnom čitljivom formatu za čovjeka."
+
+#: lib/class-wp-rest-block-directory-controller.php:285
+msgid "The block icon."
+msgstr "Ikona bloka"
+
+#: lib/class-wp-rest-block-directory-controller.php:280
+msgid "The WordPress.org username of the block author."
+msgstr "WordPress.org korisničko ime autora bloka."
+
+#: lib/class-wp-rest-block-directory-controller.php:275
+msgid "The number of blocks published by the same author."
+msgstr "Broj blokova koje je objavio isti autor."
+
+#: lib/class-wp-rest-block-directory-controller.php:270
+msgid "The average rating of blocks published by the same author."
+msgstr "Prosječna ocjena blokova koje je objavio isti autor."
+
+#: lib/class-wp-rest-block-directory-controller.php:265
+msgid "The number sites that have activated this block."
+msgstr "Broj stranica koje su aktivirale ovaj blok."
+
+#: lib/class-wp-rest-block-directory-controller.php:260
+msgid "The number of ratings."
+msgstr "Broj ocjena."
+
+#: lib/class-wp-rest-block-directory-controller.php:255
+msgid "The star rating of the block."
+msgstr "Ocjena bloka u zvjezdicama."
+
+#: lib/class-wp-rest-block-directory-controller.php:250
+msgid "The block slug."
+msgstr "Slug bloka."
+
+#: lib/class-wp-rest-block-directory-controller.php:245
+msgid "A short description of the block, in human readable format."
+msgstr "Kratak opis bloka, u formatu čitljivom za ljude."
+
+#: lib/class-wp-rest-block-directory-controller.php:240
+msgid "The block title, in human readable format."
+msgstr "Naslov bloka, u formatu čitljivom za ljude."
+
+#: lib/class-wp-rest-block-directory-controller.php:235
+msgid "The block name, in namespace/block-name format."
+msgstr "Naziv bloka, u formatu prostor za ime/blok-ime."
+
+#: lib/class-wp-rest-block-directory-controller.php:61
+msgid "Sorry, you are not allowed to browse the block directory."
+msgstr "Nažalost, nije vam dopušteno pregledavati direktorij blokova."
+
+#: lib/class-wp-rest-plugins-controller.php:938
+msgid "Limits results to plugins with the given status."
+msgstr "Ograničava rezultate na dodatke s datim statusom."
+
+#: lib/class-wp-rest-plugins-controller.php:914
+msgid "The plugin's text domain."
+msgstr "Tekstualna domena dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:908
+msgid "Minimum required version of PHP."
+msgstr "Minimalna potrebna inačica PHP-a."
+
+#: lib/class-wp-rest-plugins-controller.php:902
+msgid "Minimum required version of WordPress."
+msgstr "Minimalna potrebna inačica WordPress-a."
+
+#: lib/class-wp-rest-plugins-controller.php:896
+msgid "Whether the plugin can only be activated network-wide."
+msgstr "Može li se dodatak aktivirati samo na mreži."
+
+#: lib/class-wp-rest-plugins-controller.php:890
+msgid "The plugin version number."
+msgstr "Broj inačice dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:884
+msgid "The plugin description formatted for display."
+msgstr "Opis dodatka formatiran za prikaz."
+
+#: lib/class-wp-rest-plugins-controller.php:880
+msgid "The raw plugin description."
+msgstr "Sirov opis dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:874
+msgid "The plugin description."
+msgstr "Opis dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:867
+msgid "Plugin author's website address."
+msgstr "Adresa web-stranice autora dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:861
+msgid "The plugin author."
+msgstr "Autor dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:854
+msgid "The plugin's website address."
+msgstr "Web adresa dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:848
+msgid "The plugin name."
+msgstr "Ime dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:835
+msgid "The plugin file."
+msgstr "Datoteka dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:814
+msgid "The filesystem is currently unavailable for managing plugins."
+msgstr "Sustav datoteka trenutno nije dostupan za upravljanje dodacima."
+
+#: lib/class-wp-rest-plugins-controller.php:695
+msgid "Network only plugin must be network activated."
+msgstr "Dodatak koji je samo za mrežu mora biti mrežno aktiviran."
+
+#: lib/class-wp-rest-plugins-controller.php:661
+msgid "Sorry, you are not allowed to deactivate this plugin."
+msgstr "Nažalost nemate dopuštenje za isključivanje ovog dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:498
+msgid "Cannot delete an active plugin. Please deactivate it first."
+msgstr "Ne možete izbrisati aktivni dodatak. Prvo ga deaktivirajte."
+
+#: lib/class-wp-rest-plugins-controller.php:463
+msgid "Sorry, you are not allowed to delete plugins for this site."
+msgstr "Žao nam je, nije vam dozvoljeno upravljanje dodacima za ovu stranicu."
+
+#: lib/class-wp-rest-plugins-controller.php:343
+msgid "Unable to determine what plugin was installed."
+msgstr "Nije moguće utvrditi koji je dodatak instaliran."
+
+#: lib/class-wp-rest-plugins-controller.php:253
+msgid "Sorry, you are not allowed to activate plugins."
+msgstr "Nažalost nemate dopuštenje za uključivanje ovog dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:245
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Nažalost nemate dopuštenje za instaliranje dodatka na ovoj stranici."
+
+#: lib/class-wp-rest-plugins-controller.php:215
+#: lib/class-wp-rest-plugins-controller.php:601
+msgid "Plugin not found."
+msgstr "Dodatak nije pronađen."
+
+#: lib/class-wp-rest-plugins-controller.php:118
+#: lib/class-wp-rest-plugins-controller.php:168
+#: lib/class-wp-rest-plugins-controller.php:385
+#: lib/class-wp-rest-plugins-controller.php:455
+msgid "Sorry, you are not allowed to manage plugins for this site."
+msgstr "Žao nam je, nije vam dozvoljeno upravljanje dodacima za ovu stranicu."
+
+#: lib/class-wp-rest-plugins-controller.php:61
+#: lib/class-wp-rest-plugins-controller.php:842
+msgid "The plugin activation status."
+msgstr "Status aktivacije dodatka."
+
+#: lib/class-wp-rest-plugins-controller.php:57
+msgid "WordPress.org plugin directory slug."
+msgstr "Slug direktorija dodatka u WordPress.org."
+
+#: lib/class-wp-rest-block-types-controller.php:90
+#: lib/class-wp-rest-block-types-controller.php:522
+msgid "Block namespace."
+msgstr "Namespace bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:495
+msgid "Block example."
+msgstr "Primjer bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:485
+msgid "Block keywords."
+msgstr "Ključne riječi bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:475
+msgid "Parent blocks."
+msgstr "Matični blokovi."
+
+#: lib/class-wp-rest-block-types-controller.php:468
+msgid "Public text domain."
+msgstr "Javna tekstualna domena."
+
+#: lib/class-wp-rest-block-types-controller.php:457
+msgid "Block style variations."
+msgstr "Varijacije stila bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:450
+msgid "Public facing style handle."
+msgstr "Držač javno vidljivog stila."
+
+#: lib/class-wp-rest-block-types-controller.php:443
+msgid "Editor style handle."
+msgstr "Držač stila uređivača."
+
+#: lib/class-wp-rest-block-types-controller.php:436
+msgid "Public facing script handle."
+msgstr "Držač javno vidljive skripte."
+
+#: lib/class-wp-rest-block-types-controller.php:429
+msgid "Editor script handle."
+msgstr "Držač skripte uređivača."
+
+#: lib/class-wp-rest-block-types-controller.php:422
+msgid "Is the block dynamically rendered."
+msgstr "Da li se blok dinamički prikazuje."
+
+#: lib/class-wp-rest-block-types-controller.php:415
+msgid "Block category."
+msgstr "Kategorija bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:407
+msgid "Block supports."
+msgstr "Podrška bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:397
+msgid "Context values inherited by blocks of this type."
+msgstr "Kontekstne vrijednosti naslijeđene blokovima ove vrste."
+
+#: lib/class-wp-rest-block-types-controller.php:386
+msgid "Context provided by blocks of this type."
+msgstr "Kontekst koji pružaju blokovi ove vrste."
+
+#: lib/class-wp-rest-block-types-controller.php:375
+msgid "Block attributes."
+msgstr "Atributi bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:368
+msgid "Icon of block type."
+msgstr "Ikona vrste bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:361
+msgid "Description of block type."
+msgstr "Opis vrste bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:354
+msgid "Unique name identifying the block type."
+msgstr "Jedinstveno ime koje identificira vrstu bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:347
+msgid "Title of block type."
+msgstr "Naslov vrste bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:199
+msgid "Invalid block type."
+msgstr "Neispravna vrsta bloka."
+
+#: lib/class-wp-rest-block-types-controller.php:187
+msgid "Sorry, you are not allowed to manage block types."
+msgstr "Nažalost, nije vam dopušteno upravljanje vrstama blokova."
+
+#: lib/class-wp-rest-plugins-controller.php:228
+msgid "Sorry, you are not allowed to manage this plugin."
+msgstr "Nažalost, nije vam dopušteno upravljanje ovim dodatkom."
+
+#: lib/compat.php:324 build/blocks/index.js:1
+msgid "Text"
+msgstr "Tekst"
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:114
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:40
+msgid "by %s"
+msgstr "od %s"
+
+#. translators: 1: Block pattern name.
+#: lib/class-wp-block-pattern-categories-registry.php:62
+msgid "Block pattern category \"%1$s\" not found."
+msgstr "Kategorija uzorka bloka \"%1$s\" nije pronađena."
+
+#: lib/class-wp-block-pattern-categories-registry.php:40
+msgid "Block pattern category name must be a string."
+msgstr "Naziv kategorije uzorka bloka mora biti niz."
+
+#: lib/block-patterns.php:64
+msgctxt "Block pattern category"
+msgid "Text"
+msgstr "Tekst"
+
+#: lib/block-patterns.php:63
+msgctxt "Block pattern category"
+msgid "Headers"
+msgstr "Zaglavlja"
+
+#: lib/block-patterns.php:62
+msgctxt "Block pattern category"
+msgid "Gallery"
+msgstr "Galerija"
+
+#: lib/block-patterns.php:61
+msgctxt "Block pattern category"
+msgid "Columns"
+msgstr "Stupci"
+
+#: lib/block-patterns.php:60
+msgctxt "Block pattern category"
+msgid "Buttons"
+msgstr "Dugmad"
+
+#: lib/patterns/text-two-columns.php:9
+msgid "Two columns of text"
+msgstr "Dva stupca teksta"
+
+#: lib/patterns/two-buttons.php:9
+msgid "Two buttons"
+msgstr "Dva dugmeta"
+
+#: lib/patterns/two-images.php:9
+msgid "Two images side by side"
+msgstr "Dvije slike jedna pored druge"
+
+#: lib/class-wp-theme-json-resolver.php:90 build/block-editor/index.js:27
+msgid "White"
+msgstr "Bijela"
+
+#: lib/class-wp-theme-json-resolver.php:88
+#: lib/class-wp-theme-json-resolver.php:161 build/block-editor/index.js:27
+msgid "Black"
+msgstr "Crna"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:338 build/edit-post/index.js:39
+#: build/edit-site/index.js:9 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:24
+msgid "Content"
+msgstr "Sadržaj"
+
+#: lib/class-wp-rest-menu-items-controller.php:1105
+msgid "Sort collection by object attribute."
+msgstr "Poredajte kolekciju prema atributu objekta."
+
+#: lib/class-wp-rest-menu-items-controller.php:1098
+msgid "Order sort attribute ascending or descending."
+msgstr "Poredajte vrste atribute kao uzlazne ili silazne."
+
+#: lib/class-wp-rest-menu-items-controller.php:1093
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Ograniči skup rezultata na objave s navedenom menu_order vrijednošću."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1059
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "Pojmovi dodijeljeni objektu u %s taksonomiji."
+
+#: lib/class-wp-rest-menu-items-controller.php:1047
+msgid "Whether the menu item represents an object that no longer exists."
+msgstr "Bilo da stavka izbornika predstavlja objekt koji više ne postoji."
+
+#: lib/class-wp-rest-menu-items-controller.php:1033
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "XFN povezanost izražena u poveznici ove stavke izbornika."
+
+#: lib/class-wp-rest-menu-items-controller.php:1026
+msgid "The URL to which this menu item points."
+msgstr "URL ove stavke izbornika."
+
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The singular label used to describe this type of menu item."
+msgstr "Jedinstvena oznaka upotrijebljena za opisivanje ove vrste stavke izbornika."
+
+#: lib/class-wp-rest-menu-items-controller.php:1009
+msgid "The target attribute of the link element for this menu item."
+msgstr "Atribut odredišta elementa poveznice za ovu stavku izbornika."
+
+#: lib/class-wp-rest-menu-items-controller.php:972
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories."
+msgstr "DB ID originalnog objekta kojeg ova stavka izbornika predstavlja, npr. ID za objave i term_id za kategorije."
+
+#: lib/class-wp-rest-menu-items-controller.php:966
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "Vrsta objekta originalno predstavljenog, kao što su \"kategorija\", \"objava\", ili \"prilog.\""
+
+#: lib/class-wp-rest-menu-items-controller.php:959
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
+msgstr "DB ID za nav_menu_item koji je matični ovoj stavki izbornika, ako postoji. 0 inače."
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "Neispravni URL."
+
+#: lib/class-wp-rest-menus-controller.php:458
+msgid "The term cannot be deleted."
+msgstr "Pojam nije moguće obrisati."
+
+#: lib/class-wp-rest-menus-controller.php:262
+#: lib/class-wp-rest-menus-controller.php:371
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Nije moguće postaviti matični pojam, taksonomija nije hijerarhijska."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:448
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Pojmovi se ne mogu premjestiti u smeće. Postavite '%s' za brisanje."
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "HTML title for the object, transformed for display."
+msgstr "HTML naslov za objekt, transformiran za prikaz."
+
+#: lib/class-wp-rest-menu-items-controller.php:873
+msgid "Title for the object, as it exists in the database."
+msgstr "Naslov za objekt, kao što postoji u bazi podataka."
+
+#: lib/class-wp-rest-menu-items-controller.php:911
+msgid "A named status for the object."
+msgstr "Ime statusa za objekt."
+
+#: lib/class-wp-rest-menu-items-controller.php:174
+msgid "Cannot create existing post."
+msgstr "Ne možete dodati postojeću objavu."
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Nažalost, nije vam dopušteno uređivati ovaj pojam"
+
+#: lib/class-wp-rest-menu-items-controller.php:531
+msgid "Invalid menu ID."
+msgstr "Neispravan ID izbornika."
+
+#: lib/class-wp-rest-menus-controller.php:268
+#: lib/class-wp-rest-menus-controller.php:377
+msgid "Parent term does not exist."
+msgstr "Matični pojam ne postoji."
+
+#: lib/class-wp-rest-menu-items-controller.php:348
+msgid "The post cannot be deleted."
+msgstr "Objava se ne može obrisati."
+
+#: lib/class-wp-rest-menu-items-controller.php:158
+#: lib/class-wp-rest-customizer-nonces.php:51
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Nažalost, nemate dopuštenje za uređivanje ove vrste objava."
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "Neispravna vrsta objave."
+
+#: lib/class-wp-rest-menu-items-controller.php:495
+msgid "Invalid post ID."
+msgstr "Neispravan ID objave."
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Nažalost nemate dopuštenje za uređivanje pojmova u ovoj taksonomiji."
+
+#: build/block-library/blocks/query-pagination.php:26
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Previous"
+msgstr "Prethodno"
+
+#: build/block-library/blocks/query-pagination.php:33
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Next"
+msgstr "Sljedeće"
+
+#: lib/experiments-page.php:45 build/block-library/index.js:30
+#: build/edit-navigation/index.js:3
+msgid "Navigation"
+msgstr "Navigacija"
+
+#: lib/templates.php:37
+msgid "Template"
+msgstr "Predložak"
+
+#: lib/class-wp-theme-json-resolver.php:119 build/block-editor/index.js:27
+msgid "Midnight"
+msgstr "Ponoć"
+
+#: lib/class-wp-theme-json-resolver.php:118 build/block-editor/index.js:27
+msgid "Electric grass"
+msgstr "Električna trava"
+
+#: lib/class-wp-theme-json-resolver.php:117 build/block-editor/index.js:27
+msgid "Pale ocean"
+msgstr "Blijedi ocean"
+
+#: lib/class-wp-theme-json-resolver.php:116 build/block-editor/index.js:27
+msgid "Luminous dusk"
+msgstr "Blistavi sumrak"
+
+#: lib/class-wp-theme-json-resolver.php:115 build/block-editor/index.js:27
+msgid "Blush bordeaux"
+msgstr "Rumena bordo"
+
+#: lib/class-wp-theme-json-resolver.php:114 build/block-editor/index.js:27
+msgid "Blush light purple"
+msgstr "Rumena svijetlo ljubičasta"
+
+#: lib/class-wp-theme-json-resolver.php:113 build/block-editor/index.js:27
+msgid "Cool to warm spectrum"
+msgstr "Spektar od hladnoga do toplog"
+
+#: lib/class-wp-theme-json-resolver.php:112 build/block-editor/index.js:27
+msgid "Very light gray to cyan bluish gray"
+msgstr "Vrlo svijetlosiva do cijan plavkasto sive"
+
+#: lib/class-wp-theme-json-resolver.php:111 build/block-editor/index.js:27
+msgid "Luminous vivid orange to vivid red"
+msgstr "Živa svijetlo narančasta do živo crvene"
+
+#: lib/class-wp-theme-json-resolver.php:110 build/block-editor/index.js:27
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "Živa svijetlo jantarna do žive svijetlo narančaste"
+
+#: lib/class-wp-theme-json-resolver.php:109 build/block-editor/index.js:27
+msgid "Light green cyan to vivid green cyan"
+msgstr "Svijetlo zelena cijan do živo zelene cijan"
+
+#: lib/class-wp-theme-json-resolver.php:108 build/block-editor/index.js:27
+msgid "Vivid cyan blue to vivid purple"
+msgstr "Živa cijan plava do živo ljubičaste"
+
+#: lib/class-wp-rest-plugins-controller.php:337
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Nije se moguće povezati na sistem podataka. Potvrdite vaše akreditive."
+
+#: lib/class-wp-theme-json-resolver.php:99 build/block-editor/index.js:27
+msgid "Vivid purple"
+msgstr "Jasno ljubičasta"
+
+#: lib/class-wp-block-patterns-registry.php:40
+msgid "Block pattern name must be a string."
+msgstr "Ime bloka mora biti niz znakova (string)."
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:28
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Vaša web-stranica nema %s, stoga se nema ništa za prikazati ovdje."
+
+#: lib/class-wp-rest-sidebars-controller.php:110
+#: lib/class-wp-rest-widget-types-controller.php:163
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Nažalost, nemate dopuštenje za pristup widgetima na ovoj web-stranici."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS greška:"
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Došlo je do greške, što vjerojatno znači da je kanal onesposobljen. Pokušajte kasnije."
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:42
+#: build/block-library/index.js:49
+msgid "Search"
+msgstr "Pretraga"
+
+#. translators: Use this to specify the CSS font family for the default font.
+#: lib/edit-site-page.php:53
+msgctxt "CSS Font Family for Editor Font"
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: lib/editor-settings.php:31 build/block-editor/index.js:27
+msgid "Full Size"
+msgstr "Puna veličina"
+
+#: lib/editor-settings.php:28 build/block-editor/index.js:27
+msgid "Thumbnail"
+msgstr "Minijatura"
+
+#: lib/full-site-editing/default-template-types.php:69 lib/compat.php:329
+#: build/core-data/index.js:1 build/block-editor/index.js:67
+#: build/blocks/index.js:1
+msgid "Media"
+msgstr "Medij"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr "j. M. Y. G:i"
+
+#: lib/class-wp-theme-json-resolver.php:130
+#: lib/class-wp-theme-json-resolver.php:157 lib/editor-settings.php:29
+#: build/components/index.js:10 build/block-editor/index.js:27
+msgid "Medium"
+msgstr "Srednja veličina"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Nema arhiva za prikazati."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Prekrasni krajolik"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Hvala što testirate Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Pomozite izgraditi Gutenberg"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress zajednica"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Kod je poezija"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Možete izgraditi bilo kakav blok, statični ili dinamični, dekorativni ili obični. Ovo je blok citata:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Iznad se nalazi galerija s dvije slike. To je jednostavniji način kako kreirati vizualno privlačne prijelome, bez da se morate brinuti o CSS float. Također jednostavno možete pretvoriti galeriju nazad u individualne slike, koristeći prebacivač bloka."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Da, ponekad slika pune širine može biti velika. Ali ponekad slika je vrijedna toga."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Pristupačnost je važna &mdash; ne zaboravite alt atribute slike"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Bogato medijima"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Možete promijeniti broj stupaca u vašim galerijama povlačeći klizač u inspektoru bloka u bočnoj traci."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Blokovi mogu biti sve što trebate. Na primjer, možda želite dodati mali citat kao dio kompozicije vašeg teksta, ili možda ga želite prikazati kao veliki. Sve ove opcije su dostupne."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informacije o izvoru citata nalazi se u posebnom tekstualnom polju, slično opisima ispod slika, tako da je struktura citata zaštićena čak i ako odaberete, modificirate ili uklonite izvor. Uvijek je lako vratiti to nazad."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Uređivač je namijenjen da postigne ugodno iskustvo kreiranja novih stranica i objava, i sadrži “blokove” koji će olakšati posao za koji su trebali kratki kodovi, korisnički HTML ili “zagonetne” ugradbene kodove. "
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Ako kombinirate nove poravnanja <strong>široko</strong> i <strong>pune širine</strong> s galerijama, možete kreirati prijelom vrlo bogat medijskim zapisima, vrlo brzo:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Svaki blok se može podesiti poravnanjima. Blok ugradbenog koda također ih ima, i prilagodljiv je:"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Ako želite naučiti više kako izgraditi dodatne blokove, ili ste zainteresirani pomoći s projektom, pođite na <a href=\"%s\">GitHub repozitorij</a>."
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Vizualno uređivanje"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "I <em>Lista</em> popute ove :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blok prijeloma, poput Dugme, Naslovna slika, Razdjelnici, itd."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Ugradbeni kodovi poput YouTube, Tweetovi, ili druge WordPress objave."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerije"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Slike i video"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Tekst i naslovi"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Isprobajte i možda otkrijete stvari koje WordPress već sad može dodati u vaše objave a za koje niste znali. Ovo je kratki popis što trenutno možete pronaći:"
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Alat <em>umetanja sadržaja</em>"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Ako vaša tema podržava, vidjeti ćete \"dugačko\" dugme u alatnoj traci slike. Isprobajte."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Rukovanje slikama i medijskim zapisima s najvećom brigom, primarni je fokus novog uređivača. Nadamo se da će vam novi način dodavanja opisa slike ili prikaza slike pune širine biti puno jednostavniji i robusniji nego prije."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Slika govori više nego tisuću riječi"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Naslovi su također odovojeni blok, što pomaže s strukturom i organizacijom vašeg sadržaja."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... poput ove, koje je poravnata desno."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Ovo što čitate je <strong>tekstualni blok</strong> najosnovniji blok od svih. Tekstualni blok ima svoje kontrole za slobodno pomicanje po objavi&hellip;"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Cilj ovog novog uređivača je učiniti dodavanje bogatog sadržaja u WordPress jednostavnim i ugodnim. Ova cijela objava je sastavljena od <em>dijelova sadržaja</em>—slično LEGO kockama—koje možete pomicati okolo i podešavati. Pomaknite kursor miša i vidjeti ćete kako različiti blokovi osvijetle s obrubom i strelicama. Kliknite na strelice kako bi brzo premjestili blokove, bez bojazni da ćete izgubiti stvari u procesu."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "O planinama i tiskarskim strojevima"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Dobro došli u Gutenberg uređivač"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Pokušajte odabrati i ukloniti opis slike, sada više ne morate biti brinuti o slučajnom odabiru slike ili teksta i da upropastite prezentaciju."
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Zamislite da je sve što WordPress može učiniti jednostavno dostupno i na istom mjestu u sučelju. Ne trebate znati HTML oznake, klase ili pamtiti komplicirane kratke kodove. To je ideja koja stoji iza dugmeta umetanja sadržaja — <code>(+)</code> dugme koje ćete vidjeti u uređivaču—koje vam omogućuje pregledavanje svih dostupnih blokova sadržaja i dodavanje u objave. Dodaci i teme mogu registrirati svoje blokove, što otvara svakakve mogućnosti za bogato uređivanje i izdavaštvo."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Velika prednost blokova je da ih možete urediti na licu mjesta i manipulirati sadržajem direktno. Umjesto da morate imate polja za uređivanje stvari poput izvora citata, ili teksta dugmeta, možete direktno promijeniti sadržaj. Pokušajte urediti sljedeći citat:"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "Naslov za objekt."
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "Malo"
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "Unikatni identifikator objekta."
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "Podrška"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "Nema komentara za prikaz."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s o %2$s"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "Odaberi mjesec"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "Odaberite godinu"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "Odaberite dan"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "Odaberite tjedan"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "Odaberite objavu"
+
+#: build/block-library/blocks/archives.php:27 build/block-library/index.js:16
+msgid "Archives"
+msgstr "Arhiva"
+
+#: gutenberg.php:76
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "Standardni"
+
+#: lib/class-wp-theme-json-resolver.php:89 build/block-editor/index.js:27
+msgid "Cyan bluish gray"
+msgstr "Cijan plavkasto siva"
+
+#: lib/class-wp-theme-json-resolver.php:98 build/block-editor/index.js:27
+msgid "Vivid cyan blue"
+msgstr "Jasno cijan plava"
+
+#: lib/class-wp-theme-json-resolver.php:97 build/block-editor/index.js:27
+msgid "Pale cyan blue"
+msgstr "Blijeda cijan plava"
+
+#: lib/class-wp-theme-json-resolver.php:96 build/block-editor/index.js:27
+msgid "Vivid green cyan"
+msgstr "Jasno zeleno cijan"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "Svijetlo zeleno cijan"
+
+#: lib/class-wp-theme-json-resolver.php:94 build/block-editor/index.js:27
+msgid "Luminous vivid amber"
+msgstr "Luminozno jasna žuta"
+
+#: lib/class-wp-theme-json-resolver.php:93 build/block-editor/index.js:27
+msgid "Luminous vivid orange"
+msgstr "Luminozno jasna narančasta"
+
+#: lib/class-wp-theme-json-resolver.php:92 build/block-editor/index.js:27
+msgid "Vivid red"
+msgstr "Jasno crvena"
+
+#: lib/class-wp-theme-json-resolver.php:91 build/block-editor/index.js:27
+msgid "Pale pink"
+msgstr "Blijedo roza"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "Velika"
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "Neispravni ID stavke."
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "ID matične stavke objekta."
+
+#: gutenberg.php:112
+msgid "beta"
+msgstr "beta"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Upravljački sklop ugradbenog koda"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "Podebljano"
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "Istaknuta slika"
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "Kurziv"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "Status"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "Citat"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "Napišite naslov"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:40 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-post/index.js:21 build/edit-post/index.js:22
+#: build/edit-widgets/index.js:9
+msgid "Block"
+msgstr "Blok"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(bez naslova)"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "Widgeti"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Tiska od 1440. Ovo je razvojni dodatak za novi blok uređivač u jezgri."
+
+#: gutenberg.php:161
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Gutenberg razvojni režim rada zahtijeva da se datoteke izgrade. Pokrenite <code>npm install</code> kako bi instalirali ovisnosti, <code>npm run build</code> kako bi izgradili datoteke ili <code>npm run dev</code> kako bi izgradili datoteke i nadzirali promjene. Pročitajte  <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> datoteku za više informacija."
+
+#: lib/class-wp-rest-widgets-controller.php:724
+msgid "Unique identifier for the widget."
+msgstr "Jedinstveni identifikator za widget."
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "Slug"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Odaberi kategoriju"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Tim"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "j. F Y."
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "j. F Y. G:i"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "G:i"
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "prije %s"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "%s od sada"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:148
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg zahtjeva WordPress %s ili noviji kako bi ispravno funkcionirao. Nadogradite WordPress prije aktiviranja Gutenberga."

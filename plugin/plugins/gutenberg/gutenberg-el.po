@@ -1,0 +1,461 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-07 19:22:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/full-site-editing/templates-utils.php:16 build/block-library/index.js:36
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: lib/patterns/two-buttons.php:10
+msgid "Download now"
+msgstr "Λήψη τώρα"
+
+#: lib/patterns/three-buttons.php:10 build/block-library/index.js:16
+msgid "Contact us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: lib/patterns/quote.php:10
+msgid "— Don Quixote"
+msgstr "— Δον Κιχώτης"
+
+#: lib/patterns/quote.php:10
+msgid "Pencil drawing of Don Quixote"
+msgstr "Σκίτσο του Δον Κιχώτη."
+
+#: lib/patterns/two-buttons.php:10 lib/patterns/three-buttons.php:10
+msgid "About Cervantes"
+msgstr "Για τον Θερβάντες"
+
+#: lib/patterns/heading-paragraph.php:9
+msgid "Heading and paragraph"
+msgstr "Κεφαλίδα και παράγραφος"
+
+#: lib/compat.php:538
+msgctxt "post type singular name"
+msgid "Reusable Block"
+msgstr "Επαναχρησιμοποιούμενο μπλοκ"
+
+#: lib/compat.php:537
+msgctxt "post type general name"
+msgid "Reusable Blocks"
+msgstr "Επαναχρησιμοποιούμενα μπλοκ"
+
+#: lib/compat.php:539
+msgctxt "admin menu"
+msgid "Reusable Blocks"
+msgstr "Επαναχρησιμοποιούμενα Μπλοκ"
+
+#: build/block-library/blocks/site-logo.php:95
+msgid "Site logo."
+msgstr "Λογότυπο ιστότοπου"
+
+#: lib/patterns/three-buttons.php:10
+msgid "Books"
+msgstr "Βιβλία"
+
+#: lib/patterns/three-buttons.php:9
+msgid "Three buttons"
+msgstr "Τρία κουμπιά"
+
+#: lib/patterns/text-three-columns-buttons.php:9
+msgid "Three columns of text with buttons"
+msgstr "Τρεις στήλες κειμένου με κουμπιά"
+
+#: lib/class-wp-rest-plugins-controller.php:861
+msgid "The plugin author."
+msgstr "Ο δημιουργός του πρόσθετου."
+
+#: lib/class-wp-rest-plugins-controller.php:854
+msgid "The plugin's website address."
+msgstr "Η διεύθυνση ιστότοπου προσθέτου."
+
+#: lib/class-wp-rest-plugins-controller.php:867
+msgid "Plugin author's website address."
+msgstr "Διεύθυνση ιστότοπου δημιουργού του προσθέτου."
+
+#: lib/class-wp-rest-plugins-controller.php:874
+msgid "The plugin description."
+msgstr "Η περιγραφή πρόσθετου."
+
+#: lib/class-wp-rest-plugins-controller.php:835
+msgid "The plugin file."
+msgstr "Το αρχείο του πρόσθετου."
+
+#: lib/class-wp-rest-plugins-controller.php:215
+#: lib/class-wp-rest-plugins-controller.php:601
+msgid "Plugin not found."
+msgstr "Το πρόσθετο δεν βρέθηκε"
+
+#: lib/class-wp-rest-plugins-controller.php:118
+#: lib/class-wp-rest-plugins-controller.php:168
+#: lib/class-wp-rest-plugins-controller.php:385
+#: lib/class-wp-rest-plugins-controller.php:455
+msgid "Sorry, you are not allowed to manage plugins for this site."
+msgstr "Λυπούμαστε, δεν σας επιτρέπεται να διαχειριστείτε πρόσθετα για αυτό τον ιστότοπο."
+
+#: lib/class-wp-rest-block-types-controller.php:415
+msgid "Block category."
+msgstr "Κατηγορία μπλοκ."
+
+#: lib/class-wp-rest-block-types-controller.php:407
+msgid "Block supports."
+msgstr "Το μπλοκ υποστηρίζει."
+
+#: lib/class-wp-rest-block-types-controller.php:375
+msgid "Block attributes."
+msgstr "Ιδιότητες μπλοκ."
+
+#: lib/compat.php:324 build/blocks/index.js:1
+msgid "Text"
+msgstr "Κείμενο"
+
+#: lib/compat.php:334 build/blocks/index.js:1
+msgid "Design"
+msgstr "Σχεδίαση"
+
+#: lib/class-wp-rest-block-types-controller.php:86
+msgid "Block name."
+msgstr "Όνομα μπλοκ."
+
+#: lib/class-wp-rest-plugins-controller.php:848
+msgid "The plugin name."
+msgstr "Το όνομα του πρόσθετου."
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:114
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:40
+msgid "by %s"
+msgstr "από %s"
+
+#: lib/class-wp-theme-json-resolver.php:90 build/block-editor/index.js:27
+msgid "White"
+msgstr "Λευκό"
+
+#: lib/class-wp-theme-json-resolver.php:88
+#: lib/class-wp-theme-json-resolver.php:161 build/block-editor/index.js:27
+msgid "Black"
+msgstr "Μαύρο"
+
+#: lib/patterns/two-buttons.php:9
+msgid "Two buttons"
+msgstr "Δύο κουμπιά"
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:338 build/edit-post/index.js:39
+#: build/edit-site/index.js:9 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:24
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "Μη έγκυρο URL."
+
+#: lib/class-wp-theme-json-resolver.php:340 build/edit-site/index.js:9
+msgid "Global Styles"
+msgstr "Γενικό στυλ"
+
+#: lib/full-site-editing/templates-utils.php:18 lib/templates.php:98
+#: build/edit-site/index.js:9
+msgid "Theme"
+msgstr "Θέμα"
+
+#: gutenberg.php:108
+msgid "Site Editor (beta)"
+msgstr "Διορθωτής Ιστότοπου (beta)"
+
+#: build/block-library/blocks/query-pagination.php:33
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Next"
+msgstr "Επόμενο"
+
+#: build/block-library/blocks/query-pagination.php:26
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: lib/class-wp-theme-json-resolver.php:155
+msgid "Light"
+msgstr "Ανοιχτό"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: lib/templates.php:37
+msgid "Template"
+msgstr "Πρότυπο"
+
+#: lib/templates.php:42
+msgid "Edit Template"
+msgstr "Τροποποίηση προτύπου"
+
+#: lib/templates.php:44 build/edit-site/index.js:9
+msgid "All Templates"
+msgstr "Όλα τα πρότυπα"
+
+#: lib/templates.php:54
+msgid "Templates list"
+msgstr "Λίστα προτύπων"
+
+#: lib/templates.php:39
+msgctxt "Template"
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: lib/class-wp-rest-plugins-controller.php:337
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Αδύνατη η σύνδεση στο σύστημα αρχείων. Παρακαλώ επιβεβαιώστε τα διαπιστευτήρια σας."
+
+#: lib/class-wp-rest-sidebars-controller.php:110
+#: lib/class-wp-rest-widget-types-controller.php:163
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Λυπούμαστε, δεν σας επιτρέπεται να έχετε πρόσβαση στις μικροεφαρμογές του ιστότοπου."
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Παρουσιάστηκε σφάλμα. Το κανάλι ίσως είναι εκτός λειτουργίας. Ξαναδοκιμάστε αργότερα."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Σφάλμα RSS:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:42
+#: build/block-library/index.js:49
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: lib/editor-settings.php:28 build/block-editor/index.js:27
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: lib/editor-settings.php:31 build/block-editor/index.js:27
+msgid "Full Size"
+msgstr "Πλήρες Μέγεθος"
+
+#: lib/full-site-editing/default-template-types.php:69 lib/compat.php:329
+#: build/core-data/index.js:1 build/block-editor/index.js:67
+#: build/blocks/index.js:1
+msgid "Media"
+msgstr "Πολυμέσα"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr "j M, Y g:i a"
+
+#: lib/class-wp-theme-json-resolver.php:130
+#: lib/class-wp-theme-json-resolver.php:157 lib/editor-settings.php:29
+#: build/components/index.js:10 build/block-editor/index.js:27
+msgid "Medium"
+msgstr "Μεσαίο"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Δεν υπάρχουν αρχεία προς εμφάνιση."
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Ευχαριστούμε για την δοκιμή του Gutenberg!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Βοηθήστε στην κατασκευή του Gutenberg"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "Η κοινότητα του WordPress"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Ο Κώδικας είναι Ποίηση"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Εικόνες &amp; Βίντεο"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Συλλογές Εικόνων"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Κείμενο &amp; Επικεφαλίδες"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Καλώς ήρθατε στον διορθωτή Gutenberg"
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "Μικρό"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "Επιλέξτε εβδομάδα"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "Επιλέξτε ημέρα"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "Επιλέξτε μήνα"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "Επιλέξτε άρθρο"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "Χωρίς σχόλια για εμφάνιση."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s στο %2$s"
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "Επιλέξτε έτος"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "Ανοιχτό πράσινο κυανό"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "Κανονικό"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(χωρίς τίτλο)"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "Έντονα"
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "Πλάγια"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "Παράθεση"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "Γράψτε τον τίτλο ..."
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "Χαρακτηριστική εικόνα"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "Μικροεφαρμογές"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Δοκιμή"
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "Τεκμηρίωση"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "Σύντομο όνομα"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "%s από τώρα"
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "%s πριν"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Η Ομάδα του Gutenberg"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Επιλογή Κατηγορίας"
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "j F, Y g:i a"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:148
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Το Gutenberg απαιτεί το WordPress %s  ή μεταγενέστερο προκειμένου να λειτουργήσει σωστά. Παρακαλούμε, αναβαθμίστε το WordPress προτού ενεργοποιήσετε τον Gutenberg."

@@ -1,0 +1,40 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-26 15:18:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:492
+msgid "Allow site admins to change settings"
+msgstr "Permitir que los administradores del sitio cambien la configuración"
+
+#: classic-editor.php:354
+msgid "Allow users to switch editors"
+msgstr "Permitir a los usuarios cambiar de editor"
+
+#: classic-editor.php:353
+msgid "Default editor for all users"
+msgstr "Editor predeterminado para todos los usuarios"
+
+#: classic-editor.php:638
+msgid "Editor"
+msgstr "Editor"
+
+#: classic-editor.php:431
+msgid "No"
+msgstr "No"
+
+#: classic-editor.php:427
+msgid "Yes"
+msgstr "Sí"
+
+#: classic-editor.php:700
+msgid "Settings"
+msgstr "Opciones"

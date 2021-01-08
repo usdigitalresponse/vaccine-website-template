@@ -1,0 +1,1917 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-08 09:49:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/patterns/large-header-button.php:10
+msgid "Thou hast seen<br>nothing yet"
+msgstr "Daha bir şey<br>görmedin"
+
+#: lib/templates.php:97
+msgid "Themes"
+msgstr "Temalar"
+
+#. translators: %s: Number of auto-draft posts.
+#: lib/full-site-editing/templates-utils.php:99
+msgctxt "Post status"
+msgid "Auto-Draft <span class=\"count\">(%s)</span>"
+msgid_plural "Auto-Drafts <span class=\"count\">(%s)</span>"
+msgstr[0] "Otomatik taslak <span class=\"count\">(%s)</span>"
+msgstr[1] "Otomatik taslak <span class=\"count\">(%s)</span>"
+
+#: lib/full-site-editing/templates-utils.php:47
+msgctxt "Post status"
+msgid "Auto-Draft"
+msgstr "Otomatik taslak"
+
+#: lib/full-site-editing/default-template-types.php:81
+msgctxt "Template name"
+msgid "404"
+msgstr "404"
+
+#: lib/full-site-editing/default-template-types.php:77
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: lib/full-site-editing/default-template-types.php:65
+msgctxt "Template name"
+msgid "Tag Archive"
+msgstr "Etiket arşivi "
+
+#: lib/full-site-editing/default-template-types.php:61
+msgctxt "Template name"
+msgid "Date Archive"
+msgstr "Tarih arşivi"
+
+#: lib/full-site-editing/default-template-types.php:57
+msgctxt "Template name"
+msgid "Taxonomy Archive"
+msgstr "Sınıflandırma arşivi"
+
+#: lib/full-site-editing/default-template-types.php:53
+msgctxt "Template name"
+msgid "Post Category Archive"
+msgstr "Yazı kategorisi arşivi"
+
+#: lib/full-site-editing/default-template-types.php:49
+msgctxt "Template name"
+msgid "Author Archive"
+msgstr "Yazar arşivi"
+
+#: lib/full-site-editing/default-template-types.php:41
+msgctxt "Template name"
+msgid "Page"
+msgstr "Sayfa"
+
+#: lib/full-site-editing/default-template-types.php:37
+msgctxt "Template name"
+msgid "Post"
+msgstr "Yazı"
+
+#: lib/full-site-editing/default-template-types.php:21
+msgctxt "Template name"
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: lib/class-wp-theme-json-resolver.php:160
+msgid "Heavy"
+msgstr "Ağır"
+
+#: lib/class-wp-theme-json-resolver.php:158
+msgid "Semibold"
+msgstr "Kısmi kalın"
+
+#: lib/class-wp-theme-json-resolver.php:154
+msgid "Thin"
+msgstr "İnce"
+
+#: lib/class-wp-theme-json-resolver.php:153
+msgid "Ultralight"
+msgstr "Ultra hafif"
+
+#: lib/class-wp-theme-json-resolver.php:144
+#: lib/class-wp-theme-json-resolver.php:163
+msgid "Inherit"
+msgstr "Miras al"
+
+#: lib/class-wp-theme-json-resolver.php:143
+#: lib/class-wp-theme-json-resolver.php:162
+msgid "Initial"
+msgstr "Başlangıç"
+
+#: lib/full-site-editing/default-template-types.php:73
+msgctxt "Template name"
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: lib/full-site-editing/default-template-types.php:17
+msgctxt "Template name"
+msgid "Index"
+msgstr "Dizin"
+
+#: lib/full-site-editing/default-template-types.php:33
+msgctxt "Template name"
+msgid "Single"
+msgstr "Tekil"
+
+#: lib/full-site-editing/default-template-types.php:45
+msgctxt "Template name"
+msgid "Archive"
+msgstr "Arşiv"
+
+#: lib/full-site-editing/default-template-types.php:25
+msgctxt "Template name"
+msgid "Front Page"
+msgstr "Ön Sayfa"
+
+#: lib/class-wp-rest-menu-items-controller.php:58
+msgid "The password for the post if it is password protected."
+msgstr "Parola korumalı ise yazının parola koruması."
+
+#: lib/class-wp-rest-batch-controller.php:216
+msgid "The handler for the route is invalid"
+msgstr "Güzergah işleyicisi geçersiz"
+
+#: lib/class-wp-rest-batch-controller.php:143
+#: lib/class-wp-rest-batch-controller.php:249
+msgid "The requested route does not support batch requests."
+msgstr "İstenen rota toplu iş isteklerini desteklemiyor."
+
+#: lib/class-wp-rest-batch-controller.php:89
+msgid "Could not parse the path."
+msgstr "Yol ayrıştırılamadı."
+
+#: lib/class-wp-rest-menu-items-controller.php:980
+msgid "HTML content to display for this block menu item."
+msgstr "Bu blok menü öğesi için görüntülenecek HTML içeriği. "
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Three"
+msgstr "Üçüncü bölüm"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter Two"
+msgstr "İkinci bölüm"
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Chapter One"
+msgstr "Birinci bölüm"
+
+#: lib/class-wp-rest-widgets-controller.php:767
+msgid "HTML representation of the widget admin form."
+msgstr "Bileşenin yönetici formu için HTML gösterimi."
+
+#: lib/class-wp-rest-sidebars-controller.php:262
+msgid "Inactive widgets"
+msgstr "Pasif bileşenler"
+
+#: lib/patterns/large-header-button.php:10
+msgid "Read now"
+msgstr "Şimdi oku"
+
+#. translators: 1: Pattern name.
+#: lib/class-wp-block-patterns-registry.php:74
+msgid "Block pattern \"%1$s\" not found."
+msgstr "\"%1$s\" blok deseni bulunamadı."
+
+#: lib/class-wp-block-patterns-registry.php:46
+msgid "Block pattern title must be a string."
+msgstr "Blok desen başlığı metin olmalıdır."
+
+#: lib/class-wp-rest-widgets-controller.php:773
+msgid "Settings of the widget."
+msgstr "Bileşenin ayarları."
+
+#: lib/class-wp-rest-widgets-controller.php:761
+msgid "HTML representation of the widget."
+msgstr "Bileşenin HTML gösterimi."
+
+#: lib/class-wp-rest-widgets-controller.php:756
+msgid "Number of the widget."
+msgstr "Bileşenin numarası."
+
+#: lib/class-wp-rest-widgets-controller.php:751
+#: lib/class-wp-rest-widget-types-controller.php:352
+msgid "Description of the widget."
+msgstr "Bileşenin açıklaması."
+
+#: lib/class-wp-rest-widgets-controller.php:746
+#: lib/class-wp-rest-widget-types-controller.php:58
+msgid "Name of the widget."
+msgstr "Bileşenin adı."
+
+#: lib/class-wp-rest-widgets-controller.php:741
+msgid "Class name of the widget implementation."
+msgstr "Bileşen uygulamasının sınıf adı."
+
+#: lib/class-wp-rest-widgets-controller.php:729
+msgid "Type of widget for the object."
+msgstr "Nesne için bileşen türü."
+
+#: lib/class-wp-rest-sidebars-controller.php:411
+msgid "Nested widgets."
+msgstr "İç içe yerleştirilmiş bileşenler."
+
+#: lib/class-wp-rest-sidebars-controller.php:403
+msgid "Status of sidebar."
+msgstr "Kenar çubuğunun durumu."
+
+#: lib/class-wp-rest-sidebars-controller.php:361
+msgid "Description of sidebar."
+msgstr "Kenar çubuğunun açıklaması."
+
+#: lib/class-wp-rest-sidebars-controller.php:354
+msgid "Unique name identifying the sidebar."
+msgstr "Kenar çubuğunu tanımlayan benzersiz ad."
+
+#: lib/class-wp-rest-sidebars-controller.php:347
+msgid "ID of sidebar."
+msgstr "Kenar çubuğunun numarası."
+
+#: lib/class-wp-rest-sidebars-controller.php:80
+msgid "The id of a registered sidebar"
+msgstr "Kayıtlı kenar çubuğunun kimliği"
+
+#: lib/class-wp-widget-block.php:33
+msgid "Gutenberg block."
+msgstr "Gutenberg bloğu."
+
+#: lib/full-site-editing/templates-utils.php:16 build/block-library/index.js:36
+msgid "Description"
+msgstr "Açıklama"
+
+#: lib/patterns/large-header-button.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with a bright gradient background, a big heading and a filled button."
+msgstr "Açık gradyan arka plan, büyükçe bir başlık ve dolgulu düğme ile büyükçe bir manşet bölümü."
+
+#: lib/patterns/large-header-button.php:9
+msgid "Large header with a heading and a button "
+msgstr "Başlık ile büyük üst kısım ve bir düğme "
+
+#: lib/patterns/two-images.php:12
+msgid "An old pencil drawing of Don Quixote and Sancho Panza sitting on their horses, by Wilhelm Marstrand."
+msgstr "Don Kişot ve Sanço Panza'nın atları üzerinde otururken eski bir kara kalem çizimi, Wilhelm Marstrand."
+
+#: lib/patterns/text-two-columns.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text preceded by a long heading."
+msgstr "Uzun bir başlığı takip eden iki sütun metin."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman."
+msgstr "Geri kalan kısmı da, bayram günleri için ince kumaştan bir ceket, kadife pantolon ve yine kadife ayakkabılar ile diğer günler için yerli kumaştan yapılmış sağlam bir elbiseden ibaret olan giyim eşyasına ayrılmıştı. Kırkını aşmış bir kâhya kadın, onun daha yirmi yaşına gelmemiş bir kız olan yeğeni ve hem ev işlerine hem de tarlaya bakan, atı tımar eden ve bağ ile de ilgilenen bir uşak ev halkını oluşturmaktaydı. Ellisine yaklaşmış bulunan asilzademiz gürbüz, zayıf yapılı, uzun boylu, zayıf yüzlü, sabahları erken kalkmaya alışmış, ava çok düşkün bir adamdı."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income."
+msgstr "La Mancha eyaletinin, adını hatırlamak istemediğim bir köyünde, yakın bir zamana kadar tazısı, eski bir kalkanı, cılız bir atı ve silahlıkta takılı bir mızrağı bulunan asilzadelerden biri yaşamakta idi. Koyun etinden ziyade inek etiyle hazırlanan bir haşlama, nerdeyse her akşam yenen sirkeli ve bol salçalı bir çorba, Cuma günleri pişen mercimek Cumartesi günlerine mahsus beyin, baş, paça gibi şeyler ve Pazar günleri de fazladan pişen güvercin, asilzadenin gelirinin dörtte üçünü bitirirdi."
+
+#: lib/patterns/text-two-columns.php:11
+msgid "Which treats of the character and pursuits of the famous gentleman Don Quixote of La Mancha"
+msgstr "La Mancha'lı Ünlü Asilzade Don Kişot'un Kişiliği ve Uğraşları"
+
+#: lib/patterns/two-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Two buttons, one filled and one outlined, side by side."
+msgstr "İki düğme, biri dolgulu, diğeri çizgili, yan yana."
+
+#: lib/patterns/two-buttons.php:10
+msgid "Download now"
+msgstr "Şimdi indirin"
+
+#: lib/patterns/large-header.php:12
+msgctxt "Block pattern description"
+msgid "A large hero section with an example background image and a heading in the center."
+msgstr "Örnek bir arka plan görseli ve ortalanmış başlık ile büyükçe bir manşet bölümü."
+
+#: lib/patterns/large-header.php:10
+msgid "Don Quixote"
+msgstr "Don Kişot"
+
+#: lib/patterns/large-header.php:9
+msgid "Large header with a heading"
+msgstr "Başlık ile büyük üst kısım"
+
+#: lib/patterns/heading-paragraph.php:12
+msgctxt "Block pattern description"
+msgid "A heading preceded by a chapter number, and followed by a paragraph."
+msgstr "Başlıktan önce bir bölüm numarası ve ardından bir paragraf gelir."
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "These preliminaries settled, he did not care to put off any longer the execution of his design, urged on to it by the thought of all the world was losing by his delay, seeing what wrongs he intended to right, grievances to redress, injustices to repair, abuses to remove, and duties to discharge."
+msgstr "Bütün hazırlıkları tamamlanmış olduğundan, şövalyemiz düşündüklerini gerçekleştirmeyi daha fazla geciktirmek istemedi. Zira, böyle bir gecikmenin yeryüzünde sebep olacağı kötülükleri düşünerek bir an önce harekete geçmek istiyordu."
+
+#: lib/patterns/heading-paragraph.php:10
+msgid "Which treats of the first sally the ingenious Don Quixote made from home"
+msgstr "Don Kişot'un ilk macerası"
+
+#: lib/patterns/heading-paragraph.php:9
+msgid "Heading and paragraph"
+msgstr "Başlık ve paragraf"
+
+#: lib/patterns/three-buttons.php:13
+msgctxt "Block pattern description"
+msgid "Three filled buttons with rounded corners, side by side."
+msgstr "Yan yana köşeleri yuvarlatılmış dolgulu üç düğme."
+
+#: lib/patterns/three-buttons.php:10 build/block-library/index.js:16
+msgid "Contact us"
+msgstr "Bizimle iletişim kurun"
+
+#: lib/patterns/two-buttons.php:10 lib/patterns/three-buttons.php:10
+msgid "About Cervantes"
+msgstr "Cervantes Hakkında"
+
+#: lib/patterns/text-three-columns-buttons.php:12
+msgctxt "Block pattern description"
+msgid "Three small columns of text, each with an outlined button with rounded corners at the bottom."
+msgstr "Üç küçük sütun metin, her birinin altında köşeleri yuvarlatılmış kenarlıklı düğmeler."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Wherein is related the droll way in which Don Quixote had himself dubbed a knight."
+msgstr "Don Kişot'un kendisine şövalye adını verdiği garip tarzıyla ilgilidir."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the first sally the ingenious Don Quixote made from home."
+msgstr "Ki bu Don Kişotun evinden çıktığı ilk geziye gönderme yapar."
+
+#: lib/patterns/text-three-columns-buttons.php:11
+msgid "Which treats of the character and pursuits of the famous Don Quixote of La Mancha."
+msgstr "Ki bu ünlü La Mancha'lı Don Kişot karakterini takip eder ve gönderme yapar."
+
+#: lib/patterns/quote.php:13
+msgctxt "Block pattern description"
+msgid "A quote and citation with an image above, and a separator at the bottom."
+msgstr "Üstte görsel ile beraber tırnak ve alıntı, ve altta bir ayraç."
+
+#: lib/patterns/quote.php:10
+msgid "— Don Quixote"
+msgstr "— Don Kişot"
+
+#: lib/patterns/quote.php:10
+msgid "\"Do you see over yonder, friend Sancho, thirty or forty hulking giants? I intend to do battle with them and slay them.\""
+msgstr "\"Oradakileri gördün mü dostum Sancho, otuz ya da kırk hantal devi? Onlarla savaşmayı ve onları katletmeyi planlıyorum.\""
+
+#: lib/patterns/quote.php:10
+msgid "Pencil drawing of Don Quixote"
+msgstr "Don Kişot'un kalem çizimi"
+
+#: lib/patterns/text-two-columns-with-images.php:12
+msgctxt "Block pattern description"
+msgid "Two columns of text, each with an image on top."
+msgstr "İki sütun metin, her birinin üst tarafında görsel."
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "But of all there were none he liked so well as those of the famous Feliciano de Silva's composition, for their lucidity of style and complicated conceits were as pearls in his sight, particularly when in his reading he came upon courtships and cartels, where he often found passages like \"the reason of the unreason with which my reason is afflicted so weakens my reason that with reason I murmur at your beauty;\" or again, \"the high heavens render you deserving of the desert your greatness deserves.\""
+msgstr "Fakat bunların hiçbirini Feliciano de Silva'nın eserleri kadar beğenmiyordu. Kitapların açık ve anlaşılır olmaları hoşuna gitse de bazen hiçbir şey anlamadığı karmaşık cümleler de kendisine bulunmaz inciler gibi görünüyordu. Özellikle, şu acayip cümlelerle yazılmış aşk ve düelloya davet mektuplarını pek beğenirdi: \"Fikirlerimi reddetmek için ileri sürdüğünüz nedenler irademi o kadar zayıflatıyor ki, güzelliğinizden şikayetim hiç de nedensiz değildir.\" Eşine az rastlanan şu cümleyi de söylemeden geçmeyelim: \"Yıldızlar ile birlikte ilahi bir şekilde sizlere kuvvet veren ve büyüklüğü, layık olan layık güzellikler bahşeden gökler ki ey yüce gökler.\""
+
+#: lib/patterns/text-two-columns-with-images.php:11
+msgid "They must know, then, that the above-named gentleman whenever he was at leisure (which was mostly all the year round) gave himself up to reading books of chivalry with such ardour and avidity that he almost entirely neglected the pursuit of his field-sports, and even the management of his property; and to such a pitch did his eagerness and infatuation go that he sold many an acre of tillageland to buy books of chivalry to read, and brought home as many of them as he could get."
+msgstr "Şunu bilmek gerekir ki, asilzademiz, işi olmadığı günler -aslında neredeyse yılın büyük bölümü böyle geçerdi- kendini şövalye romanlarını okumaya o kadar zevk ve merakla vermişti ki, avlanmayı ve çiftliğinin idaresini neredeyse unutmuştu. Hatta bu merak öyle bir noktaya vardı ki, en iyi topraklarından birçoğunu şövalye romanları almak için sattı ve bu konuda neler bulduysa evini onlarla doldurdu."
+
+#: lib/edit-site-page.php:200
+msgid "The ID of the page that should be displayed on the front page"
+msgstr "Ön sayfada gösterilmesi gereken sayfanın tanımlayıcı numarası"
+
+#: lib/edit-site-page.php:190
+msgid "What to show on the front page"
+msgstr "Ön sayfada göstermek mi istersiniz?"
+
+#: lib/compat.php:557
+msgid "Reusable Block updated."
+msgstr "Yeniden kullanılabilir blok güncellendi."
+
+#: lib/compat.php:556
+msgid "Reusable Block scheduled."
+msgstr "Yeniden kullanılabilir blok zamanlandı."
+
+#: lib/compat.php:555
+msgid "Reusable Block reverted to draft."
+msgstr "Yeniden kullanılabilir blok taslağa dönüştürüldü."
+
+#: lib/compat.php:554
+msgid "Reusable Block published privately."
+msgstr "Yeniden kullanılabilir blok özel olarak yayımlandı."
+
+#: lib/compat.php:553
+msgid "Reusable Block published."
+msgstr "Yeniden kullanılabilir blok yayımlandı."
+
+#: lib/compat.php:552
+msgid "Reusable Blocks list"
+msgstr "Yeniden kullanılabilir blok listesi"
+
+#: lib/compat.php:551
+msgid "Reusable Blocks list navigation"
+msgstr "Yeniden kullanılabilir blok liste dolaşımı"
+
+#: lib/compat.php:550
+msgid "Filter reusable blocks list"
+msgstr "Yeniden kullanılabilir blok listesini filtrele"
+
+#: lib/compat.php:549
+msgid "No reusable blocks found in Trash."
+msgstr "Çöpte yeniden kullanılabilir blok bulunamadı."
+
+#: lib/compat.php:548
+msgid "No reusable blocks found."
+msgstr "Yeniden kullanılabilir blok bulunamadı."
+
+#: lib/compat.php:547
+msgid "Search Reusable Blocks"
+msgstr "Yeniden kullanılabilir bloklarda ara"
+
+#: lib/compat.php:546
+msgid "All Reusable Blocks"
+msgstr "Tüm yeniden kullanılabilir blok"
+
+#: lib/compat.php:545
+msgid "View Reusable Block"
+msgstr "Yeniden kullanılabilir bloğu görüntüle"
+
+#: lib/compat.php:544
+msgid "Edit Reusable Block"
+msgstr "Yeniden kullanılabilir blok düzenle"
+
+#: lib/compat.php:543
+msgid "New Reusable Block"
+msgstr "Yeni yeniden kullanılabilir blok"
+
+#: lib/compat.php:542
+msgid "Add New Reusable Block"
+msgstr "Yeni yeniden kullanılabilir blok ekle"
+
+#: lib/compat.php:541
+msgctxt "Reusable Block"
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: lib/compat.php:540
+msgctxt "add new on admin bar"
+msgid "Reusable Block"
+msgstr "Tekrar kullanılabilir blok"
+
+#: lib/compat.php:539
+msgctxt "admin menu"
+msgid "Reusable Blocks"
+msgstr "Yeniden kullanılabilir bloklar"
+
+#: lib/compat.php:538
+msgctxt "post type singular name"
+msgid "Reusable Block"
+msgstr "Tekrar kullanılabilir blok"
+
+#: lib/compat.php:537
+msgctxt "post type general name"
+msgid "Reusable Blocks"
+msgstr "Yeniden kullanılabilir bloklar"
+
+#: build/block-library/blocks/site-logo.php:95
+msgid "Site logo."
+msgstr "Site logosu."
+
+#: lib/patterns/three-buttons.php:10
+msgid "Books"
+msgstr "Kitaplar"
+
+#: lib/class-wp-rest-menus-controller.php:589
+msgid "Whether to automatically add top level pages to this menu."
+msgstr "Üst seviye sayfaların bu menüye otomatik olarak eklenip eklenmeyeceği."
+
+#: lib/class-wp-rest-menus-controller.php:171
+msgid "Sorry, you are not allowed to set auto add pages."
+msgstr "Üzgünüz, otomatilk sayfa eklemeyi ayarlamanıza izin verilmiyor."
+
+#: lib/patterns/text-two-columns-with-images.php:9
+msgid "Two columns of text with images"
+msgstr "Resimli metin içeren iki sütun"
+
+#: lib/patterns/two-images.php:11
+msgctxt "Block pattern description"
+msgid "An image gallery with two example images."
+msgstr "İki örnek görsel ile görsel galerisi"
+
+#: lib/patterns/three-buttons.php:9
+msgid "Three buttons"
+msgstr "Üç düğme"
+
+#: lib/patterns/text-three-columns-buttons.php:9
+msgid "Three columns of text with buttons"
+msgstr "Üç sütunluk düğmeli metin"
+
+#: lib/class-wp-block-patterns-registry.php:52
+msgid "Block pattern content must be a string."
+msgstr "Blok desen içeriği metin olmalıdır."
+
+#: lib/class-wp-rest-menu-items-controller.php:1000
+msgid "Version of the block format used in the HTML content."
+msgstr "HTML içerikte kullanılan blok biçiminin sürümü."
+
+#: lib/class-wp-rest-menu-items-controller.php:994
+msgid "HTML content, transformed for display."
+msgstr "HTML içeriği, görüntülenme için dönüştürülmüş."
+
+#: lib/class-wp-rest-menu-items-controller.php:989
+msgid "HTML content, as it exists in the database."
+msgstr "HTML içeriği, veritabanında olduğu gibi."
+
+#: lib/class-wp-rest-menu-items-controller.php:523
+msgid "Content required if menu item of type block."
+msgstr "Blok tipi menü öğesi ise içerik gereklidir."
+
+#: lib/class-wp-rest-image-editor-controller.php:249
+msgid "Unable to crop this image."
+msgstr "Görsel kırpılamadı."
+
+#: lib/class-wp-rest-image-editor-controller.php:233
+msgid "Unable to rotate this image."
+msgstr "Görsel döndürülemedi."
+
+#: lib/class-wp-rest-image-editor-controller.php:225
+msgid "Unable to edit this image."
+msgstr "Görsel düzenlenemedi."
+
+#: lib/class-wp-rest-image-editor-controller.php:209
+msgid "The image was not edited. Edit the image before applying the changes."
+msgstr "Görsel düzenlenmedi. Değişiklikleri uygulamadan önce görseli düzenleyin."
+
+#: lib/class-wp-rest-image-editor-controller.php:190
+msgid "This type of file cannot be edited."
+msgstr "Bu dosya türü düzenlenemez."
+
+#: lib/class-wp-rest-image-editor-controller.php:131
+#: lib/class-wp-rest-image-editor-controller.php:140
+#: lib/class-wp-rest-image-editor-controller.php:178
+msgid "Unable to get meta information for file."
+msgstr "Dosya için meta bilgileri edinilemedi."
+
+#: lib/class-wp-rest-image-editor-controller.php:99
+msgid "Sorry, you are not allowed to upload media on this site."
+msgstr "Üzgünüm, bu siteye ortam yüklemenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:938
+msgid "Limits results to plugins with the given status."
+msgstr "Verilen duruma göre eklenti sonuçlarını sınırlandırın."
+
+#: lib/class-wp-rest-plugins-controller.php:914
+msgid "The plugin's text domain."
+msgstr "Eklenti metin alan adı."
+
+#: lib/class-wp-rest-plugins-controller.php:908
+msgid "Minimum required version of PHP."
+msgstr "Gerekli asgari PHP sürümü."
+
+#: lib/class-wp-rest-plugins-controller.php:902
+msgid "Minimum required version of WordPress."
+msgstr "Gerekli asgari WordPress sürümü."
+
+#: lib/class-wp-rest-plugins-controller.php:896
+msgid "Whether the plugin can only be activated network-wide."
+msgstr "Eklentinin site genelinde etkinleştirilip etkinleştirilemeyeceği."
+
+#: lib/class-wp-rest-plugins-controller.php:890
+msgid "The plugin version number."
+msgstr "Eklenti sürümü."
+
+#: lib/class-wp-rest-plugins-controller.php:884
+msgid "The plugin description formatted for display."
+msgstr "Görüntüleme için biçimlenmiş eklenti açıklaması."
+
+#: lib/class-wp-rest-plugins-controller.php:880
+msgid "The raw plugin description."
+msgstr "Ham eklenti açıklaması."
+
+#: lib/class-wp-rest-plugins-controller.php:874
+msgid "The plugin description."
+msgstr "Eklenti açıklaması."
+
+#: lib/class-wp-rest-plugins-controller.php:867
+msgid "Plugin author's website address."
+msgstr "Eklenti yazarının web sitesi."
+
+#: lib/class-wp-rest-plugins-controller.php:861
+msgid "The plugin author."
+msgstr "Eklenti yazarı."
+
+#: lib/class-wp-rest-plugins-controller.php:854
+msgid "The plugin's website address."
+msgstr "Eklenti web sitesi."
+
+#: lib/class-wp-rest-plugins-controller.php:848
+msgid "The plugin name."
+msgstr "Eklenti adı."
+
+#: lib/class-wp-rest-plugins-controller.php:835
+msgid "The plugin file."
+msgstr "Eklenti dosyası."
+
+#: lib/class-wp-rest-plugins-controller.php:814
+msgid "The filesystem is currently unavailable for managing plugins."
+msgstr "Dosya sistemi şu anda eklentileri yönetmek için kullanılamıyor."
+
+#: lib/class-wp-rest-plugins-controller.php:695
+msgid "Network only plugin must be network activated."
+msgstr "Sadece ağ eklentisi ağ genelinde etkinleştirilmelidir."
+
+#: lib/class-wp-rest-plugins-controller.php:661
+msgid "Sorry, you are not allowed to deactivate this plugin."
+msgstr "Üzgünüm, bu eklentiyi etkisizleştirmenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:653
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "Üzgünüm, bu eklentiyi etkinleştirmenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:645
+msgid "Sorry, you do not have permission to manage network plugins."
+msgstr "Üzgünüz, ağ eklentilerini yönetme izniniz yok."
+
+#: lib/class-wp-rest-plugins-controller.php:498
+msgid "Cannot delete an active plugin. Please deactivate it first."
+msgstr "Etkin bir eklentiyi silemezsiniz. Lütfen önce devre dışı bırakın."
+
+#: lib/class-wp-rest-plugins-controller.php:463
+msgid "Sorry, you are not allowed to delete plugins for this site."
+msgstr "Üzgünüm, bu sitede eklentileri silmenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:343
+msgid "Unable to determine what plugin was installed."
+msgstr "Hangi eklentinin yüklendiği belirlenemedi."
+
+#: lib/class-wp-rest-plugins-controller.php:253
+msgid "Sorry, you are not allowed to activate plugins."
+msgstr "Üzgünüm, eklentileri etkinleştirmenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:245
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Üzgünüm, bu siteye eklenti yüklemenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:228
+msgid "Sorry, you are not allowed to manage this plugin."
+msgstr "Üzgünüm, bu eklentiyi yönetmenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:215
+#: lib/class-wp-rest-plugins-controller.php:601
+msgid "Plugin not found."
+msgstr "Eklenti bulunamadı."
+
+#: lib/class-wp-rest-plugins-controller.php:118
+#: lib/class-wp-rest-plugins-controller.php:168
+#: lib/class-wp-rest-plugins-controller.php:385
+#: lib/class-wp-rest-plugins-controller.php:455
+msgid "Sorry, you are not allowed to manage plugins for this site."
+msgstr "Üzgünüm, bu sitede eklentileri yönetmenize izin verilmiyor."
+
+#: lib/class-wp-rest-plugins-controller.php:61
+#: lib/class-wp-rest-plugins-controller.php:842
+msgid "The plugin activation status."
+msgstr "Eklenti etkinleştirme durumu."
+
+#: lib/class-wp-rest-plugins-controller.php:57
+msgid "WordPress.org plugin directory slug."
+msgstr "WordPress.org eklenti dizini kısa adı."
+
+#: lib/class-wp-rest-block-types-controller.php:495
+msgid "Block example."
+msgstr "Blok örneği."
+
+#: lib/class-wp-rest-block-types-controller.php:485
+msgid "Block keywords."
+msgstr "Blok anahtar kelimeleri."
+
+#: lib/class-wp-rest-block-types-controller.php:475
+msgid "Parent blocks."
+msgstr "Üst bloklar."
+
+#: lib/class-wp-rest-block-types-controller.php:468
+msgid "Public text domain."
+msgstr "Herkese açık metin etki alanı."
+
+#: lib/class-wp-rest-block-types-controller.php:457
+msgid "Block style variations."
+msgstr "Blok stili varyasyonları."
+
+#: lib/class-wp-rest-block-types-controller.php:450
+msgid "Public facing style handle."
+msgstr "Herkese açık stil işleyici."
+
+#: lib/class-wp-rest-block-types-controller.php:443
+msgid "Editor style handle."
+msgstr "Düzenleyici biçim işleyicisi."
+
+#: lib/class-wp-rest-block-types-controller.php:436
+msgid "Public facing script handle."
+msgstr "Herkese açık betik işleyici."
+
+#: lib/class-wp-rest-block-types-controller.php:429
+msgid "Editor script handle."
+msgstr "Düzenleme betik işleyicisi."
+
+#: lib/class-wp-rest-block-types-controller.php:422
+msgid "Is the block dynamically rendered."
+msgstr "Blok dinamik olarak mı işleniyor."
+
+#: lib/class-wp-rest-block-types-controller.php:415
+msgid "Block category."
+msgstr "Blok kategorisi."
+
+#: lib/class-wp-rest-block-types-controller.php:407
+msgid "Block supports."
+msgstr "Blok desteği."
+
+#: lib/class-wp-rest-block-types-controller.php:397
+msgid "Context values inherited by blocks of this type."
+msgstr "Bu türün blokları tarafından devralınan bağlam değerleri."
+
+#: lib/class-wp-rest-block-types-controller.php:386
+msgid "Context provided by blocks of this type."
+msgstr "Bu tür bloklar tarafından sağlanan bağlam."
+
+#: lib/class-wp-rest-block-types-controller.php:375
+msgid "Block attributes."
+msgstr "Blok nitelikleri."
+
+#: lib/class-wp-rest-block-types-controller.php:368
+msgid "Icon of block type."
+msgstr "Blok türünün simgesi."
+
+#: lib/class-wp-rest-block-types-controller.php:361
+msgid "Description of block type."
+msgstr "Blok türünün açıklaması."
+
+#: lib/class-wp-rest-block-types-controller.php:354
+msgid "Unique name identifying the block type."
+msgstr "Blok türünü tanımlayan eşsiz isim."
+
+#: lib/class-wp-rest-block-types-controller.php:347
+msgid "Title of block type."
+msgstr "Blok türünün başlığı."
+
+#: lib/class-wp-rest-block-types-controller.php:199
+msgid "Invalid block type."
+msgstr "Geçersiz blok türü."
+
+#: lib/class-wp-rest-block-types-controller.php:187
+msgid "Sorry, you are not allowed to manage block types."
+msgstr "Üzgünüm, blok türlerini yönetmenize izin verilmiyor."
+
+#: lib/class-wp-rest-block-types-controller.php:90
+#: lib/class-wp-rest-block-types-controller.php:522
+msgid "Block namespace."
+msgstr "Blok isim uzayı."
+
+#: lib/class-wp-rest-block-types-controller.php:86
+msgid "Block name."
+msgstr "Blok adı."
+
+#: lib/class-wp-rest-block-directory-controller.php:326
+msgid "Limit result set to blocks matching the search term."
+msgstr "Sonuç kümesini, arama terimiyle eşleşen bloklar la sınırlayın."
+
+#: lib/class-wp-rest-block-directory-controller.php:296
+msgid "An object representing the block CSS and JavaScript assets."
+msgstr "Blok CSS ve JavaScript varlıklarını temsil eden bir nesne."
+
+#: lib/class-wp-rest-block-directory-controller.php:291
+msgid "The date when the block was last updated, in fuzzy human readable format."
+msgstr "Blokun en son güncelleme tarihi, insanlar tarafından okunabilir biçimde."
+
+#: lib/class-wp-rest-block-directory-controller.php:285
+msgid "The block icon."
+msgstr "Blok simgesi."
+
+#: lib/class-wp-rest-block-directory-controller.php:280
+msgid "The WordPress.org username of the block author."
+msgstr "Blok yazarının WordPress.org kullanıcı adı."
+
+#: lib/class-wp-rest-block-directory-controller.php:275
+msgid "The number of blocks published by the same author."
+msgstr "Aynı yazar tarafından yayınlanan blok sayısı."
+
+#: lib/class-wp-rest-block-directory-controller.php:270
+msgid "The average rating of blocks published by the same author."
+msgstr "Aynı yazar tarafından yayınlanan blokların ortalama puanı."
+
+#: lib/class-wp-rest-block-directory-controller.php:265
+msgid "The number sites that have activated this block."
+msgstr "Bu bloğu etkinleştiren site sayısı."
+
+#: lib/class-wp-rest-block-directory-controller.php:260
+msgid "The number of ratings."
+msgstr "Puanlamaların sayısı"
+
+#: lib/class-wp-rest-block-directory-controller.php:255
+msgid "The star rating of the block."
+msgstr "Bloğun yıldız puanı."
+
+#: lib/class-wp-rest-block-directory-controller.php:250
+msgid "The block slug."
+msgstr "Blok kısa adı."
+
+#: lib/class-wp-rest-block-directory-controller.php:245
+msgid "A short description of the block, in human readable format."
+msgstr "Bloğun kısa bir açıklaması, insanlar tarafından okunabilir biçimde."
+
+#: lib/class-wp-rest-block-directory-controller.php:240
+msgid "The block title, in human readable format."
+msgstr "Okunabilir biçimde blok başlığı."
+
+#: lib/class-wp-rest-block-directory-controller.php:235
+msgid "The block name, in namespace/block-name format."
+msgstr "Blok ismi, isimalanı/blok-ismi biçiminde."
+
+#: lib/class-wp-rest-block-directory-controller.php:61
+msgid "Sorry, you are not allowed to browse the block directory."
+msgstr "Üzgünüz, blok dizinine göz atmanıza izin verilmiyor."
+
+#: lib/compat.php:334 build/blocks/index.js:1
+msgid "Design"
+msgstr "Tasarım"
+
+#: lib/compat.php:324 build/blocks/index.js:1
+msgid "Text"
+msgstr "Metin"
+
+#. translators: %1: field name. %2: block name
+#: lib/compat.php:93
+msgid "The asset file for the \"%1$s\" defined in \"%2$s\" block definition is missing."
+msgstr "\"%2$s\" blok tanımlamasında tanımlanmış olan \"%1$s\" varlık dosyası eksik."
+
+#. translators: 1: Block name.
+#: lib/class-wp-block.php:125
+msgid "The \"providesContext\" parameter provided in block type \"%s\" is deprecated. Please use \"provides_context\"."
+msgstr "\"%s\" blok tipinde sağlanan \"providesContext\" parametresi artık kullanılmıyor. Lütfen \"provides_context\" kullanın."
+
+#. translators: 1: Block name.
+#: lib/class-wp-block.php:116
+msgid "The \"context\" parameter provided in block type \"%s\" is deprecated. Please use \"uses_context\" instead."
+msgstr "\"%s\" blok tipinde sağlanan \"context\" parametresi artık kullanılmıyor. Lütfen \"uses_context\" kullanın."
+
+#. translators: byline. %s: current author.
+#. translators: %s: the author.
+#: build/block-library/blocks/latest-posts.php:114
+#: build/block-library/blocks/rss.php:60 build/block-library/index.js:40
+msgid "by %s"
+msgstr "%s tarafından"
+
+#. translators: 1: Block pattern name.
+#: lib/class-wp-block-pattern-categories-registry.php:62
+msgid "Block pattern category \"%1$s\" not found."
+msgstr "\"%1$s\" blok desen kategorisi bulunamadı."
+
+#: lib/class-wp-block-pattern-categories-registry.php:40
+msgid "Block pattern category name must be a string."
+msgstr "Blok desen kategorisi ismi bir metin olmalıdır."
+
+#: lib/block-patterns.php:63
+msgctxt "Block pattern category"
+msgid "Headers"
+msgstr "Üst kısımlar"
+
+#: lib/block-patterns.php:62
+msgctxt "Block pattern category"
+msgid "Gallery"
+msgstr "Galeri"
+
+#: lib/block-patterns.php:60
+msgctxt "Block pattern category"
+msgid "Buttons"
+msgstr "Düğmeler"
+
+#: lib/block-patterns.php:61
+msgctxt "Block pattern category"
+msgid "Columns"
+msgstr "Sütunlar"
+
+#: lib/block-patterns.php:64
+msgctxt "Block pattern category"
+msgid "Text"
+msgstr "Metin"
+
+#: lib/templates.php:209
+msgid "Whether to filter for resolved templates"
+msgstr "Çözülmüş şablonlar için filtrelenip filtrelenmeyeceği"
+
+#: lib/class-wp-theme-json-resolver.php:90 build/block-editor/index.js:27
+msgid "White"
+msgstr "Beyaz"
+
+#: lib/class-wp-theme-json-resolver.php:88
+#: lib/class-wp-theme-json-resolver.php:161 build/block-editor/index.js:27
+msgid "Black"
+msgstr "Siyah"
+
+#: lib/patterns/two-images.php:9
+msgid "Two images side by side"
+msgstr "Yan yana iki görsel"
+
+#: lib/patterns/text-two-columns.php:9
+msgid "Two columns of text"
+msgstr "İki sütun metni"
+
+#: lib/patterns/two-buttons.php:9
+msgid "Two buttons"
+msgstr "İki düğme"
+
+#: lib/template-parts.php:121
+msgid "The theme slug for the theme that created the template part."
+msgstr "Şablon parçasını oluşturan tema için tema kısa adı."
+
+#. translators: accessibility text for the content landmark region.
+#: lib/navigation.php:338 build/edit-post/index.js:39
+#: build/edit-site/index.js:9 build/edit-site/index.js:15
+#: build/edit-widgets/index.js:24
+msgid "Content"
+msgstr "İçerik"
+
+#: lib/experiments-page.php:50
+msgid "Enable Navigation screen"
+msgstr "Dolaşım ekranını etkinleştir"
+
+#: gutenberg.php:62 gutenberg.php:63
+msgid "Navigation (beta)"
+msgstr "Dolaşım (beta)"
+
+#: lib/class-wp-rest-menu-items-controller.php:1105
+msgid "Sort collection by object attribute."
+msgstr "Koleksiyonu nesne niteliğine göre sıralayın."
+
+#: lib/class-wp-rest-menu-items-controller.php:1098
+msgid "Order sort attribute ascending or descending."
+msgstr "Sıralama niteliğini artan ya da azalan olarak belirle."
+
+#: lib/class-wp-rest-menu-items-controller.php:1093
+msgid "Limit result set to posts with a specific menu_order value."
+msgstr "Sonuç kümesini belirli bir menu_order değerine sahip yazılarla sınırlandır."
+
+#. translators: %s: taxonomy name
+#: lib/class-wp-rest-menu-items-controller.php:1059
+msgid "The terms assigned to the object in the %s taxonomy."
+msgstr "%s sınıflandırmasındaki nesneye atanmış terimler."
+
+#: lib/class-wp-rest-menu-items-controller.php:1047
+msgid "Whether the menu item represents an object that no longer exists."
+msgstr "Menü öğesinin artık var olmayan bir nesneyi temsil edip etmediği."
+
+#: lib/class-wp-rest-menu-items-controller.php:1033
+msgid "The XFN relationship expressed in the link of this menu item."
+msgstr "Bu menü öğesinin bağlantısında ifade edilen XFN ilişkisi."
+
+#: lib/class-wp-rest-menu-items-controller.php:1026
+msgid "The URL to which this menu item points."
+msgstr "Bu menü öğesinin işaret ettiği adres."
+
+#: lib/class-wp-rest-menu-items-controller.php:1019
+msgid "The singular label used to describe this type of menu item."
+msgstr "Bu tür menü öğelerini tanımlamak için kullanılan tekil etiket."
+
+#: lib/class-wp-rest-menu-items-controller.php:1009
+msgid "The target attribute of the link element for this menu item."
+msgstr "Bu menü öğesi için bağlantının hedef özelliği."
+
+#: lib/class-wp-rest-menu-items-controller.php:972
+msgid "The DB ID of the original object this menu item represents, e . g . ID for posts and term_id for categories."
+msgstr "Bu menü öğesinin temsil ettiği nesnenin VT No'su, örn. yazılar için ID ve kategoriler için term_id."
+
+#: lib/class-wp-rest-menu-items-controller.php:966
+msgid "The type of object originally represented, such as \"category,\" \"post\", or \"attachment.\""
+msgstr "\"category\", \"post\" veya \"attachment\" gibi temsil edilen nesnelerin tipi."
+
+#: lib/class-wp-rest-menu-items-controller.php:959
+msgid "The DB ID of the nav_menu_item that is this item's menu parent, if any, otherwise 0."
+msgstr "Varsa, bu öğenin üst menü öğesindeki nav_menu_item VT No'su, yoksa 0."
+
+#: lib/class-wp-rest-menu-items-controller.php:950
+msgid "The description of this menu item."
+msgstr "Menü öğesinin kimliği."
+
+#: lib/class-wp-rest-menu-items-controller.php:936
+msgid "Class names for the link element of this menu item."
+msgstr "Bu menü öğesi bağlantısı için sınıf adları."
+
+#: lib/class-wp-rest-menu-items-controller.php:927
+msgid "Text for the title attribute of the link element for this menu item."
+msgstr "Bu menü öğesi bağlantının başlık niteliği için metin."
+
+#: lib/class-wp-rest-menu-items-controller.php:911
+msgid "A named status for the object."
+msgstr "Nesne için isimlendirilmiş bir durum."
+
+#: lib/class-wp-rest-menu-items-controller.php:903
+msgid "The family of objects originally represented, such as \"post_type\" or \"taxonomy\"."
+msgstr "\"post_type\" veya \"taxonomy\" gibi temsil edilen nesnelerin ailesi."
+
+#: lib/class-wp-rest-menu-items-controller.php:896
+msgid "Name of type."
+msgstr "Tip adı."
+
+#: lib/class-wp-rest-menu-items-controller.php:878
+msgid "HTML title for the object, transformed for display."
+msgstr "Nesne için HTML başlığı, görüntülenme için dönüştürülmüş."
+
+#: lib/class-wp-rest-menu-items-controller.php:873
+msgid "Title for the object, as it exists in the database."
+msgstr "Nesne için başlık, veritabanında olduğu gibi."
+
+#: lib/class-wp-rest-menu-items-controller.php:834
+msgid "Get linked object."
+msgstr "Bağlantılı nesneyi al."
+
+#: lib/class-wp-rest-menu-items-controller.php:606
+msgid "Invalid URL."
+msgstr "Geçersiz URL."
+
+#: lib/class-wp-rest-menu-items-controller.php:564
+#: lib/class-wp-rest-menu-items-controller.php:567
+msgid "Invalid menu item parent."
+msgstr "Geçersiz menü öğesi ebeveyni."
+
+#: lib/class-wp-rest-menu-items-controller.php:556
+msgid "Invalid menu position."
+msgstr "Geçersiz menü konumu."
+
+#: lib/class-wp-rest-menu-items-controller.php:531
+msgid "Invalid menu ID."
+msgstr "Geçersiz menü no."
+
+#: lib/class-wp-rest-menu-items-controller.php:516
+msgid "URL required if menu item of type custom."
+msgstr "Özel tipte menü öğesi varsa URL gerekir."
+
+#: lib/class-wp-rest-menu-items-controller.php:513
+msgid "Title required if menu item of type custom."
+msgstr "Özel tipte menü öğesi varsa başlık gerekir."
+
+#: lib/class-wp-rest-menu-items-controller.php:506
+msgid "Invalid post type."
+msgstr "Geçersiz yazı türü."
+
+#: lib/class-wp-rest-menu-items-controller.php:495
+msgid "Invalid post ID."
+msgstr "Geçersiz yazı numarası."
+
+#: lib/class-wp-rest-menu-items-controller.php:348
+msgid "The post cannot be deleted."
+msgstr "Yazı silinemez."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menu-items-controller.php:340
+msgid "Menu items do not support trashing. Set '%s' to delete."
+msgstr "Menü öğeleri çöpe taşınmayı desteklemiyor. Silmek için '%s' ayarını yapın."
+
+#: lib/class-wp-rest-menu-items-controller.php:174
+msgid "Cannot create existing post."
+msgstr "Mevcut yazı oluşturulamıyor."
+
+#: lib/class-wp-rest-menu-items-controller.php:160
+msgid "Sorry, you cannot view these menu items, unless you have access to permission edit them. "
+msgstr "Üzgünüm, düzenleme yetkisine erişiminiz yoksa bu menü öğelerini görüntüleyemezsiniz. "
+
+#: lib/class-wp-rest-menu-items-controller.php:158
+#: lib/class-wp-rest-customizer-nonces.php:51
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Üzgünüm, bu yazı tipindeki yazıları düzenlemenize izin verilmiyor."
+
+#: lib/class-wp-rest-menu-items-controller.php:142
+msgid "Sorry, you cannot view this menu item, unless you have access to permission edit it. "
+msgstr "Üzgünüm, düzenleme yetkisine erişiminiz yoksa bu menü öğesini görüntüleyemezsiniz. "
+
+#: lib/class-wp-rest-menus-controller.php:580
+msgid "The locations assigned to the menu."
+msgstr "Menüye atanan konumlar."
+
+#: lib/class-wp-rest-menus-controller.php:552
+msgid "Menu location does not exist."
+msgstr "Menü konumu mevcut değil."
+
+#: lib/class-wp-rest-menus-controller.php:458
+msgid "The term cannot be deleted."
+msgstr "Terim silinemez."
+
+#. translators: %s: force=true
+#: lib/class-wp-rest-menus-controller.php:448
+msgid "Terms do not support trashing. Set '%s' to delete."
+msgstr "Terimler çöpe taşımayı desteklemiyor. Silmek için '%s' ayarını yapın."
+
+#: lib/class-wp-rest-menus-controller.php:268
+#: lib/class-wp-rest-menus-controller.php:377
+msgid "Parent term does not exist."
+msgstr "Ebeveyn terim mevcut değil."
+
+#: lib/class-wp-rest-menus-controller.php:262
+#: lib/class-wp-rest-menus-controller.php:371
+msgid "Cannot set parent term, taxonomy is not hierarchical."
+msgstr "Sınıflandırma hiyerarşik değil, ebeveyn terim ayarlanamaz."
+
+#: lib/class-wp-rest-menus-controller.php:139
+msgid "Sorry, you are not allowed to assign the provided locations."
+msgstr "Üzgünüm, sağlanan konumları atamanıza izin verilmiyor."
+
+#: lib/class-wp-rest-menus-controller.php:60
+msgid "Sorry, you cannot view this menu, unless you have access to permission edit it. "
+msgstr "Üzgünüm, düzenleme yetkisine erişiminiz yoksa bu menüyü görüntüleyemezsiniz. "
+
+#: lib/class-wp-rest-menus-controller.php:58
+msgid "Sorry, you are not allowed to edit this term."
+msgstr "Üzgünüm, bu terimi düzenlemenize izin verilmiyor."
+
+#: lib/class-wp-rest-menus-controller.php:40
+msgid "Sorry, you cannot view these menus, unless you have access to permission edit them. "
+msgstr "Üzgünüm, düzenleme yetkisine erişiminiz yoksa bu menüleri görüntüleyemezsiniz. "
+
+#: lib/class-wp-rest-menus-controller.php:38
+msgid "Sorry, you are not allowed to edit terms in this taxonomy."
+msgstr "Üzgünüm, bu sınıflandırmada terim düzenlemenize izin verilmiyor."
+
+#: lib/class-wp-rest-menu-locations-controller.php:206
+msgid "The ID of the assigned menu."
+msgstr "Atanan menünün kimliği."
+
+#: lib/class-wp-rest-menu-locations-controller.php:200
+msgid "The description of the menu location."
+msgstr "Menü konumunun açıklaması."
+
+#: lib/class-wp-rest-menu-locations-controller.php:194
+msgid "The name of the menu location."
+msgstr "Menü konumunun adı."
+
+#: lib/class-wp-rest-menu-locations-controller.php:116
+#: lib/class-wp-rest-menu-locations-controller.php:132
+#: lib/class-wp-rest-menus-controller.php:146
+msgid "Invalid menu location."
+msgstr "Geçersiz menü konumu."
+
+#: lib/class-wp-rest-menu-locations-controller.php:76
+#: lib/class-wp-rest-menu-locations-controller.php:113
+msgid "Sorry, you are not allowed to view menu locations."
+msgstr "Üzgünüm, menü konumlarını görüntülemenize izin verilmiyor."
+
+#: lib/class-wp-rest-menu-locations-controller.php:50
+msgid "An alphanumeric identifier for the menu location."
+msgstr "Menü konumu için bir alfa sayısal tanımlayıcı."
+
+#: lib/class-wp-theme-json-resolver.php:340 build/edit-site/index.js:9
+msgid "Global Styles"
+msgstr "Genel stiller"
+
+#: lib/template-loader.php:70
+msgid "Empty template."
+msgstr "Boş şablon."
+
+#: lib/template-loader.php:78
+msgid "No matching template found."
+msgstr "Eşleşen şablon bulunamadı."
+
+#: lib/full-site-editing/templates-utils.php:18 lib/templates.php:98
+#: build/edit-site/index.js:9
+msgid "Theme"
+msgstr "Tema"
+
+#: lib/experiments-page.php:87
+msgid "The block editor includes experimental features that are useable while they're in development. Select the ones you'd like to enable. These features are likely to change, so avoid using them in production."
+msgstr "Blok düzenleyici, geliştirme aşamasında kullanılabilen deneysel özellikler içerir. Etkinleştirmek istediklerinizi seçin. Bu özelliklerin değişmesi muhtemeldir, bu yüzden bunları gerçek sitede kullanmaktan kaçının."
+
+#: gutenberg.php:108
+msgid "Site Editor (beta)"
+msgstr "Site editörü (beta)"
+
+#: build/block-library/blocks/query-pagination.php:33
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Next"
+msgstr "Sonraki"
+
+#: build/block-library/blocks/query-pagination.php:26
+#: build/components/index.js:22 build/block-library/index.js:60
+msgid "Previous"
+msgstr "Önceki"
+
+#: lib/class-wp-theme-json-resolver.php:155
+msgid "Light"
+msgstr "Açık"
+
+#: lib/class-wp-rest-widget-types-controller.php:63
+msgid "Current widget instance"
+msgstr "Şu anki bileşen oluşumu"
+
+#: lib/template-parts.php:40
+msgid "Template parts to include in your templates."
+msgstr "Temanıza dahil etmek için şablon parçaları."
+
+#: lib/template-parts.php:35
+msgid "Template parts list"
+msgstr "Şablon parçaları listesi"
+
+#: lib/template-parts.php:34
+msgid "Template parts list navigation"
+msgstr "Şablon parçaları listesi dolaşımı"
+
+#: lib/template-parts.php:33
+msgid "Filter template parts list"
+msgstr "Şablon parçaları listesini filtrele"
+
+#: lib/template-parts.php:32
+msgid "Uploaded to this template part"
+msgstr "Bu şablon parçasına yüklenmiş"
+
+#: lib/template-parts.php:31
+msgid "Insert into template part"
+msgstr "Şablona parçasına ekle"
+
+#: lib/template-parts.php:30
+msgid "Template part archives"
+msgstr "Şablon parçası arşivleri"
+
+#: lib/template-parts.php:29
+msgid "No template parts found in Trash."
+msgstr "Çöpte herhangi bir şablon parçası bulunamadı."
+
+#: lib/template-parts.php:28
+msgid "No template parts found."
+msgstr "Şablon parçası bulunamadı."
+
+#: lib/template-parts.php:27
+msgid "Parent Template Part:"
+msgstr "Ebeveyn şablon parçası:"
+
+#: lib/template-parts.php:26
+msgid "Search Template Parts"
+msgstr "Şablon parçalarını ara"
+
+#: lib/template-parts.php:25
+msgid "All Template Parts"
+msgstr "Tüm şablon parçaları"
+
+#: lib/template-parts.php:24
+msgid "View Template Part"
+msgstr "Şablon parçalarını görüntüle"
+
+#: lib/template-parts.php:23
+msgid "Edit Template Part"
+msgstr "Şablon parçalarını düzenle"
+
+#: lib/template-parts.php:22
+msgid "New Template Part"
+msgstr "Yeni şablon parçası"
+
+#: lib/template-parts.php:21
+msgid "Add New Template Part"
+msgstr "Yeni şablon parçası ekle"
+
+#: lib/template-parts.php:20
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: lib/template-parts.php:19
+msgctxt "Admin Menu text"
+msgid "Template Parts"
+msgstr "Şablon parçaları"
+
+#: lib/template-parts.php:18 build/block-library/index.js:60
+msgid "Template Part"
+msgstr "Şablon parçası"
+
+#: lib/template-parts.php:17 build/edit-site/index.js:9
+msgid "Template Parts"
+msgstr "Şablon parçaları"
+
+#: lib/experiments-page.php:45 build/block-library/index.js:30
+#: build/edit-navigation/index.js:3
+msgid "Navigation"
+msgstr "Dolaşım"
+
+#: lib/templates.php:54
+msgid "Templates list"
+msgstr "Şablon listesi"
+
+#: lib/templates.php:53
+msgid "Templates list navigation"
+msgstr "Şablon listesi dolaşımı"
+
+#: lib/templates.php:52
+msgid "Filter templates list"
+msgstr "Şablon listesini filtrele"
+
+#: lib/templates.php:51
+msgid "Uploaded to this template"
+msgstr "Bu şablona yüklenmiş"
+
+#: lib/templates.php:50
+msgid "Insert into template"
+msgstr "Şablona ekle"
+
+#: lib/templates.php:49
+msgid "Template archives"
+msgstr "Şablon arşivleri"
+
+#: lib/templates.php:48
+msgid "No templates found in Trash."
+msgstr "Çöpte herhangi bir şablon bulunamadı."
+
+#: lib/templates.php:47
+msgid "No templates found."
+msgstr "Şablon bulunamadı."
+
+#: lib/templates.php:46
+msgid "Parent Template:"
+msgstr "Ebeveyn şablon:"
+
+#: lib/templates.php:45
+msgid "Search Templates"
+msgstr "Şablon ara"
+
+#: lib/templates.php:44 build/edit-site/index.js:9
+msgid "All Templates"
+msgstr "Tüm şablonlar"
+
+#: lib/templates.php:43
+msgid "View Template"
+msgstr "Şablon görüntüle"
+
+#: lib/templates.php:42
+msgid "Edit Template"
+msgstr "Şablon düzenle"
+
+#: lib/templates.php:41
+msgid "New Template"
+msgstr "Yeni şablon"
+
+#: lib/templates.php:40
+msgid "Add New Template"
+msgstr "Yeni şablon ekle"
+
+#: lib/templates.php:39
+msgctxt "Template"
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: lib/templates.php:38
+msgctxt "Admin Menu text"
+msgid "Templates"
+msgstr "Şablonlar"
+
+#: lib/templates.php:37
+msgid "Template"
+msgstr "Şablon"
+
+#: lib/template-loader.php:178
+msgid "No matching template found"
+msgstr "Eşleşen şablon bulunamadı"
+
+#: lib/class-wp-theme-json-resolver.php:119 build/block-editor/index.js:27
+msgid "Midnight"
+msgstr "Gece yarısı"
+
+#: lib/class-wp-theme-json-resolver.php:118 build/block-editor/index.js:27
+msgid "Electric grass"
+msgstr "Elektrikli çim"
+
+#: lib/class-wp-theme-json-resolver.php:117 build/block-editor/index.js:27
+msgid "Pale ocean"
+msgstr "Soluk okyanus"
+
+#: lib/class-wp-theme-json-resolver.php:116 build/block-editor/index.js:27
+msgid "Luminous dusk"
+msgstr "Aydınlık alacakaranlık"
+
+#: lib/class-wp-theme-json-resolver.php:115 build/block-editor/index.js:27
+msgid "Blush bordeaux"
+msgstr "Bordo"
+
+#: lib/class-wp-theme-json-resolver.php:114 build/block-editor/index.js:27
+msgid "Blush light purple"
+msgstr "Açık mor"
+
+#: lib/class-wp-theme-json-resolver.php:113 build/block-editor/index.js:27
+msgid "Cool to warm spectrum"
+msgstr "Sıcaktan soğuğa spektrum"
+
+#: lib/class-wp-theme-json-resolver.php:112 build/block-editor/index.js:27
+msgid "Very light gray to cyan bluish gray"
+msgstr "Çok açık griden mavimsi griye"
+
+#: lib/class-wp-theme-json-resolver.php:111 build/block-editor/index.js:27
+msgid "Luminous vivid orange to vivid red"
+msgstr "Açık turuncudan parlak kırmızıya"
+
+#: lib/class-wp-theme-json-resolver.php:110 build/block-editor/index.js:27
+msgid "Luminous vivid amber to luminous vivid orange"
+msgstr "Açık kehribardan açık turuncuya"
+
+#: lib/class-wp-theme-json-resolver.php:109 build/block-editor/index.js:27
+msgid "Light green cyan to vivid green cyan"
+msgstr "Açık yeşilden parlak yeşile"
+
+#: lib/class-wp-theme-json-resolver.php:108 build/block-editor/index.js:27
+msgid "Vivid cyan blue to vivid purple"
+msgstr "Parlak maviden parlak mora"
+
+#: lib/templates.php:59
+msgid "Templates to include in your theme."
+msgstr "Temanıza dahil etmek için şablonlar."
+
+#: lib/templates.php:36 build/edit-site/index.js:9
+msgid "Templates"
+msgstr "Şablonlar"
+
+#: lib/class-wp-rest-plugins-controller.php:337
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Dosya sistemine bağlanılamıyor. Lütfen kimlik bilgilerinizi kontrol edin."
+
+#: lib/class-wp-theme-json-resolver.php:99 build/block-editor/index.js:27
+msgid "Vivid purple"
+msgstr "Canlı mor"
+
+#: gutenberg.php:89
+msgid "Experiments Settings"
+msgstr "Deney ayarları"
+
+#: lib/experiments-page.php:19
+msgid "Experimental settings"
+msgstr "Deneysel ayarlar"
+
+#: lib/class-wp-block-patterns-registry.php:40
+msgid "Block pattern name must be a string."
+msgstr "Blok deseni metin olmalıdır."
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:28
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Sitenizde herhangi bir %s bulunmadığından şu anda burada görüntülenecek hiçbir şey yok."
+
+#: lib/class-wp-rest-sidebars-controller.php:110
+#: lib/class-wp-rest-widget-types-controller.php:163
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Üzgünüm, bu sitede bileşenlere erişmenize izin verilmiyor."
+
+#: build/block-library/blocks/rss.php:23
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Bir hata oluştu, beslemenin kapalı olduğu anlaşılıyor. Lütfen daha sonra tekrar deneyin."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS hatası:"
+
+#: build/block-library/blocks/search.php:25
+#: build/block-library/blocks/search.php:26
+#: build/block-library/blocks/search.php:52 build/block-editor/index.js:42
+#: build/block-library/index.js:49
+msgid "Search"
+msgstr "Site araması"
+
+#. translators: Use this to specify the CSS font family for the default font.
+#: lib/edit-site-page.php:53
+msgctxt "CSS Font Family for Editor Font"
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: lib/editor-settings.php:28 build/block-editor/index.js:27
+msgid "Thumbnail"
+msgstr "Küçük resim"
+
+#: lib/editor-settings.php:31 build/block-editor/index.js:27
+msgid "Full Size"
+msgstr "Tam boyut"
+
+#: lib/full-site-editing/default-template-types.php:69 lib/compat.php:329
+#: build/core-data/index.js:1 build/block-editor/index.js:67
+#: build/blocks/index.js:1
+msgid "Media"
+msgstr "Ortam dosyası"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr "j M Y H:i"
+
+#: lib/class-wp-rest-image-editor-controller.php:94
+msgid "Sorry, you are not allowed to edit images."
+msgstr "Üzgünüm, görselleri düzenlemenize izin verilmiyor."
+
+#: lib/class-wp-theme-json-resolver.php:132 build/block-library/index.js:55
+msgid "Huge"
+msgstr "Devasa"
+
+#: lib/class-wp-theme-json-resolver.php:130
+#: lib/class-wp-theme-json-resolver.php:157 lib/editor-settings.php:29
+#: build/components/index.js:10 build/block-editor/index.js:27
+msgid "Medium"
+msgstr "Orta"
+
+#: lib/class-wp-theme-json-resolver.php:129 build/block-library/index.js:55
+msgid "Normal"
+msgstr "Normal"
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Gösterilecek arşiv yok."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Güzel manzara"
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Gutenbergi test ettiğiniz için teşekkür ederiz!"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Gutenberg yapımına yardım edin"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Ek bloklar oluşturma hakkında daha fazla bilgi edinmek isterseniz veya projeye yardımcı olmakla ilgileniyorsanız, <a href=\"%s\">GitHub deposuna</a> gidin."
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "WordPress topluluğu"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Kod şiirdir"
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Statik veya dinamik, dekoratif veya sade istediğiniz herhangi bir bloğu oluşturabilirsiniz. İşte bir alıntı bloğu:"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Herhangi bir blok bu hizalamaları seçebilir. Gömülü blok da bunlara sahiptir ve varsayılan olarak duyarlıdır:"
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Yukarıdaki, sadece iki görselli bir galeri. Kaydırmalarla uğraşmadan görsel olarak çekici düzenler oluşturmanın daha kolay bir yolu. Ayrıca, blok değiştiriciyi kullanarak galeriyi tekrar tek tek resimlere dönüştürebilirsiniz."
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Tabii, tam genişlikteki görüntü oldukça büyük olabilir. Ama bazen görsel buna değer."
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Erişilebilirlik önemlidir &mdash; görselin alt niteliğini unutmayın"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Eğer yeni, <strong>geniş</strong> ve <strong>tam genişlikte</strong> hizalamaları galerilerle birleştirirseniz, çok hızlı bir şekilde çok zengin bir düzen oluşturabilirsiniz:"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Ortam zengin"
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Galerinizlerdeki sütun adedini, kenar çubuğunda bulunan blok kontrolcüsündeki kaydırıcıyı sürükleyerek değiştirebilirsiniz."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Bloklar ihtiyacınız olan her şey olabilir. Örneğin, metninizin kompozisyonunun bir parçası olarak kısaltılmış bir özet eklemek isteyebilirsiniz ya da kocaman, biçimlendirilmiş bir tane göstermeyi tercih edebilirsiniz. Bu seçeneklerin tümü, yerleştiricide mevcuttur."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Alıntı kaynağına karşılık gelen bilgiler, görsellerin altındaki başlık yazılarına benzer ayrı bir metin alanıdır; bu nedenle kaynağı seçseniz, değiştirseniz veya kaldırsanız bile alıntı yapısı korunur. Onu tekrar eklemek her zaman kolaydır."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Düzenleyici daha önce kısa kodlar, özel HTML ya da \"gizemli et\" gömülerinin keşfi gibi yöntemler yerine \"bloklar\" kullanarak daha kolay, daha zengin bir yazı ve sayfa oluşturma deneyimi sunmaya çabalıyor."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Blokların büyük bir faydası, bunları yerinde düzenleyip içeriğinizi doğrudan yönlendirebilmenizdir. Bir alıntının kaynağı veya bir düğmenin metni gibi şeyleri düzenlemek için alanlara sahip olmak yerine, içeriği doğrudan değiştirebilirsiniz. Aşağıdaki alıntıyı düzenlemeyi deneyin:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Görsel düzenleme"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "Ve bunun gibi <em>listeler</em>, tabii ki :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Düzen blokları, beğeni düğmeleri, manşet görselleri, ayırıcılar, vs."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Gömüler, YouTube, Tweetler ya da diğer WordPress yazıları gibi."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galeriler"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Görseller ve videolar"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Metin ve başlıklar"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Bir tur deneyin, hiç haberiniz olmayan fakat WordPress'in hali hazırda yazılarınıza ekleyebileceği bir çok şey keşfedebilirsiniz. Şu an burada bulabileceklerinizin kısa bir listesi:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "WordPress'in yapabileceği her şeyin hızlı bir şekilde ve aynı yerde, arabirim üzerinde size sunulduğunu düşünün. HTML etiketler, sınıflar ya da karışık kısa kod sentakslarının ne olduğunu anlamaya gerek yok. Ekleyicinin —Düzenleyici çevresinde gördüğünüz <code>(+)</code> tuşu— arkasındaki temel mantık bu, ki bu tüm uygun bloklara bakabilmenize ve yazınıza eklemenize olanak sağlıyor. Eklentiler ve temalar kendi bloklarını kayıt edebilirler. Bu da zengin bir düzenleme ve yayınlama deneyiminde yepyeni kapılar açıyor."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "<em>Ekleme</em> aracı"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Başlığı seçmeyi ve kaldırmayı ya da düzenlemeyi deneyin. Artık bir görseli ya da metni genel sunumu bozmamak adına pür dikkat seçmeniz gerek yok."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Eğer temanız bunu destekliyorsa, görsel araç çubuğunda \"geniş\" butonunu göreceksiniz. Bir deneyin."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Görsellerin ve diğer ortamların ele alınması yeni düzenleyicinin en önemli ve birincil işi. Umuyoruz ki görsellere metin ekleme ya da tam genişlik vb. işlemleri eskisinden çok daha kolay yapabileceksiniz."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Bir resim, bin kelimeye bedeldir"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Başlıklar da artık ayrı ayrı bloklar, ki bu da içeriğinizin genel organizasyonunun yapısını çıkartmanıza yardımcı oluyor."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... bunun gibi, sağa hizalı olanlar."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Şu an okuduğunuz en basit blok, <strong>metin bloğu</strong>. Metin bloğunun da yazı içinde rahatça hareket edebilmesi için kendi kontrolleri var..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Yeni düzenleyicinin hedefi WordPress'e zengin içeriğin kolay ve tatminkar bir şekilde eklenebilmesi. Tüm yazı sağa sola taşıyabileceğiniz ve etkileşime girebileceğiniz <em>içerik parçalarından</em> —LEGO parçalarına benzer bir yapı— oluşuyor. İmleci sağa sola hareket ettirdiğinizda farklı blokların öne çıktığını ve okları fark edeceksiniz. Okları kullanarak blokları yeniden konumlandırabilirsiniz. Hem de kopyala yapıştır işlemi yaparken bir şeyleri kaybetme korkusu olmadan."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Dağlar ve çıktı basımlar"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Gutenberg düzenleyicisine hoş geldiniz"
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "Nesne için başlık."
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "Nesne için benzersiz tanımlayıcı."
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "Küçük"
+
+#: gutenberg.php:76
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "Destek"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "Gösterilecek yorum yok."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s - %2$s"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "Yazı seçin"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "Hafta seçin"
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "Gün seçin"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "Ay seçin"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "Yıl seçin"
+
+#: build/block-library/blocks/archives.php:27 build/block-library/index.js:16
+msgid "Archives"
+msgstr "Arşivler"
+
+#: lib/class-wp-theme-json-resolver.php:89 build/block-editor/index.js:27
+msgid "Cyan bluish gray"
+msgstr "Cam göbeği mavimsi gri"
+
+#: lib/class-wp-theme-json-resolver.php:98 build/block-editor/index.js:27
+msgid "Vivid cyan blue"
+msgstr "Canlı cam göbeği mavi"
+
+#: lib/class-wp-theme-json-resolver.php:97 build/block-editor/index.js:27
+msgid "Pale cyan blue"
+msgstr "Soluk cam göbeği mavi"
+
+#: lib/class-wp-theme-json-resolver.php:96 build/block-editor/index.js:27
+msgid "Vivid green cyan"
+msgstr "Canlı yeşil cam göbeği"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "Açık yeşil cam göbeği"
+
+#: lib/class-wp-theme-json-resolver.php:94 build/block-editor/index.js:27
+msgid "Luminous vivid amber"
+msgstr "Canlı parlak amber"
+
+#: lib/class-wp-theme-json-resolver.php:93 build/block-editor/index.js:27
+msgid "Luminous vivid orange"
+msgstr "Parlak canlı turuncu"
+
+#: lib/class-wp-theme-json-resolver.php:92 build/block-editor/index.js:27
+msgid "Vivid red"
+msgstr "Canlı kırmızı"
+
+#: lib/class-wp-theme-json-resolver.php:91 build/block-editor/index.js:27
+msgid "Pale pink"
+msgstr "Açık pembe"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "Büyük"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "Normal"
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "Geçersiz terim numarası."
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "Ebeveyn nesne için ID no."
+
+#: gutenberg.php:112
+msgid "beta"
+msgstr "beta"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Gömme tutucu"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "Durum"
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "Öne çıkan görsel"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:40 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-post/index.js:21 build/edit-post/index.js:22
+#: build/edit-widgets/index.js:9
+msgid "Block"
+msgstr "Blok"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(başlıksız)"
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "Eğik"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "Kalın"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "Alıntı"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "Başlık yaz…"
+
+#: gutenberg.php:90
+msgid "Experiments"
+msgstr "Deneyler"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "Bileşenler"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "1440'ten beri basım. Bu, çekirdekteki yeni blok düzenleyicisinin geliştirme eklentisidir."
+
+#: lib/class-wp-rest-widgets-controller.php:724
+msgid "Unique identifier for the widget."
+msgstr "Bileşen için benzersiz tanımlayıcı."
+
+#: gutenberg.php:161
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Gutenberg geliştirme modu dosyaların yapılandırılmasını gerektirir. Bağımlılıkları yüklemek için <code>npm install</code> komutunu çalıştırın, dosyaları yapılandırmak için <code>npm run build</code> komutunu ve yapılandırıp değişiklikleri izlemek için <code>npm run dev</code> komutunu çalıştırın. Daha fazla bilgi için <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">katkıda bulunma</a> dosyasını okuyun."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Ekibi"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "Kısa isim"
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "j F Y H:i"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "j F Y"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "h:i"
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "%s önce"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "%s şimdiye"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:148
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenbergin düzgün çalışması için WordPress %s veya üstü gerekir. Lütfen Gutenbergi etkinleştirmeden önce WordPress sürümünüzü yükseltin."
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Kategori seçin"

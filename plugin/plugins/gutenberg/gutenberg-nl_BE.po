@@ -1,0 +1,420 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Dutch (Belgium)
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-07 19:54:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl_BE\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#. translators: Abbreviated date/time format, see https://www.php.net/date
+#: lib/compat.php:292
+msgid "M j, Y g:i a"
+msgstr "j M Y G:i "
+
+#: build/block-library/blocks/archives.php:97
+msgid "No archives to show."
+msgstr "Geen archieven om te tonen."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Prachtig landschap"
+
+#: post-content.php:177
+msgid "Help build Gutenberg"
+msgstr "Help Gutenburg bouwen"
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Blokken kunnen alles zijn wat je wilt. Zo kun je bijvoorbeeld een subtiel citaat toevoegen in de opbouw van je tekst, of misschien wil je wel een groot opgemaakt citaat laten zien. Al deze mogelijkheden zijn beschikbaar in de invoeger."
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "De editor biedt een nieuwe bouwervaring voor pagina's en berichten, die het maken van berichten met opmaak eenvoudig maakt, en gebruikt \"blokken\" om zonder problemen te maken waar tot nog toe shortcodes, aangepaste HTML, of \"mystery meat\" insluitingen voor nodig zijn."
+
+#: post-content.php:155
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Je kunt elk blok maken dat je wilt, statisch of dynamisch, decoratief of gewoontjes. Dit is bijvoorbeeld een pull-quote blok:"
+
+#: post-content.php:159 build/block-library/index.js:8
+msgid "Code is Poetry"
+msgstr "Code is Poetry"
+
+#: post-content.php:124
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Toegankelijkheid is belangrijk &mdash; vergeet het alt-attribuut van de afbeelding niet"
+
+#: post-content.php:145
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Elk blok kan gebruik maken van deze uitlijningen. Het insluitingsblok heeft deze ook en is standaard al responsive:"
+
+#: post-content.php:128
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Zeker, de afbeelding over de gehele breedte kan nogal groot worden. Maar soms is de afbeelding het waard."
+
+#: post-content.php:112
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Je kunt het aantal kolommen in je galerijen veranderen door een schuif in de blokinspecteur in de zijbalk te bewegen."
+
+#: post-content.php:185
+msgid "Thanks for testing Gutenberg!"
+msgstr "Bedankt voor het testen van Gutenberg!"
+
+#: post-content.php:116
+msgid "Media Rich"
+msgstr "Media-rijk"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:168
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Wil je meer weten over het bouwen van extra blokken, of ben je geïnteresseerd om te helpen met het project, ga dan naar de <a href=\"%s\">GitHub repository</a>."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:159
+msgid "The WordPress community"
+msgstr "De WordPress community"
+
+#: post-content.php:120
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Door de nieuwe <strong>brede</strong> en <strong>volledige breedte</strong> uitlijningen met galerijen te combineren, kun je heel snel een media-rijke indeling maken."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "De informatie die overeenkomt met de bron van het citaat is een apart tekstveld, zoals bijschriften onder afbeeldingen, zodat de structuur van het citaat is beschermd, zelfs wanneer je de bron selecteert, aanpast of verwijdert. Je kunt het altijd weer eenvoudig terugzetten."
+
+#: post-content.php:141
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Hierboven staat een galerij met maar twee afbeeldingen. Het is een eenvoudiger manier om visueel aantrekkelijke indelingen te maken, zonder met floats te hoeven werken. Je kunt de galerij ook eenvoudig omzetten naar de individuele afbeeldingen met de blokomzetter."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Wat je nu leest is een <strong>tekstblok</strong>, het eenvoudigste blok van allemaal. Het tekstblok heeft haar eigen besturing zodat je het overal in het bericht kunt zetten..."
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Probeer het eens uit. Je zal erachter komen dat WordPress al dingen in je berichten kan zetten die je niet eens wist. Hierbij een korte lijst van wat je daar op dit moment kunt vinden:"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Over bergen &amp; drukpersen"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Stel je voor dat alles wat WordPress kan doen snel en op dezelfde plaats in de interface beschikbaar is. Je hoeft geen HTML-tags of classes uit te zoeken, of ingewikkelde shortcode-regels te onthouden. Dat is het idee achter de invoeger: de knop <code>(+)</code> die rond de editor wordt weergegeven, waarmee je door alle beschikbare inhoudsblokken kunt bladeren en ze aan je bericht kunt toevoegen. Plugins en thema's kunnen hun eigen blokken registreren, waardoor allerlei mogelijkheden beschikbaar komen voor bewerken en publiceren."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... zoals deze, die rechts is uitgelijnd."
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Afbeeldingen &amp; videos"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Wanneer je thema het ondersteunt, zie je de \"breed\" knop op je afbeeldingstoolbar. Probeer het maar."
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "En <em>lijsten</em> zoals deze, uiteraard :)"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Probeer het citaat te selecteren en te verwijderen of te bewerken, je hoeft niet bang te zijn dat je per ongeluk de afbeelding of andere tekst selecteert en de presentatie ruïneert."
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Koppen zijn ook afzonderlijke blokken, wat helpt bij de opzet en organisatie van je inhoud."
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Visueel bewerken"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Een groot voordeel van blokken is, dat je ze op hun plaats kunt bewerken en de inhoud direct kunt manipuleren. In plaats van velden te hebben voor het bewerken van dingen zoals de bron van een citaat of de tekst van een knop, kun je de inhoud direct wijzigen. Probeer het volgende citaat eens te bewerken:"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Indelingsblokken zoals knoppen, schermbrede afbeeldingen, afscheidingen, enz."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Het <em>Invoeger</em> gereedschap"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Tekst  &amp; koppen"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Een foto is duizend woorden waard"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Insluitingen, zoals YouTube, tweets of andere WordPress berichten."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Het zorgvuldig omgaan met afbeeldingen en media is een belangrijk punt van de nieuwe editor. Hopelijk vind je aspecten als het toevoegen van bijschriften of het over de volle breedte laten zien van je foto's veel eenvoudiger en robuuster dan voorheen."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Welkom bij de Gutenberg editor"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Het doel van deze nieuwe editor is het eenvoudig en plezierig maken om diverse inhoud aan WordPress toe te voegen. Dit hele bericht bestaat uit <em>stukjes inhoud</em> - het lijkt wat op LEGO-stenen - die je kunt bewegen en waarmee je kunt werken. Beweeg je cursor rond en je ziet dat de verschillende blokken oplichten met contouren en pijlen. Druk op de pijlen om blokken snel te verplaatsen zonder bang te hoeven zijn dingen te verliezen tijdens kopieer- en plakwerk."
+
+#: lib/class-wp-theme-json-resolver.php:128 build/components/index.js:10
+#: build/block-library/index.js:55
+msgid "Small"
+msgstr "Klein"
+
+#: lib/class-wp-rest-menu-items-controller.php:68
+#: lib/class-wp-rest-menu-items-controller.php:887
+msgid "Unique identifier for the object."
+msgstr "Unieke identificator voor het object."
+
+#: lib/class-wp-rest-menu-items-controller.php:862
+msgid "The title for the object."
+msgstr "De titel voor het object."
+
+#: build/block-library/blocks/archives.php:51
+msgid "Select Day"
+msgstr "Selecteer dag"
+
+#: build/block-library/blocks/archives.php:48
+msgid "Select Month"
+msgstr "Selecteer maand"
+
+#: build/block-library/blocks/archives.php:45
+msgid "Select Year"
+msgstr "Selecteer jaar"
+
+#: build/block-library/blocks/archives.php:27 build/block-library/index.js:16
+msgid "Archives"
+msgstr "Archieven"
+
+#: build/block-library/blocks/archives.php:57
+msgid "Select Post"
+msgstr "Selecteer bericht"
+
+#: build/block-library/blocks/archives.php:54
+msgid "Select Week"
+msgstr "Selecteer week"
+
+#: build/block-library/blocks/latest-comments.php:141
+msgid "No comments to show."
+msgstr "Geen reacties om te tonen."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s op %2$s"
+
+#: gutenberg.php:73 gutenberg.php:74
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: gutenberg.php:76
+msgid "https://wordpress.org/support/plugin/gutenberg/"
+msgstr "https://wordpress.org/support/plugin/gutenberg/"
+
+#: lib/class-wp-theme-json-resolver.php:131 lib/editor-settings.php:30
+#: build/components/index.js:10 build/block-editor/index.js:27
+#: build/block-library/index.js:55
+msgid "Large"
+msgstr "Groot"
+
+#: lib/class-wp-theme-json-resolver.php:92 build/block-editor/index.js:27
+msgid "Vivid red"
+msgstr "Levendig rood"
+
+#: lib/class-wp-theme-json-resolver.php:97 build/block-editor/index.js:27
+msgid "Pale cyan blue"
+msgstr "Bleek cyaan blauw"
+
+#: lib/class-wp-theme-json-resolver.php:98 build/block-editor/index.js:27
+msgid "Vivid cyan blue"
+msgstr "Levendig cyaan blauw"
+
+#: lib/class-wp-theme-json-resolver.php:94 build/block-editor/index.js:27
+msgid "Luminous vivid amber"
+msgstr "Lichtgevend levendig amber"
+
+#: lib/class-wp-theme-json-resolver.php:91 build/block-editor/index.js:27
+msgid "Pale pink"
+msgstr "Bleek roze"
+
+#: lib/class-wp-theme-json-resolver.php:96 build/block-editor/index.js:27
+msgid "Vivid green cyan"
+msgstr "Levendig groen cyaan"
+
+#: lib/class-wp-theme-json-resolver.php:89 build/block-editor/index.js:27
+msgid "Cyan bluish gray"
+msgstr "Cyaan blauwachtig grijs"
+
+#: lib/class-wp-theme-json-resolver.php:93 build/block-editor/index.js:27
+msgid "Luminous vivid orange"
+msgstr "Lichtgevend levendig oranje"
+
+#: lib/class-wp-theme-json-resolver.php:141
+#: lib/class-wp-theme-json-resolver.php:156
+msgid "Regular"
+msgstr "Normaal"
+
+#: lib/class-wp-theme-json-resolver.php:95 build/block-editor/index.js:27
+msgid "Light green cyan"
+msgstr "Licht groen cyaan"
+
+#: gutenberg.php:112
+msgid "beta"
+msgstr "beta"
+
+#: lib/class-wp-rest-menu-items-controller.php:919
+msgid "The ID for the parent of the object."
+msgstr "Het ID van het hoofdobject van het object."
+
+#: lib/class-wp-rest-menu-items-controller.php:487
+msgid "Invalid term ID."
+msgstr "Ongeldig term ID."
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Insluiten handler"
+
+#: lib/client-assets.php:164 build/editor/index.js:13
+#: build/edit-post/index.js:7 build/edit-post/index.js:22
+#: build/block-library/index.js:60
+msgid "Featured image"
+msgstr "Uitgelichte afbeelding"
+
+#: lib/patterns/large-header-button.php:10 lib/patterns/large-header.php:10
+#: build/block-library/index.js:26
+msgid "Write title…"
+msgstr "Schrijf titel..."
+
+#: lib/class-wp-theme-json-resolver.php:142 build/format-library/index.js:1
+msgid "Italic"
+msgstr "Cursief"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:102
+#: build/block-library/blocks/rss.php:31 build/editor/index.js:31
+#: build/editor/index.js:45 build/edit-post/index.js:22
+#: build/block-library/index.js:30 build/block-library/index.js:38
+#: build/edit-site/index.js:9 build/edit-navigation/index.js:3
+msgid "(no title)"
+msgstr "(geen titel)"
+
+#: lib/full-site-editing/templates-utils.php:17 build/editor/index.js:15
+msgid "Status"
+msgstr "Status"
+
+#: lib/patterns/quote.php:9 build/editor/index.js:15
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "Citaat"
+
+#: lib/class-wp-theme-json-resolver.php:159 build/format-library/index.js:1
+msgid "Bold"
+msgstr "Vet"
+
+#. translators: ARIA label for the Block Settings Sidebar tab, not selected.
+#. translators: Text label for the Block Settings Sidebar tab.
+#: lib/class-wp-widget-block.php:40 lib/navigation.php:91 lib/navigation.php:96
+#: build/edit-post/index.js:21 build/edit-post/index.js:22
+#: build/edit-widgets/index.js:9
+msgid "Block"
+msgstr "Blok"
+
+#: gutenberg.php:49 gutenberg.php:50 build/core-data/index.js:1
+#: build/blocks/index.js:1 build/edit-widgets/index.js:10
+msgid "Widgets"
+msgstr "Widgets"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Drukwerk sinds 1440. Dit is de ontwikkelingsplugin voor de nieuwe blok editor in de core."
+
+#: lib/class-wp-rest-widgets-controller.php:724
+msgid "Unique identifier for the widget."
+msgstr "Unieke aanduiding voor het blok"
+
+#: gutenberg.php:161
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Voor de Gutenberg ontwikkelmodus moeten bestanden gegenereerd worden. Voer <code>npm install</code> uit om afhankelijkheden te installeren, <code> npm run build</code> om de bestanden aan te maken of voer <code>npm run dev</code> uit om de bestanden in de gaten te houden op wijzigingen. Lees het <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">bijdrage</a> bestand voor meer informatie."
+
+#. translators: %s: Human-readable time difference.
+#. translators: %s: Duration.
+#: lib/class-wp-rest-block-directory-controller.php:138 lib/compat.php:281
+msgid "%s ago"
+msgstr "%s geleden"
+
+#. translators: Date format, see https://www.php.net/date
+#: lib/compat.php:288
+msgid "F j, Y"
+msgstr "j F Y"
+
+#. translators: Date/Time format, see https://www.php.net/date
+#: lib/compat.php:290
+msgid "F j, Y g:i a"
+msgstr "j F Y G:i"
+
+#. translators: Time format, see https://www.php.net/date
+#: lib/compat.php:286
+msgid "g:i a"
+msgstr "G:i"
+
+#. translators: %s: Duration.
+#: lib/compat.php:279
+msgid "%s from now"
+msgstr "%s vanaf nu"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Team"
+
+#: gutenberg.php:80 gutenberg.php:81
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Selecteer categorie"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. translators: button label text should, if possible, be under 16 characters.
+#: lib/full-site-editing/templates-utils.php:15 build/components/index.js:5
+#: build/editor/index.js:35
+msgid "Slug"
+msgstr "Slug"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:148
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg vereist WordPress %s of nieuwer om juist te werken. Upgrade WordPress alvorens Gutenberg te activeren."

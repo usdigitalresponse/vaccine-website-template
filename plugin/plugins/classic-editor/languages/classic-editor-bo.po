@@ -1,0 +1,56 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Tibetan
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-22 02:03:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: bo\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:456
+msgid "Default Editor"
+msgstr "སོར་བཞག་གི་རྩོམ་སྒྲིག་ཆས།"
+
+#: classic-editor.php:489
+msgid "Change settings"
+msgstr "སྒྲིག་འགོད་བརྗེ་འགྱུར།"
+
+#: classic-editor.php:476
+msgid "Default editor for all sites"
+msgstr "དྲ་ཚིགས་ཡོངས་ཀྱི་སོར་བཞག་གི་རྩོམ་སྒྲིག་ཆས།"
+
+#: classic-editor.php:472
+msgid "Editor Settings"
+msgstr "རྩོམ་སྒྲིག་ཆས་སྒྲིག་འགོད།"
+
+#: classic-editor.php:492
+msgid "Allow site admins to change settings"
+msgstr "དྲ་ཚིགས་ཀྱི་དོ་དམ་པས་སྒྲིག་འགོད་བརྗེ་འགྱུར་བྱེད་ཆོག་པ།"
+
+#: classic-editor.php:638
+msgid "Editor"
+msgstr "རྩོམ་སྒྲིག་ཆས།"
+
+#: classic-editor.php:431
+msgid "No"
+msgstr "མིན།"
+
+#: classic-editor.php:427
+msgid "Yes"
+msgstr "ཡིན།"
+
+#: classic-editor.php:354
+msgid "Allow users to switch editors"
+msgstr "སྤྱོད་མཁན་གྱིས་རྩོམ་སྒྲིག་ཆས་བརྗེ་ཆོག"
+
+#: classic-editor.php:353
+msgid "Default editor for all users"
+msgstr "སྤྱོད་མཁན་ཡོངས་ཀྱི་སོར་བཞག་གི་རྩོམ་སྒྲིག་ཆས།"
+
+#: classic-editor.php:700
+msgid "Settings"
+msgstr "སྒྲིག་འགོད།"
