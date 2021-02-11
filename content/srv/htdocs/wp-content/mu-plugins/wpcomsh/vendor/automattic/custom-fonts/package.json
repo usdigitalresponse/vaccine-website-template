@@ -27,7 +27,9 @@
     "build:dist:preview": "browserify src/js/helpers/live-update.js --outfile js/jetpack-fonts-preview.js",
     "uglify-js": "npm run uglify-js:admin && npm run uglify-js:preview",
     "uglify-js:admin": "uglifyjs js/jetpack-fonts.js -c -m --output js/jetpack-fonts.js",
-    "uglify-js:preview": "uglifyjs js/jetpack-fonts-preview.js -c -m --output js/jetpack-fonts-preview.js"
+    "uglify-js:preview": "uglifyjs js/jetpack-fonts-preview.js -c -m --output js/jetpack-fonts-preview.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "bugs": {
     "url": "https://github.com/Automattic/custom-fonts/issues"
@@ -50,9 +52,11 @@
   "dependencies": {
     "autoprefixer": "^6.7.7",
     "browserify": "^14.1.0",
-    "debug": "~1.0.2",
+    "debug": "~2.6.9",
     "fvd": "^1.0.0",
-    "postcss-cli": "^3.0.0",
-    "uglify-js": "^3.8.1"
-  }
+    "postcss-cli": "^7.0.0",
+    "uglify-js": "^3.8.1",
+    "snyk": "^1.452.0"
+  },
+  "snyk": true
 }
