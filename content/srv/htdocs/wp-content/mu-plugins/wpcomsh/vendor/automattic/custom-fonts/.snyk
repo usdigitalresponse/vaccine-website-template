@@ -6,3 +6,5 @@ patch:
   SNYK-JS-LODASH-567746:
     - postcss-cli > postcss-reporter > lodash:
         patched: '2021-02-11T13:43:11.285Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2021-02-11T13:46:37.462Z'
