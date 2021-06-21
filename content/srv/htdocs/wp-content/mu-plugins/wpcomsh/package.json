@@ -14,7 +14,7 @@
 		"eslint-plugin-import": "^2.18.2",
 		"eslint-plugin-jest": "^22.15.1",
 		"jest": "^24.9.0",
-		"lodash": "^4.17.19",
+		"lodash": "^4.17.21",
 		"node-fetch": "^2.6.1",
 		"wp-prettier": "^1.1.7"
 	},
